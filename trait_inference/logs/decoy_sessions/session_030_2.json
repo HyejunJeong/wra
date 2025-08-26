@@ -1,0 +1,208 @@
+{
+  "persona_id": "persona_030",
+  "session_id": "session_2",
+  "queries": [
+    {
+      "query_id": "query_0",
+      "text": "as 18-year-old female two or more races catholic liberal off-customer service representatives, look for reviews of international literature.",
+      "dns_sequence": [
+        "px.ads.linkedin.com",
+        "trc.taboola.com",
+        "trc.taboola.com",
+        "px.ads.linkedin.com",
+        "m.adnxs.com",
+        "m.adnxs.com",
+        "m.adnxs.com",
+        "ib.adnxs.com",
+        "shftr.adnxs.net",
+        "msft-ssp-useast.adnxs.com",
+        "us-api.archive-digger.com",
+        "shftr.adnxs.net",
+        "msft-ssp-useast.adnxs.com",
+        "us-api.archive-digger.com",
+        "login.microsoftonline.com",
+        "login.live.com",
+        "shftr.adnxs.net",
+        "shftr.adnxs.net",
+        "shftr.adnxs.net",
+        "shftr.adnxs.net",
+        "shftr.adnxs.net",
+        "shftr.adnxs.net"
+      ],
+      "timestamps": [
+        1754812292.787,
+        1754812292.8,
+        1754812293.237,
+        1754812293.263,
+        1754812293.409,
+        1754812293.574,
+        1754812294.051,
+        1754812294.142,
+        1754812296.541,
+        1754812296.625,
+        1754812296.637,
+        1754812297.694,
+        1754812297.736,
+        1754812297.822,
+        1754812300.732,
+        1754812300.995,
+        1754812311.165,
+        1754812311.258,
+        1754812359.237,
+        1754812359.407,
+        1754812362.159,
+        1754812362.372
+      ],
+      "sizes": [
+        "unknown",
+        "unknown",
+        43,
+        95,
+        "unknown",
+        "unknown",
+        "unknown",
+        43,
+        "unknown",
+        "unknown",
+        "unknown",
+        29840,
+        0,
+        0,
+        "unknown",
+        1350,
+        "unknown",
+        29840,
+        "unknown",
+        29840,
+        "unknown",
+        29840
+      ]
+    },
+    {
+      "query_id": "query_1",
+      "text": "as 18-year-old female two or more races catholic liberal off-customer service representatives, read articles on renewable energy developments.",
+      "dns_sequence": [
+        "px.ads.linkedin.com",
+        "trc.taboola.com",
+        "px.ads.linkedin.com",
+        "px.ads.linkedin.com",
+        "trc.taboola.com",
+        "trc.taboola.com",
+        "m.adnxs.com",
+        "m.adnxs.com",
+        "m.adnxs.com",
+        "m.adnxs.com",
+        "ib.adnxs.com",
+        "login.microsoftonline.com",
+        "login.microsoftonline.com",
+        "login.live.com",
+        "login.live.com"
+      ],
+      "timestamps": [
+        1754812393.116,
+        1754812393.128,
+        1754812393.329,
+        1754812393.338,
+        1754812393.372,
+        1754812393.381,
+        1754812393.39,
+        1754812393.399,
+        1754812393.408,
+        1754812393.417,
+        1754812393.443,
+        1754812416.566,
+        1754812416.574,
+        1754812416.621,
+        1754812416.63
+      ],
+      "sizes": [
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        1350,
+        1350
+      ]
+    },
+    {
+      "query_id": "query_2",
+      "text": "as 18-year-old female two or more races catholic liberal off-customer service representatives, search for recent publications about blockchain technology.",
+      "dns_sequence": [
+        "px.ads.linkedin.com",
+        "trc.taboola.com",
+        "trc.taboola.com",
+        "m.adnxs.com",
+        "px.ads.linkedin.com",
+        "m.adnxs.com",
+        "m.adnxs.com",
+        "ib.adnxs.com",
+        "login.microsoftonline.com",
+        "login.microsoftonline.com",
+        "login.live.com",
+        "login.live.com"
+      ],
+      "timestamps": [
+        1754812499.242,
+        1754812499.252,
+        1754812499.694,
+        1754812499.705,
+        1754812499.72,
+        1754812499.734,
+        1754812499.745,
+        1754812499.755,
+        1754812533.118,
+        1754812533.129,
+        1754812533.393,
+        1754812533.404
+      ],
+      "sizes": [
+        "unknown",
+        "unknown",
+        43,
+        "unknown",
+        95,
+        "unknown",
+        "unknown",
+        43,
+        "unknown",
+        "unknown",
+        1350,
+        1350
+      ]
+    }
+  ],
+  "inter_query_gaps": [
+    30.744,
+    82.612
+  ],
+  "burst_metadata": {
+    "bursts": [
+      {
+        "start_time": 1754812292.787,
+        "end_time": 1754812362.372,
+        "num_requests": 22
+      },
+      {
+        "start_time": 1754812393.116,
+        "end_time": 1754812416.63,
+        "num_requests": 15
+      },
+      {
+        "start_time": 1754812499.242,
+        "end_time": 1754812533.404,
+        "num_requests": 12
+      }
+    ],
+    "total_bursts": 3,
+    "avg_burst_size": 16.33
+  }
+}

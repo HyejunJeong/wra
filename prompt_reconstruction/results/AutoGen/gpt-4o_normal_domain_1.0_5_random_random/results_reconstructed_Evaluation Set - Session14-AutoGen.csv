@@ -1,0 +1,199 @@
+Idx,prompts,domain_sequence,domain_count,reconstructed_prompt,sbert_similarity,llm_judge_similarity,original_prompt_triplets,reconstructed_prompt_triplets,obels_functional_equivalence,obels_domain_type_equivalence,obels_semantic_equivalence,obels_entity_granularity_tolerance
+1,A friend from Kenya is visiting you and you'd like to surprise him with by cooking a traditional Swahili dish. You want to learn about Swahili dishes and how to cook them. Find web pages about Swahili home cooking.,"africageographic.com, ukuri.travel, www.tuko.co.ke, cmp.inmobi.com, www.commonground.coop, www.youtube.com",6,"""What are some popular travel destinations in Africa? Are there any unique cultural experiences or traditional dishes to try in these places?""",0.5023870468139648,0.1,"1. (""learn"", ""cuisine"", ""Swahili dishes"")
+2. (""explore"", ""cooking_method"", ""Swahili home cooking"")
+3. (""get_info"", ""web_pages"", ""Swahili home cooking"")","[
+  (""explore"", ""travel"", ""destinations in Africa""),
+  (""learn"", ""cultural experiences"", ""unique cultural experiences in Africa""),
+  (""learn"", ""cuisine"", ""traditional dishes in Africa"")
+]",0.8,0.6,0.5,0.7
+2,"You want to know what city and state Dulles airport is in; what shuttles, ride-sharing vans, and taxi cabs connect the airport to other cities; what hotels are close to the airport; where cheap off-airport parking is; and where metro stops close to Dulles airport are.","www.expedia.com, parkingnearairports.io, unpkg.com, mc.yandex.ru, addstrap-ui.addshoppers.com, shopper.shop.pe",6,"""Find the best deals on parking near airports and compare prices. Are there any discounts or promotions available for booking through travel websites like Expedia?""",0.19861885905265808,0.2,"[
+  (""get_info"", ""airport"", ""Dulles airport""),
+  (""get_info"", ""transportation"", ""shuttles""),
+  (""get_info"", ""transportation"", ""ride-sharing vans""),
+  (""get_info"", ""transportation"", ""taxi cabs""),
+  (""get_info"", ""hotel"", ""hotels near Dulles airport""),
+  (""get_info"", ""parking"", ""cheap off-airport parking""),
+  (""get_info"", ""transportation"", ""metro stops near Dulles airport"")
+]","[
+  (""explore"", ""parking"", ""deals near airports""),
+  (""compare"", ""parking"", ""prices""),
+  (""get_info"", ""travel websites"", ""discounts or promotions"")
+]",0.5,0.8,0.4,0.6
+3,Suppose you have earned a Masters degree in Business. You want to find information to help you decide whether it is worth getting a PhD in Business or not. Find web pages that will help with a cost/benefit analysis of advanced education in Business.,"www.admit.me, tags.srv.stackadapt.com, fullyfundedpg.com, secure.gravatar.com, www.youtube.com",5,"""What are the best strategies and resources for securing a fully funded postgraduate scholarship?""",0.2739032506942749,0.2,"[
+  (""decide"", ""academic_field"", ""PhD in Business""),
+  (""analyze"", ""academic_field"", ""advanced education in Business""),
+  (""get_info"", ""web_pages"", ""cost/benefit analysis of advanced education in Business"")
+]","[
+  (""learn"", ""scholarship"", ""strategies for securing a fully funded postgraduate scholarship""),
+  (""explore"", ""scholarship"", ""resources for securing a fully funded postgraduate scholarship"")
+]",0.2,0.5,0.2,0.0
+4,"Your friend would like to quit smoking. You would like to provide him with relevant information about: different ways to quit smoking, programs available to help quit smoking, benefits of quitting smoking, second effects of quitting smoking, using hypnosis to quit smoking, using the cold turkey method to quit smoking","pub.doubleverify.com, rvo-cohesion.medicalnewstoday.com, media.post.rvohealth.io, www.medicalnewstoday.com, traveler.content.now.optum.com, htlb.casalemedia.com, www.lung.org, dev.visualwebsiteoptimizer.com, dx.mountain.com, www.webmd.com, survey.o.webmd.com, c.evidon.com, healthline-activation-prod.healthline.com",13,"""What are the causes, symptoms, and treatments for lung diseases? How can one maintain lung health and prevent respiratory issues?""",0.42274266481399536,0.1,"[
+  (""learn"", ""treatment_method"", ""different ways to quit smoking""),
+  (""learn"", ""program"", ""programs available to help quit smoking""),
+  (""learn"", ""benefit"", ""benefits of quitting smoking""),
+  (""analyze"", ""effect"", ""side effects of quitting smoking""),
+  (""learn"", ""treatment_method"", ""using hypnosis to quit smoking""),
+  (""learn"", ""treatment_method"", ""using the cold turkey method to quit smoking"")
+]","[
+  (""analyze"", ""lung_disease"", ""causes""),
+  (""summarize"", ""lung_disease"", ""symptoms""),
+  (""explore"", ""lung_disease"", ""treatments""),
+  (""learn"", ""lung_health"", ""maintenance""),
+  (""explore"", ""respiratory_issues"", ""prevention"")
+]",0.5,0.6,0.4,0.5
+5,Suppose you are writing an article about face transplants. You want general information about face transplants and how face transplants affect the lives of patients. Find web pages about face transplants.,"my.clevelandclinic.org, pub.doubleverify.com, www.mayoclinic.org, nexus.ensighten.com, tagdelivery.mayoclinic.org, s.go-mpulse.net, xih9lsprjt.kameleoon.io, www.youtube.com, www.cnn.com, lightning.cnn.com, steadfastseat.com, btloader.com, tag.bounceexchange.com, www.dianomi.com, get.s-onetag.com, us.cnn.com, z.cdp-dev.cnn.com, news.metrohealth.org, content.presspage.com, www.magazine.medicaltourism.com",20,"""What are the benefits and risks of medical tourism? How do hospitals like Cleveland Clinic and Mayo Clinic compare in terms of services offered to international patients? Are there any recent news or case studies related to medical tourism?""",0.29983770847320557,0.0,"[
+  (""get_info"", ""medical_procedure"", ""face transplants""),
+  (""analyze"", ""medical_procedure"", ""impact on patients' lives""),
+  (""explore"", ""web_pages"", ""face transplants"")
+]","1. (""analyze"", ""medical_tourism"", ""benefits and risks"")
+2. (""compare"", ""hospitals"", ""Cleveland Clinic and Mayo Clinic"")
+3. (""get_info"", ""news"", ""recent news or case studies related to medical tourism"")",0.8,0.8,0.5,0.6
+6,One of your friends from Kenya invited you to attend a party in his house and have a taste of traditional Swahili dishes. You would like to find some general information about Swahili dishes. Find web pages that describe traditional Swahili dishes.,"africageographic.com, ukuri.travel, www.commonground.coop, www.youtube.com, 1.bp.blogspot.com, linguafonica.com",6,"""What are some traditional African dishes and their cultural significance? Can you find recipes and cooking techniques for these dishes? Are there any videos that demonstrate how to prepare them?""",0.6873661279678345,0.5,"[
+  (""get_info"", ""cuisine"", ""Swahili dishes""),
+  (""target"", ""event"", ""party""),
+  (""target"", ""location"", ""Kenya"")
+]","[
+  (""learn"", ""cuisine"", ""traditional African dishes""),
+  (""analyze"", ""cuisine"", ""cultural significance of traditional African dishes""),
+  (""explore"", ""cooking_method"", ""recipes for traditional African dishes""),
+  (""explore"", ""cooking_method"", ""cooking techniques for traditional African dishes""),
+  (""watch"", ""cooking_method"", ""videos demonstrating preparation of traditional African dishes"")
+]",0.5,0.8,0.7,0.6
+7,"In 2000, the Russian nuclear submarine Kursk sank in the Barents Sea. You want to try to understand: How did the political climate in Russia at the time contribute to the accident and exarcerbate its effects? Find web pages that explain how the sinking related to Russian politics.","www.rferl.org, tags.rferl.org, www.youtube.com, gdb.rferl.org, onesignal.com, www.history.co.uk, sdk.ocmthood.com, admin-pipeline.upsun-uk-1.observability-pipeline.blackfire.io, en.wikipedia.org, upload.wikimedia.org, dev.visualwebsiteoptimizer.com, engage.email.britannica.com, www.britannica.com, d9.flashtalking.com, code.getmdl.io, pbs-raptive-us.ay.delivery, prebid.production.adthrive.com, ic.ortto.app, pghub.io, exchange.postrelease.com",20,"""What are the historical and cultural impacts of the Cold War in Eastern Europe? Can you provide detailed insights from reliable sources?""",0.4294549226760864,0.2,"[
+  (""analyze"", ""event"", ""Kursk submarine sinking""),
+  (""learn"", ""political climate"", ""Russia 2000""),
+  (""get_info"", ""web pages"", ""Kursk submarine and Russian politics"")
+]","[
+  (""analyze"", ""historical_cultural_impact"", ""Cold War in Eastern Europe""),
+  (""get_info"", ""reliable_sources"", ""Cold War in Eastern Europe"")
+]",0.8,0.5,0.5,0.6
+8,"You heard something about a Russian submarine Kursk sinking today, and want to search to know more details about this event. When did the submarine sink? Who was the on-board commander of the submarine? The submarine was part of which Russian fleet? How many crewmen were lost in the disaster? Which countries expressed regret about the loss? In what sea did the submarine sink? Which U.S. submarines were reportedly in the area?","en.wikipedia.org, upload.wikimedia.org, www.eurasiantimes.com, docs.rferl.org, gdb.rferl.org",5,"""What are the current geopolitical tensions between Russia and Ukraine? What are the historical contexts and recent developments in this conflict?""",0.2877961993217468,0.0,"[
+  (""learn"", ""event"", ""Kursk submarine sinking""),
+  (""get_info"", ""event"", ""date of sinking""),
+  (""get_info"", ""event"", ""on-board commander""),
+  (""get_info"", ""event"", ""Russian fleet""),
+  (""get_info"", ""event"", ""number of crewmen lost""),
+  (""get_info"", ""event"", ""countries expressing regret""),
+  (""get_info"", ""event"", ""sea of sinking""),
+  (""get_info"", ""event"", ""U.S. submarines in the area"")
+]","[
+  (""learn"", ""geopolitical_tensions"", ""Russia and Ukraine""),
+  (""analyze"", ""geopolitical_tensions"", ""historical contexts""),
+  (""analyze"", ""geopolitical_tensions"", ""recent developments"")
+]",0.5,0.5,0.4,0.6
+9,"""Bollywood"", the film industry based in Mumbai, India, is one of the biggest and still fastest-growing film industries in the world. What policies and legislation has the government of India enacted to encourage its continued growth? Find web pages about the growth of Bollywood and its relation to Indian politics.","www.jetir.org, img1.wsimg.com, v2.zopim.com, asiatimes.com, btloader.com, wserver2.vidazoo.com, cds.connatix.com, usync.ingage.tech, cs.seedtag.com, vid.vidoomy.com, thediplomat.com, images.thediplomat.com, sync.sparteo.com, www.flashb.id, eu.fastcmp.com",15,"""What are the current geopolitical tensions in Asia, and how are they impacting international relations? What are the perspectives of different countries involved?""",0.1679263710975647,0.0,"[
+  (""learn"", ""film_industry"", ""Bollywood""),
+  (""analyze"", ""policy_area"", ""government policies and legislation for Bollywood growth""),
+  (""get_info"", ""web_pages"", ""growth of Bollywood and its relation to Indian politics"")
+]","[
+  (""learn"", ""geopolitical_tensions"", ""Asia""),
+  (""analyze"", ""international_relations"", ""impact of geopolitical tensions""),
+  (""explore"", ""perspectives"", ""different countries involved"")
+]",0.5,0.5,0.4,0.6
+10,"Suppose you are writing an essay about a tax on ""junk food"". In your essay, you need to argue whether it's a good idea for a government to tax junk food and high-calorie snacks. Find web pages supporting an argument in favor of a junk food tax.","www.drsamrobbins.com, www.dwin1.com, www.youtube.com, koi-3qnt4q6wbg.marketingautomation.services, smct.co, www.nutritionletter.tufts.edu, load.sumome.com, sumome.com, prospluscons.com, monu.delivery, wserver2.vidazoo.com, resources.infolinks.com, static-img.vidazoo.com, www.bmj.com, badges.altmetric.com, wisepops.net, www.medtargetsystem.com, gc.bcwat.com, rev.trendmd.com, foodypage.com",20,"""What are the health benefits and potential risks of different dietary supplements? Are there any expert recommendations or studies on their effectiveness and safety?""",0.2208396941423416,0.0,"[
+  (""learn"", ""tax_policy"", ""junk food tax""),
+  (""explore"", ""argument"", ""support for junk food tax""),
+  (""get_info"", ""web_pages"", ""arguments in favor of junk food tax"")
+]","[
+  (""analyze"", ""dietary_supplements"", ""health benefits""),
+  (""analyze"", ""dietary_supplements"", ""potential risks""),
+  (""learn"", ""dietary_supplements"", ""expert recommendations""),
+  (""learn"", ""dietary_supplements"", ""studies on effectiveness""),
+  (""learn"", ""dietary_supplements"", ""studies on safety"")
+]",0.2,0.2,0.0,0.0
+11,Do infants age 0-12 months experience different developmental milestones depending on culture?,"pressbooks.pub, pmc.ncbi.nlm.nih.gov, dap.digitalgov.gov, online.maryville.edu, whitelabel.2u.com, prospect-form-plugin.2u.com, prospect-form-packages.2u.com, www.bournemouth.ac.uk, cues.ttl.ai",9,"""What are the benefits and challenges of pursuing an online degree in the field of healthcare? Are there reputable universities offering such programs?""",-0.12864063680171967,0.0,"[
+  (""learn"", ""developmental_milestones"", ""infants 0-12 months""),
+  (""analyze"", ""cultural_influence"", ""developmental milestones"")
+]","[
+  (""analyze"", ""academic_field"", ""online degree in healthcare""),
+  (""explore"", ""academic_field"", ""reputable universities offering online healthcare programs"")
+]",0.0,0.2,0.0,0.0
+12,"You would like to write a report about interesting weddings traditions of different cultures, religions, and ethnic groups. Find information about wedding ceremonies that you think are the most fascinating and different than what you are used to.","www.brides.com, btloader.com, ak.sail-horizon.com, g.3gl.net, aim-tag.hcn.health, tru.am, www.medtargetsystem.com, www.vogue.com, globalservices.conde.digital, variants.conde.digital, s.skimresources.com, tag.bounceexchange.com, aam.a47b.com, static1.thetravelimages.com, static0.thetravelimages.com, www.thetravel.com, asset.fwpub1.com",17,"""What are the latest trends in destination weddings? Which locations are popular for such weddings? What are some tips for planning a destination wedding, including travel and accommodation arrangements?""",0.5698564052581787,0.1,"[
+  (""learn"", ""wedding traditions"", ""different cultures""),
+  (""learn"", ""wedding traditions"", ""religions""),
+  (""learn"", ""wedding traditions"", ""ethnic groups""),
+  (""explore"", ""wedding ceremonies"", ""fascinating traditions"")
+]","[
+  (""learn"", ""wedding_trends"", ""destination weddings""),
+  (""explore"", ""wedding_locations"", ""popular locations for destination weddings""),
+  (""plan"", ""wedding_planning"", ""destination wedding tips including travel and accommodation arrangements"")
+]",0.8,0.6,0.5,0.7
+13,"France won its first (and only) World Cup in 1998. Find information about the reaction of French people and institutions (such as stock markets), and studies about these reactions.","www.france24.com, sdk.privacy-center.org, s.france24.com, tms.fmm.io, www.researchgate.net, aim-tag.hcn.health, www.medtargetsystem.com, a.researchgate.net, live.primis.tech, video.primis.tech, htlb.casalemedia.com",11,"""What are the latest advancements in medical technology for treating chronic diseases? Are there any recent studies or reports on this topic? Can you find video content or news articles that discuss these advancements?""",0.10258489847183228,0.0,"[
+  (""get_info"", ""event"", ""France World Cup 1998""),
+  (""analyze"", ""reaction"", ""French people and institutions""),
+  (""learn"", ""study"", ""reactions to France World Cup 1998"")
+]","[
+  (""learn"", ""medical_technology"", ""chronic_diseases""),
+  (""get_info"", ""studies"", ""recent_advancements_in_medical_technology""),
+  (""explore"", ""media_content"", ""video_content_on_medical_advancements""),
+  (""explore"", ""media_content"", ""news_articles_on_medical_advancements"")
+]",0.2,0.2,0.0,0.0
+14,"For a philosophy assignment, you need to compare evidence that supports the existence of God to evidence that supports the naturalism theory, and infer whether God exists or not. Find web pages to help support your argument.","bible.org, netbible.org, labs.bible.org, s.seedtag.com, htlb.casalemedia.com, public.servenobid.com, gosrv.pixfuture.com, upload.wikimedia.org, en.wikipedia.org, www.naturalism.org, plato.stanford.edu",11,"""What are the main differences between naturalism and biblical teachings? How do these philosophies compare in terms of their views on morality and the meaning of life?""",0.4424319565296173,0.3,"[
+  (""compare"", ""philosophy"", ""evidence for the existence of God""),
+  (""compare"", ""philosophy"", ""evidence for naturalism theory""),
+  (""analyze"", ""philosophy"", ""existence of God""),
+  (""get_info"", ""web pages"", ""supporting arguments"")
+]","[
+  (""compare"", ""philosophy"", ""naturalism and biblical teachings""),
+  (""analyze"", ""philosophy"", ""views on morality""),
+  (""analyze"", ""philosophy"", ""meaning of life"")
+]",0.8,1.0,0.4,0.5
+15,"For economic reasons, you wish to switch from regular phones to internet phone services. You want to know: the best internet phone services, the cheapest internet phone services, the providers of VOIP internet phone services, features that great VOIP services have, providers that offer free calls from the US to some European countries, expert reviews about VOIP providers.","umbrella.data.naturalint.com, images.top10.com, umbrella.s3.naturalint.com, display.popt.in, www.top10.com, top5voipproviders.com",6,"""What are the best VoIP providers available? Can you provide a comparison of the top options and their features?""",0.6600832343101501,0.7,"[
+  (""explore"", ""internet_phone_services"", ""best internet phone services""),
+  (""compare"", ""internet_phone_services"", ""cheapest internet phone services""),
+  (""get_info"", ""VOIP_providers"", ""providers of VOIP internet phone services""),
+  (""analyze"", ""VOIP_services"", ""features that great VOIP services have""),
+  (""explore"", ""VOIP_providers"", ""providers that offer free calls from the US to some European countries""),
+  (""learn"", ""VOIP_providers"", ""expert reviews about VOIP providers"")
+]","[
+  (""explore"", ""VoIP providers"", ""best VoIP providers""),
+  (""compare"", ""VoIP providers"", ""top options and their features"")
+]",0.8,1.0,0.7,0.9
+16,"In your attempt to get fit, you are looking for information on what possibilities (types of physical exercises, diets, etc...) will help you achieve your fitness goal. Find web pages about different weight loss possibilities.","pub.doubleverify.com, rvo-cohesion.healthline.com, media.post.rvohealth.io, content.jwplatform.com, traveler.content.now.optum.com, assets-jpcust.jwpsrv.com, aim-tag.hcn.health, ak.sail-horizon.com, www.medtargetsystem.com, www.healthline.com, www.youtube.com, www.verywellfit.com, btloader.com, g.3gl.net, tru.am, www.verywellhealth.com, tag.tapad.com, m.media-amazon.com",18,"""What are the best exercises and nutritional tips for maintaining a healthy lifestyle? Are there any recommended products or supplements available on Amazon that can support this?""",0.4469599723815918,0.6,"[
+  (""explore"", ""fitness"", ""physical exercises""),
+  (""explore"", ""fitness"", ""diets""),
+  (""get_info"", ""weight_loss"", ""possibilities"")
+]","[
+  (""learn"", ""exercise"", ""best exercises for maintaining a healthy lifestyle""),
+  (""learn"", ""nutrition"", ""nutritional tips for maintaining a healthy lifestyle""),
+  (""explore"", ""product"", ""recommended products or supplements on Amazon for a healthy lifestyle"")
+]",0.8,0.8,0.6,0.7
+17,A friend has been complaining for months that she is unhappy with her life. She has also mentioned that she can't easily sleep at nights. You think that she may be suffering from depression. You want to understand if this is the case and how you could assist her in getting some help from medical professionals.,"my.clevelandclinic.org, pub.doubleverify.com, www.mayoclinic.org, nexus.ensighten.com, s.go-mpulse.net, tagdelivery.mayoclinic.org, xih9lsprjt.kameleoon.io, www.youtube.com, shinemh.com, www.rexulti.com, unpkg.com",11,"""What are the treatment options and side effects for depression? How effective is Rexulti in treating depression, and what do experts from Mayo Clinic and Cleveland Clinic say about it?""",0.33128321170806885,0.3,"[
+  (""analyze"", ""symptom"", ""depression""),
+  (""learn"", ""treatment_method"", ""assistance from medical professionals""),
+  (""get_info"", ""symptom"", ""unhappiness""),
+  (""get_info"", ""symptom"", ""insomnia"")
+]","[
+  (""analyze"", ""treatment_method"", ""depression""),
+  (""get_info"", ""treatment_method"", ""side effects""),
+  (""evaluate"", ""treatment_method"", ""Rexulti""),
+  (""learn"", ""expert_opinion"", ""Mayo Clinic""),
+  (""learn"", ""expert_opinion"", ""Cleveland Clinic"")
+]",0.5,0.6,0.4,0.5
+18,Pseudocyesis is the appearance of clinical and/or subclinical signs and symptoms associated with pregnancy when the organism is not actually pregnant. What are the recent advances in understanding the causes of this disorder?,"aim-tag.hcn.health, www.researchgate.net, sdk.privacy-center.org, www.medtargetsystem.com, a.researchgate.net, live.primis.tech, video.primis.tech, htlb.casalemedia.com, www.uptodate.com, onlinelibrary.wiley.com, servedbydoceree.doceree.com, cmp.osano.com, hm.baidu.com, g.3gl.net",14,"""What are the latest research findings on a specific medical condition? How can I access peer-reviewed articles and expert opinions on this topic?""",0.2524090111255646,0.4,"[
+  (""learn"", ""medical_condition"", ""pseudocyesis""),
+  (""explore"", ""research"", ""recent advances in causes of pseudocyesis"")
+]","[
+  (""learn"", ""medical_condition"", ""latest research findings""),
+  (""get_info"", ""academic_articles"", ""peer-reviewed articles""),
+  (""get_info"", ""expert_opinions"", ""expert opinions"")
+]",0.8,1.0,0.5,0.6
+19,You are planning a winter vacation to the Pocono Mountains region in Pennsylvania in the US. Where will you stay? What will you do while there? How will you get there?,"www.vrbo.com, media.iceportal.com, imgservice.rentbyowner.com, bpprodstorage.blob.core.windows.net, www.poconomountains.com, unpkg.com, player.vimeo.com, tags.srv.stackadapt.com, collector-51300.us.tvsquared.com, www.youtube.com",10,"""What are some popular vacation rentals in the Pocono Mountains? Can you find videos or images showcasing these rentals and the surrounding area?""",0.4934556484222412,0.5,"[
+  (""plan"", ""travel"", ""winter vacation to the Pocono Mountains""),
+  (""get_info"", ""accommodation"", ""places to stay in the Pocono Mountains""),
+  (""explore"", ""activities"", ""things to do in the Pocono Mountains""),
+  (""get_info"", ""transportation"", ""how to get to the Pocono Mountains"")
+]","[
+  (""explore"", ""vacation_rental"", ""Pocono Mountains""),
+  (""get_info"", ""media"", ""videos or images showcasing vacation rentals and surrounding area"")
+]",0.8,0.8,0.5,0.6
+20,"You have decided that you want to reduce the use of air conditioning in your house. You've thought that if you could protect the roof being overly hot due to sun exposure, you could keep the house temperature low without the excessive use of air conditioning. Find information of whether this is possible and how it could be done.","www.restorationroofing.com, home.howstuffworks.com, www.howstuffworks.com, ob.system1onesource.com, 9g6grky5gsg8adoov.ay.delivery, rwebf6pm2xtmbazkm.ay.delivery, htlb.casalemedia.com, a.ad.gt, p.ad.gt, hb.minutemedia-prebid.com, aam.a47b.com, www.energy.gov, www.youtube.com, dap.digitalgov.gov, heatcure.com, heatcureint.com",16,"""What are the benefits and applications of heat curing technology in roofing? How does it work and what are the energy implications? Are there any instructional videos or guides available?""",0.4663063585758209,0.3,"[
+  (""learn"", ""home_improvement"", ""reducing air conditioning use""),
+  (""explore"", ""home_improvement"", ""roof protection methods""),
+  (""get_info"", ""home_improvement"", ""keeping house temperature low"")
+]","[
+  (""learn"", ""technology"", ""heat curing technology""),
+  (""analyze"", ""technology"", ""energy implications of heat curing technology""),
+  (""explore"", ""resources"", ""instructional videos or guides on heat curing technology""),
+  (""summarize"", ""applications"", ""benefits of heat curing technology in roofing"")
+]",0.5,0.5,0.4,0.6

@@ -1,0 +1,120 @@
+Prompt 1: A friend from Kenya is visiting you and you'd like to surprise him with by cooking a traditional Swahili dish. You want to learn about Swahili dishes and how to cook them. Find web pages about Swahili home cooking.
+
+Prompt 2: You want to know what city and state Dulles airport is in; what shuttles, ride-sharing vans, and taxi cabs connect the airport to other cities; what hotels are close to the airport; where cheap off-airport parking is; and where metro stops close to Dulles airport are.
+
+Prompt 3: Suppose you have earned a Masters degree in Business. You want to find information to help you decide whether it is worth getting a PhD in Business or not. Find web pages that will help with a cost/benefit analysis of advanced education in Business.
+
+Prompt 4: Your friend would like to quit smoking. You would like to provide him with relevant information about: different ways to quit smoking, programs available to help quit smoking, benefits of quitting smoking, second effects of quitting smoking, using hypnosis to quit smoking, using the cold turkey method to quit smoking
+
+Prompt 5: Suppose you are writing an article about face transplants. You want general information about face transplants and how face transplants affect the lives of patients. Find web pages about face transplants.
+
+Prompt 6: One of your friends from Kenya invited you to attend a party in his house and have a taste of traditional Swahili dishes. You would like to find some general information about Swahili dishes. Find web pages that describe traditional Swahili dishes.
+
+Prompt 7: In 2000, the Russian nuclear submarine Kursk sank in the Barents Sea. You want to try to understand: How did the political climate in Russia at the time contribute to the accident and exarcerbate its effects? Find web pages that explain how the sinking related to Russian politics.
+
+Prompt 8: You heard something about a Russian submarine Kursk sinking today, and want to search to know more details about this event. When did the submarine sink? Who was the on-board commander of the submarine? The submarine was part of which Russian fleet? How many crewmen were lost in the disaster? Which countries expressed regret about the loss? In what sea did the submarine sink? Which U.S. submarines were reportedly in the area?
+
+Prompt 9: "Bollywood", the film industry based in Mumbai, India, is one of the biggest and still fastest-growing film industries in the world. What policies and legislation has the government of India enacted to encourage its continued growth? Find web pages about the growth of Bollywood and its relation to Indian politics.
+
+Prompt 10: Suppose you are writing an essay about a tax on "junk food".  In your essay, you need to argue whether it's a good idea for a government to tax junk food and high-calorie snacks. Find web pages supporting an argument in favor of a junk food tax.
+
+Prompt 11: Do infants age 0-12 months experience different developmental milestones depending on culture?
+
+Prompt 12: You would like to write a report about interesting weddings traditions of different cultures, religions, and ethnic groups. Find information about wedding ceremonies that you think are the most fascinating and different than what you are used to.
+
+Prompt 13: France won its first (and only) World Cup in 1998. Find information about the reaction of French people and institutions (such as stock markets), and studies about these reactions.
+
+Prompt 14: For a philosophy assignment, you need to compare evidence that supports the existence of God to evidence that supports the naturalism theory, and infer whether God exists or not. Find web pages to help support your argument.
+
+Prompt 15: For economic reasons, you wish to switch from regular phones to internet phone services. You want to know: the best internet phone services, the cheapest internet phone services, the providers of VOIP internet phone services, features that great VOIP services have, providers that offer free calls from the US to some European countries, expert reviews about VOIP providers.
+
+Prompt 16: In your attempt to get fit, you are looking for information on what possibilities (types of physical exercises, diets, etc...) will help you achieve your fitness goal. Find web pages about different weight loss possibilities.
+
+Prompt 17: A friend has been complaining for months that she is unhappy with her life. She has also mentioned that she can't easily sleep at nights. You think that she may be suffering from depression. You want to understand if this is the case and how you could assist her in getting some help from medical professionals.
+
+Prompt 18: Pseudocyesis is the appearance of clinical and/or subclinical signs and symptoms associated with pregnancy when the organism is not actually pregnant. What are the recent advances in understanding the causes of this disorder?
+
+Prompt 19: You are planning a winter vacation to the Pocono Mountains region in Pennsylvania in the US. Where will you stay? What will you do while there? How will you get there?
+
+Prompt 20: You have decided that you want to reduce the use of air conditioning in your house. You've thought that if you could protect the roof being overly hot due to sun exposure, you could keep the house temperature low without the excessive use of air conditioning. Find information of whether this is possible and how it could be done.
+
+Prompt 21: Hydropower is considered one of the renewable sources of energy that could replace fossil fuels. Find information about the efficiency of hydropower, the technology behind it and any consequences building hydroelectric dams could have on the environment.
+
+Prompt 22: Amidst all the discussions about gun violence and gun control, you decided to find out whether gun control is a good remedy for mitigating gun violence, and whether banning certain types of guns would be something constitutional. Find web pages about gun control and its effects on gun violence.
+
+Prompt 23: In 1996, Martin Bryant of Hobart, Australia, killed 35 and wounded 23 at the Port Arthur prison colony. Find information about gun homicides in Australia before and after the shooting as well as resources that attempt to determine the effect of the Port Arthur Massacre on gun crime in Australia.
+
+Prompt 24: A friend has just advised you not to drink Red Bull. You are curious about what the side effects of Red Bull are? What are its health concerns? Which of its ingredients are problematic? What countries have banned the use of Red Bull? You also want to find information about US laws proposing a ban on drinks like Red Bull.
+
+Prompt 25: You would like to buy a dehumidifier. You want to know what makes a dehumidifier good value for money. Find web pages that will help you do so.
+
+Prompt 26: Suppose you'd like to take a week-long vacation.  Research some possible destinations.  How do they compare in terms of cost (travel + room and board + entertainment), value (things to do), and feasibility (ease of getting there)?
+
+Prompt 27: You would like to buy a dehumidifier. What are some of the technical specifications you should be looking at? What is the price range for dehumidifiers? What makes one dehumidifier more expensive than another?
+
+Prompt 28: A "designer dog" is a cross between two purebred dogs of two different breeds. "Designer" dogs are sometimes bred for practical purposes, but critics say they are more often bred as status symbols. Find resources describings pros and cons of the practice of crossing purebred dogs.
+
+Prompt 29: Where is Bollywood located? From what foreign city did Bollywood derive its name? What is the Bollywood equivalent of Beverly Hills? What is Bollywood's equivalent of the Oscars? Where does Bollywood rank in the world's film industries? Who are some of the Bollywood stars?
+
+Prompt 30: A friend from Kenya is visiting you and you'd like to surprise him with by cooking a traditional Swahili dish. You would like to search online to decide which dish you will cook at home.
+
+Prompt 31: You want to know about Churchill Downs. Some of the things you want to know include: the racing schedule at Churchill Downs, the seating chart, the breeders cup races, the Kentucky Derby museum.
+
+Prompt 32: Suppose you're planning a trip to the United States.  You will be there for a month and able to travel within a 150-mile radius of your destination.  With that constraint, what are the best cities to consider as possible destinations?
+
+Prompt 33: A friends of yours mentioned that glass and scientific advances have gone hand-in-hand throughout history with many notable examples such as Edison's light bulb. You want to collection some information about scientific glassblowing throughout the centuries.
+
+Prompt 34: You live in Connecticut and are considering a career move and being in the fire service interests you. You want to find out more about the Connecticut Fire Academy, what's involved in the training, where you need to go to attend training sessions and what kinds of skills you will develop during the programme
+
+Prompt 35: Merck and Co. is one of the largest pharmaceutical companies in the world, and a major lobbyist in Washington D.C. Find information about specific legislation or policies Merck has lobbied for or against. How has Merck's lobbying affected US policy?
+
+Prompt 36: Portugal, Spain, Ireland, Greece, and Cyprus are some of the countries that have experienced severe economic downturns during the ongoing Eurozone crisis.  What actions are political leaders in Europe taking to resolve their respective economic troubles?  How are these actions meant to help?
+
+Prompt 37: What is silicone roof coating? What is it best for? What are other solutions regarding roof coating? What is the best material to use if the purpose is cooling down the roof so that the house temperature remains low?
+
+Prompt 38: Suppose you are a high school student looking to apply for a State University of New York (SUNY) college. You desire to know how many SUNY colleges there are and their names, which ones offer a bioinformatics degree, which ones offer athletic scholarships, which ones offer international student scholarships, where is SUNY Albany hospital located, reports of SUNY Plattsburgh athletics.
+
+Prompt 39: What are the causes of the ongoing Eurozone crisis?  What are some of the possible long-term effects?  How are political and financial leaders responding to it?
+
+Prompt 40: What are typical developmental milestones for infants age 0-12 months in East Asian countries (for example, China, South Korea, Japan, Thailand, etc)
+
+Prompt 41: As a young information technology entrepreneur, you are looking for information about how to succeed in your new venture.  Find web pages that will help you make good decisions running your business.
+
+Prompt 42: A friend of yours was recently diagnosed with a type of collagen vascular disease. You want to find out more about the condition and what impact it may have on your friend's lifestyle, particularly whether they can continue to play sport.
+
+Prompt 43: For your vacation, you want to go on a road trip. You would like to know what makes a road trip enjoyable as opposed to a boring road trip. Find web pages that will help you plan a good road trip.
+
+Prompt 44: You are shopping for an internet phone service. You want to know determine what makes an internet phone service great. Find web pages that will help you make a decision.
+
+Prompt 45: For an article you're writing, you need to find information to help you argue whether the US government should reduce its spending on space exploration or not. Find web pages that will help support your argument.
+
+Prompt 46: You have just read that setting a target for percentage of new women employees and minority employees may be a good idea for a company. You want to understand if this is true. Find web pages that will help you understand arguments in favor of and against this policy.
+
+Prompt 47: What are some traditional Swahili dishes? What ingredients do they use to cook them? Are swahili people using any particular herb in their dishes? Could you find these ingredients in your country? Are there any recipes you can find online?
+
+Prompt 48: You have just been promoted to manager. You are looking for information about the best way to evaluate your employees. Find web pages that will help you perform employee evaluations.
+
+Prompt 49: How do water turbines work? What are the different types of water turbines? How are these different types related to Newton's second and third laws? Which type of turbine is more efficient in the production of hydroelectricity? Could Hydroelectric power replace fossil fuels and what is the cost per kWh? What are the environmental impacts? Is hydroelectric power really clean?
+
+Prompt 50: What are the effects of the ongoing Eurozone crisis on national economic indicators such as unemployment, GDP, public debt, etc?  Find documents that will help you compare and contrast different countries and some of the reasons for differences (and similarities) between them.
+
+Prompt 51: Where is Port Arthur? When did the massacre occur? What was the final death toll of the massacre? Who was the killer? What was the killer's nationality? What were the names of the victims? What were the nationalities of the victims?
+
+Prompt 52: You have just received two job offers, one in the US and the other in the UK. In order to choose where to go, you resort to comparing the health care and social security systems of both countries and choose the one that' best for workers. Find web pages about the two countries' "safety nets".
+
+Prompt 53: Suppose you are an employee at a US non-profit organization. You are trying to decide whether to contribute money to your employer-offered 403(b) retirement plan or to a personal IRA (Individual Retirement Account). Find resources that could help you decide which is best for your needs.
+
+Prompt 54: When was the Connecticut Fire Academy established? Where is it located? How long is the curriculum? Do firemen have to refurbish their skills at the academy periodically? How many graduates are there each year?
+
+Prompt 55: You are applying for a job at JP Morgan Chase as a computational scientist. You want to get ready for the interview by learning about their data centers, the locations of their data centers, the investment made on the data centers, where is their largest data center, how their data centers compare to Google, Microsoft and Facebook's data centers.
+
+Prompt 56: You are writing a summary article about the Pocono Mountains region. Find as many relevant articles as you can describing the region, things to see and do there (such as national parks, resorts, shopping, etc), and communities of people living there.
+
+Prompt 57: Lara Dutta of India was crowned Miss Universe in 2000, and between 1994 and 2000 women from India won two Miss Universe competitions, four Miss World competitions, and many less well-known competitions. To what extent can decisions and policies of the Indian government be credited with these wins?
+
+Prompt 58: You are a principal of a high school. You wish to decide whether to emphasize teacher peer evaluation or teachers' evaluation by students. You need information about advantages and disadvantages of each option. Find web pages about their relative benefits.
+
+Prompt 59: You are planning a trip to Philadelphia.  What are some things to see and do within 150 miles accessible by train or car?
+
+Prompt 60: You would like to donate money to charities that fights either HIV/AIDS or malaria in Africa. Your preference is to donate to charities that fight the disease (either HIV/AIDS or malaria) that mostly negatively impacts the economy of African countries. Find information about those charities.
+

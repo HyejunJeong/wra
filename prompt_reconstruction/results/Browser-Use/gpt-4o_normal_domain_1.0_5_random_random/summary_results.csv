@@ -1,0 +1,2 @@
+file,avg_sbert_similarity,avg_llm_judge_similarity,avg_obels_functional_equivalence,avg_obels_domain_type_equivalence,avg_obels_semantic_equivalence,avg_obels_entity_granularity_tolerance
+reconstructed_Evaluation Set - Session14-BrowserUse.csv,0.3679624101612717,0.24,0.54,0.5900000000000001,0.39000000000000007,0.485

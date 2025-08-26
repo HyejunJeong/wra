@@ -1,0 +1,11 @@
+{
+    "input_folder": "output/GPT-Researcher-Utility/gpt-4o_normal_domain_0.2_5_random_random",
+    "output_dir": "eval_results/GPT-Researcher-Utility",
+    "openai_api_key": "your_openai_key",
+    "model": "gpt-4o-mini",
+    "max_tokens": 800,
+    "temperature": 0.3,
+    "sbert_model": "all-MiniLM-L6-v2",
+    "llm_sleep": 0.1
+  }
+  

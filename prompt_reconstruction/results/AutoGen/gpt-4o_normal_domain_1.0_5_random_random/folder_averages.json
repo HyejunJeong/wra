@@ -1,0 +1,24 @@
+{
+  "reconstructed_Evaluation Set - Session14-AutoGen.csv": {
+    "avg_sbert_similarity": 0.35638014525175093,
+    "avg_llm_judge_similarity": 0.22499999999999995,
+    "avg_obels_functional_equivalence": 0.5650000000000001,
+    "avg_obels_domain_type_equivalence": 0.625,
+    "avg_obels_semantic_equivalence": 0.4000000000000001,
+    "avg_obels_entity_granularity_tolerance": 0.49499999999999994,
+    "num_samples": 20
+  },
+  "overall_folder_averages": {
+    "avg_sbert_similarity": 0.35638014525175093,
+    "avg_llm_judge_similarity": 0.22499999999999995,
+    "avg_obels_functional_equivalence": 0.5650000000000001,
+    "avg_obels_domain_type_equivalence": 0.625,
+    "avg_obels_semantic_equivalence": 0.4000000000000001,
+    "avg_obels_entity_granularity_tolerance": 0.49499999999999994,
+    "total_samples": 20,
+    "num_files": 1,
+    "processed_files": [
+      "reconstructed_Evaluation Set - Session14-AutoGen.csv"
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+Unnamed: 0,prompts,reconstructed_prompt,sbert_similarity,llm_judge_similarity,original_prompt_triplets,reconstructed_prompt_triplets,obels_functional_equivalence,obels_domain_type_equivalence,obels_semantic_equivalence,obels_entity_granularity_tolerance
+0,A friend from Kenya is visiting you and you'd like to surprise him with by cooking a traditional Swahili dish. You want to learn about Swahili dishes and how to cook them. Find web pages about Swahili home cooking.,"You need a recipe of ugali for two, using some simple ingredients available for ingredients that you can find in Tanzania. You need to find out the best way to use potatoes as ingredients to make ugali.",0.4129486083984375,0.4,"[
+  (""learn"", ""cuisine"", ""Swahili dishes""),
+  (""get_info"", ""cooking_method"", ""Swahili home cooking"")
+]","1. (""learn"", ""cooking_method"", ""ugali"")
+2. (""target"", ""cooking_method"", ""two servings"")
+3. (""target"", ""cooking_method"", ""simple ingredients"")
+4. (""target"", ""cooking_method"", ""ingredients available in Tanzania"")
+5. (""explore"", ""cooking_method"", ""potatoes as ingredients for ugali"")",0.8,0.8,0.6,0.7
+1,"You want to know what city and state Dulles airport is in; what shuttles, ride-sharing vans, and taxi cabs connect the airport to other cities; what hotels are close to the airport; where cheap off-airport parking is; and where metro stops close to Dulles airport are.","How do you find your nearest airport, what is the parking rate, where to find the nearest hotel near the airport and what are the best airport hotels.",0.6358748078346252,0.3,"[
+  (""get_info"", ""event"", ""Dulles airport location""),
+  (""explore"", ""transportation"", ""shuttles connecting Dulles airport""),
+  (""explore"", ""transportation"", ""ride-sharing vans connecting Dulles airport""),
+  (""explore"", ""transportation"", ""taxi cabs connecting Dulles airport""),
+  (""explore"", ""accommodation"", ""hotels close to Dulles airport""),
+  (""explore"", ""parking"", ""cheap off-airport parking near Dulles airport""),
+  (""explore"", ""transportation"", ""metro stops close to Dulles airport"")
+]","[
+  (""explore"", ""airport"", ""nearest airport""),
+  (""get_info"", ""parking"", ""parking rate""),
+  (""explore"", ""hotel"", ""nearest hotel near the airport""),
+  (""compare"", ""hotel"", ""best airport hotels"")
+]",0.8,0.6,0.5,0.7
+2,Suppose you have earned a Masters degree in Business. You want to find information to help you decide whether it is worth getting a PhD in Business or not. Find web pages that will help with a cost/benefit analysis of advanced education in Business.,"I'm looking for the best programs for pursuing a PhD in economics (and related topics) at top-tier US universities. Specifically, I want a list of the programs and rankings. You may want to highlight schools of economics, statistics, finance, etc. (e.g. quantitative methods, econometrics).",0.3955831825733185,0.3,"[
+  (""decide"", ""academic_field"", ""PhD in Business""),
+  (""analyze"", ""academic_field"", ""advanced education in Business""),
+  (""get_info"", ""web_pages"", ""cost/benefit analysis"")
+]","[
+  (""explore"", ""academic_field"", ""PhD in economics""),
+  (""get_info"", ""academic_field"", ""program rankings""),
+  (""highlight"", ""academic_field"", ""schools of economics""),
+  (""highlight"", ""academic_field"", ""statistics""),
+  (""highlight"", ""academic_field"", ""finance""),
+  (""highlight"", ""academic_field"", ""quantitative methods""),
+  (""highlight"", ""academic_field"", ""econometrics"")
+]",0.5,1.0,0.5,0.6
+3,"Your friend would like to quit smoking. You would like to provide him with relevant information about: different ways to quit smoking, programs available to help quit smoking, benefits of quitting smoking, second effects of quitting smoking, using hypnosis to quit smoking, using the cold turkey method to quit smoking",What is the prevalence of severe tobacco-use-related COPD among veterans with smoking histories?,0.2894868552684784,0.0,"[
+    (""learn"", ""treatment_method"", ""different ways to quit smoking""),
+    (""get_info"", ""program"", ""programs available to help quit smoking""),
+    (""analyze"", ""benefit"", ""benefits of quitting smoking""),
+    (""analyze"", ""side_effect"", ""second effects of quitting smoking""),
+    (""explore"", ""treatment_method"", ""using hypnosis to quit smoking""),
+    (""explore"", ""treatment_method"", ""using the cold turkey method to quit smoking"")
+]","[
+  (""learn"", ""health_condition"", ""severe tobacco-use-related COPD""),
+  (""target"", ""demographic"", ""veterans""),
+  (""target"", ""behavior"", ""smoking histories"")
+]",0.5,0.2,0.4,0.3
+4,Suppose you are writing an article about face transplants. You want general information about face transplants and how face transplants affect the lives of patients. Find web pages about face transplants.,How the military and the Federal Government can help and influence the donor system of the US (for organ harvesting and donation). Which organizations can make a difference in terms of public relations and donor relations (research of public/civic organizations) and also find out who can help disseminate information on organ donation from US to other countries.,0.3260484039783478,0.1,"[
+  (""get_info"", ""medical_procedure"", ""face transplants""),
+  (""analyze"", ""medical_outcome"", ""impact on patients""),
+  (""explore"", ""web_resources"", ""web pages about face transplants"")
+]","[
+    (""analyze"", ""donor_system"", ""military influence""),
+    (""analyze"", ""donor_system"", ""Federal Government influence""),
+    (""explore"", ""organization"", ""public relations organizations""),
+    (""explore"", ""organization"", ""donor relations organizations""),
+    (""get_info"", ""public/civic organizations"", ""impact on donor system""),
+    (""explore"", ""information_dissemination"", ""organ donation""),
+    (""get_info"", ""countries"", ""dissemination of organ donation information"")
+]",0.5,0.4,0.5,0.6
+5,One of your friends from Kenya invited you to attend a party in his house and have a taste of traditional Swahili dishes. You would like to find some general information about Swahili dishes. Find web pages that describe traditional Swahili dishes.,"Is there a connection between the spice trade and the creation of Zanzibar Spice City? How was the city influenced by the spice trade? Why were Zanzibar, Tanzania and Kenya involved in spice trade?",0.43138056993484497,0.2,"[
+  (""get_info"", ""cuisine"", ""traditional Swahili dishes""),
+  (""explore"", ""cuisine"", ""Swahili dishes"")
+]","[
+  (""analyze"", ""historical_event"", ""connection between the spice trade and the creation of Zanzibar Spice City""),
+  (""explore"", ""historical_event"", ""influence of the spice trade on Zanzibar Spice City""),
+  (""learn"", ""historical_event"", ""involvement of Zanzibar, Tanzania, and Kenya in the spice trade"")
+]",0.0,0.0,0.0,0.0
+6,"In 2000, the Russian nuclear submarine Kursk sank in the Barents Sea. You want to try to understand: How did the political climate in Russia at the time contribute to the accident and exarcerbate its effects? Find web pages that explain how the sinking related to Russian politics.",You have to find out about the history and use of the Baltic Fleet and the Ukrainian military during the Russian-Ukrainian war.,0.4728202223777771,0.1,"[
+  (""analyze"", ""event"", ""Kursk submarine sinking""),
+  (""learn"", ""political climate"", ""Russia 2000""),
+  (""get_info"", ""web pages"", ""Kursk sinking and Russian politics"")
+]","[
+  (""learn"", ""military_history"", ""Baltic Fleet""),
+  (""learn"", ""military_history"", ""Ukrainian military""),
+  (""analyze"", ""military_conflict"", ""Russian-Ukrainian war"")
+]",0.5,0.6,0.4,0.5
+7,"You heard something about a Russian submarine Kursk sinking today, and want to search to know more details about this event. When did the submarine sink? Who was the on-board commander of the submarine? The submarine was part of which Russian fleet? How many crewmen were lost in the disaster? Which countries expressed regret about the loss? In what sea did the submarine sink? Which U.S. submarines were reportedly in the area?","You want to find out which of the navy ships were closest to Crimea during the Black Sea incident. A ship that could be useful to you is the USS Roosevelt. A great deal of information about ship and aircraft movements in the area can be found at these online sites: www.wikipedia.org, www.theguardian.com, www.youtube.com, and www.history.com. Where can you find out about ships that have used Black Sea ports? What is the role of military ports?",0.47982272505760193,0.2,"[
+  (""learn"", ""event"", ""Kursk submarine sinking""),
+  (""get_info"", ""event"", ""date of sinking""),
+  (""get_info"", ""event"", ""on-board commander""),
+  (""get_info"", ""event"", ""Russian fleet""),
+  (""get_info"", ""event"", ""crewmen lost""),
+  (""get_info"", ""event"", ""countries expressing regret""),
+  (""get_info"", ""event"", ""sea of sinking""),
+  (""get_info"", ""event"", ""U.S. submarines in area"")
+]","[
+    (""learn"", ""event"", ""Black Sea incident""),
+    (""explore"", ""navy_ship"", ""USS Roosevelt""),
+    (""get_info"", ""website"", ""www.wikipedia.org""),
+    (""get_info"", ""website"", ""www.theguardian.com""),
+    (""get_info"", ""website"", ""www.youtube.com""),
+    (""get_info"", ""website"", ""www.history.com""),
+    (""get_info"", ""navy_ship"", ""ships that have used Black Sea ports""),
+    (""learn"", ""military_port"", ""role of military ports"")
+]",0.8,0.5,0.4,0.6
+8,"""Bollywood"", the film industry based in Mumbai, India, is one of the biggest and still fastest-growing film industries in the world. What policies and legislation has the government of India enacted to encourage its continued growth? Find web pages about the growth of Bollywood and its relation to Indian politics.",What are some of the movies where Vijay is playing the role of a police officer?,0.32729804515838623,0.0,"[
+  (""learn"", ""film_industry"", ""Bollywood""),
+  (""analyze"", ""policy_area"", ""government policies for Bollywood growth""),
+  (""get_info"", ""web_pages"", ""growth of Bollywood and Indian politics"")
+]","[
+  (""explore"", ""movie"", ""Vijay as police officer"")
+]",0.2,0.5,0.2,0.0
+9,"Suppose you are writing an essay about a tax on ""junk food"". In your essay, you need to argue whether it's a good idea for a government to tax junk food and high-calorie snacks. Find web pages supporting an argument in favor of a junk food tax.","You want to see which diet would result in reducing your weight, however, you also wish to be able to see what the different foods are good for. You want to do some research online. What is your current weight and your target weight?",0.20039036870002747,0.0,"[
+  (""learn"", ""tax_policy"", ""junk food tax""),
+  (""explore"", ""argument"", ""support for junk food tax""),
+  (""get_info"", ""web_pages"", ""arguments in favor of junk food tax"")
+]","[
+  (""explore"", ""diet"", ""weight reduction""),
+  (""learn"", ""food"", ""nutritional benefits""),
+  (""get_info"", ""current weight"", ""user's current weight""),
+  (""get_info"", ""target weight"", ""user's target weight"")
+]",0.5,0.6,0.4,0.5
+10,Do infants age 0-12 months experience different developmental milestones depending on culture?,"What are the dietary guidelines for pregnant women? Are there specific considerations, or recommendations you should know about?",0.12759996950626373,0.0,"[
+  (""learn"", ""developmental_milestones"", ""infants 0-12 months""),
+  (""analyze"", ""cultural_influence"", ""developmental milestones"")
+]","[
+  (""learn"", ""dietary_guidelines"", ""pregnant women""),
+  (""get_info"", ""considerations"", ""dietary recommendations for pregnant women"")
+]",0.5,0.5,0.4,0.5
+11,"You would like to write a report about interesting weddings traditions of different cultures, religions, and ethnic groups. Find information about wedding ceremonies that you think are the most fascinating and different than what you are used to.",How did your country's involvement in the Vietnam War impact your economic performance? What was the reason for your country's economic decline?,0.0574490912258625,0.0,"[
+  (""learn"", ""wedding_traditions"", ""different cultures, religions, and ethnic groups""),
+  (""get_info"", ""wedding_ceremonies"", ""fascinating and different traditions"")
+]","[
+  (""analyze"", ""country_involvement"", ""Vietnam War""),
+  (""analyze"", ""economic_performance"", ""economic decline"")
+]",0.0,0.0,0.0,0.0
+12,"France won its first (and only) World Cup in 1998. Find information about the reaction of French people and institutions (such as stock markets), and studies about these reactions.","You are a sports agent seeking clients for hotels that will host football clubs or training camps. You want to know what is there and what is missing in your region for that you can make a good choice (what type of hotels to host these football clubs or training camps, what is its capacity, etc. ).",0.1351795792579651,0.0,"[
+  (""get_info"", ""event"", ""France World Cup 1998 reaction""),
+  (""learn"", ""academic_field"", ""studies on reactions to France World Cup 1998""),
+  (""analyze"", ""economic_indicator"", ""French stock market reaction to France World Cup 1998"")
+]","[
+  (""explore"", ""hotel"", ""options for hosting football clubs or training camps""),
+  (""analyze"", ""hotel"", ""capacity and amenities for football clubs or training camps""),
+  (""decide"", ""hotel"", ""best choices for hosting football clubs or training camps""),
+  (""get_info"", ""region"", ""current hotel offerings for football clubs or training camps""),
+  (""get_info"", ""region"", ""gaps in hotel availability for football clubs or training camps"")
+]",0.5,0.4,0.3,0.5
+13,"For a philosophy assignment, you need to compare evidence that supports the existence of God to evidence that supports the naturalism theory, and infer whether God exists or not. Find web pages to help support your argument.","What is the historical context of the philosophy and physics of Benedict de Spinoza?  Is it possible that his ideas were influenced by, or, that he was influenced by, the ideas and speculations of Paracelsus?",0.1956009417772293,0.1,"[
+  (""compare"", ""philosophy"", ""evidence for the existence of God""),
+  (""compare"", ""philosophy"", ""evidence for naturalism theory""),
+  (""analyze"", ""philosophy"", ""existence of God""),
+  (""get_info"", ""web_pages"", ""supporting arguments for existence of God and naturalism"")
+]","[
+  (""learn"", ""academic_field"", ""historical context of the philosophy and physics of Benedict de Spinoza""),
+  (""analyze"", ""academic_field"", ""influence of Paracelsus on Benedict de Spinoza"")
+]",0.2,0.2,0.0,0.0
+14,"For economic reasons, you wish to switch from regular phones to internet phone services. You want to know: the best internet phone services, the cheapest internet phone services, the providers of VOIP internet phone services, features that great VOIP services have, providers that offer free calls from the US to some European countries, expert reviews about VOIP providers.",You are starting a new VoIP service for small companies and want to know what the latest prices are. You want a comparison of all different companies that offer this service. Find out the cheapest prices of VoIP software for small companies.,0.5443635582923889,0.4,"[
+  (""explore"", ""internet_phone_services"", ""best internet phone services""),
+  (""compare"", ""internet_phone_services"", ""cheapest internet phone services""),
+  (""get_info"", ""VOIP_providers"", ""providers of VOIP internet phone services""),
+  (""analyze"", ""VOIP_services"", ""features that great VOIP services have""),
+  (""get_info"", ""VOIP_providers"", ""providers that offer free calls from the US to some European countries""),
+  (""evaluate"", ""VOIP_providers"", ""expert reviews about VOIP providers"")
+]","[
+  (""explore"", ""VoIP service"", ""companies offering VoIP service""),
+  (""compare"", ""VoIP service"", ""prices of different companies""),
+  (""analyze"", ""VoIP software"", ""cheapest prices for small companies"")
+]",0.8,0.8,0.5,0.6
+15,"In your attempt to get fit, you are looking for information on what possibilities (types of physical exercises, diets, etc...) will help you achieve your fitness goal. Find web pages about different weight loss possibilities.",How do you use this data to help patients with cognitive impairment? How long do you use this information to decide whether the patient is able to be taken off this medication?,0.08300521969795227,0.0,"1. (explore, fitness, physical exercises)
+2. (explore, fitness, diets)
+3. (get_info, web_pages, weight loss possibilities)","[
+  (""learn"", ""treatment_method"", ""data usage for cognitive impairment""),
+  (""analyze"", ""treatment_method"", ""duration for medication assessment"")
+]",0.2,0.2,0.0,0.0
+16,A friend has been complaining for months that she is unhappy with her life. She has also mentioned that she can't easily sleep at nights. You think that she may be suffering from depression. You want to understand if this is the case and how you could assist her in getting some help from medical professionals.,You are interested in the impact that the Covid-19 pandemic is having on the prevalence of autism spectrum disorder amongst children. You want a more in-depth research on this topic and want to seek the answers to this question.,0.08727956563234329,0.0,"[
+  (""analyze"", ""symptom"", ""depression""),
+  (""learn"", ""treatment_method"", ""assistance from medical professionals"")
+]","[
+  (""analyze"", ""health"", ""impact of Covid-19 on autism spectrum disorder prevalence in children""),
+  (""learn"", ""research"", ""autism spectrum disorder prevalence during Covid-19"")
+]",0.5,0.5,0.4,0.3
+17,Pseudocyesis is the appearance of clinical and/or subclinical signs and symptoms associated with pregnancy when the organism is not actually pregnant. What are the recent advances in understanding the causes of this disorder?,You are investigating and are looking for clinical signs and symptoms of schizophrenia in women. The most common clinical sign you were looking for was unusual or disorganized speech.,0.33650434017181396,0.1,"[
+  (""learn"", ""medical_condition"", ""pseudocyesis""),
+  (""explore"", ""research"", ""recent advances in causes of pseudocyesis"")
+]","[
+  (""explore"", ""symptom"", ""schizophrenia in women""),
+  (""learn"", ""clinical_sign"", ""unusual or disorganized speech"")
+]",0.8,0.6,0.5,0.7
+18,You are planning a winter vacation to the Pocono Mountains region in Pennsylvania in the US. Where will you stay? What will you do while there? How will you get there?,Which mountain towns would you recommend and what ski conditions would you recommend to families looking for vacation to ski resorts in Pennsylvania? How many hotels in these cities that are family friendly?,0.5537668466567993,0.5,"[
+  (""plan"", ""travel"", ""winter vacation to the Pocono Mountains region in Pennsylvania""),
+  (""get_info"", ""accommodation"", ""places to stay in the Pocono Mountains""),
+  (""explore"", ""activities"", ""things to do in the Pocono Mountains""),
+  (""decide"", ""transportation"", ""how to get to the Pocono Mountains"")
+]","[
+  (""explore"", ""mountain_towns"", ""ski resorts in Pennsylvania""),
+  (""analyze"", ""ski_conditions"", ""families""),
+  (""get_info"", ""hotels"", ""family friendly hotels in these cities"")
+]",0.8,0.8,0.5,0.6
+19,"You have decided that you want to reduce the use of air conditioning in your house. You've thought that if you could protect the roof being overly hot due to sun exposure, you could keep the house temperature low without the excessive use of air conditioning. Find information of whether this is possible and how it could be done.","Find best strategies for mitigating heat in buildings in the United States, the United Kingdom, Canada and the People’s Republic of China. You want to find best strategies for lowering solar heat gain in your building’s façade and roof.",0.6107045412063599,0.8,"[
+  (""learn"", ""home_improvement"", ""reducing air conditioning use""),
+  (""get_info"", ""roof_insulation"", ""methods to protect roof from sun exposure""),
+  (""analyze"", ""energy_efficiency"", ""impact of roof protection on house temperature"")
+]","[
+  (""explore"", ""building_strategy"", ""mitigating heat""),
+  (""explore"", ""building_strategy"", ""lowering solar heat gain""),
+  (""target"", ""location"", ""United States""),
+  (""target"", ""location"", ""United Kingdom""),
+  (""target"", ""location"", ""Canada""),
+  (""target"", ""location"", ""People’s Republic of China"")
+]",0.8,0.5,0.6,0.7

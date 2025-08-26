@@ -1,0 +1,217 @@
+Unnamed: 0,prompts,reconstructed_prompt,sbert_similarity,llm_judge_similarity,original_prompt_triplets,reconstructed_prompt_triplets,obels_functional_equivalence,obels_domain_type_equivalence,obels_semantic_equivalence,obels_entity_granularity_tolerance
+0,"You want to find scientific publications on LHC (Large Hadron Collider (LHC)) collisions. Books or scientific video lectures are accepted, too. You want to study the most recent knowledge on the topic in depth. You expect scientific publications to be most helpful, including books (you might consider buying one), but scientific video lectures or encyclopedia might be interesting as well.","What is the LHC and what happens inside it? How does it work? How do you search for particles? What are examples of measurements and how does the detector work? When will they start taking data? How do they analyze the results? The LHC has recently been restarted, what does this entail?",0.4936372935771942,0.3,"1. (""learn"", ""scientific_publications"", ""LHC collisions"")
+2. (""explore"", ""books"", ""LHC collisions"")
+3. (""explore"", ""video_lectures"", ""LHC collisions"")
+4. (""analyze"", ""knowledge"", ""recent developments on LHC collisions"")","[
+  (""learn"", ""academic_field"", ""LHC""),
+  (""learn"", ""academic_field"", ""particle physics""),
+  (""explore"", ""academic_field"", ""particle detection methods""),
+  (""analyze"", ""academic_field"", ""measurements in particle physics""),
+  (""learn"", ""academic_field"", ""detector functionality""),
+  (""get_info"", ""event"", ""data taking schedule""),
+  (""analyze"", ""academic_field"", ""results analysis in particle physics""),
+  (""learn"", ""academic_field"", ""LHC restart implications"")
+]",0.8,0.8,0.7,0.9
+1,"You need information about (the pros and cons of) male circumcision You have to make a scientific overview of the latest knowledge on male circumcision, with evidence-based pros and cons, including medical, psychological, and social information. To this end, you first need to delve into the latest research, including papers, videos, books, pictures etc... Especially information on male circumcision itself is important, whereas for instance information solely focusing on the link between circumcision and HIV is less relevant.",How does circumcision reduce HIV transmission? Is there any scientific research published regarding this topic? Can you also explain what is male circumcision and its benefits?,0.7265191078186035,0.4,"[
+  (""learn"", ""medical"", ""male circumcision""),
+  (""analyze"", ""research"", ""pros and cons of male circumcision""),
+  (""explore"", ""academic_field"", ""latest research on male circumcision""),
+  (""get_info"", ""media"", ""papers""),
+  (""get_info"", ""media"", ""videos""),
+  (""get_info"", ""media"", ""books""),
+  (""get_info"", ""media"", ""pictures""),
+  (""exclude"", ""medical"", ""link between circumcision and HIV"")
+]","[
+  (""analyze"", ""health"", ""circumcision and HIV transmission""),
+  (""learn"", ""health"", ""male circumcision""),
+  (""summarize"", ""health"", ""benefits of male circumcision""),
+  (""get_info"", ""research"", ""scientific studies on circumcision and HIV"")
+]",0.8,0.8,0.7,0.9
+2,"You are looking for information about a z-machine You have no idea what a z-machine is, but the colleagues are talking about it in relation to nuclear energy; and you quickly want to get at least an idea of what it is. Most relevant are pages that cover the functionality of a Z-machine, like dedicated encyclopedia articles.","The objective of this assignment is to provide a report on fusion power and its history for a physics class. Your instructor has asked you to explore the topic and write a report about the history of fusion energy, with some technical details, but mostly an overview.",0.4492006003856659,0.0,"[
+  (""get_info"", ""nuclear_energy"", ""z-machine""),
+  (""learn"", ""functionality"", ""z-machine""),
+  (""explore"", ""encyclopedia_articles"", ""z-machine"")
+]","[
+  (""explore"", ""academic_field"", ""fusion power""),
+  (""summarize"", ""academic_field"", ""history of fusion energy""),
+  (""get_info"", ""academic_field"", ""technical details of fusion energy"")
+]",0.8,0.6,0.5,0.7
+3,"You are looking for a thorough text review of Howl from Allen Ginsberg. You are intrigued by Howl from Ginsberg and want to know more about it. Detailed reviews are therefore most relevant. Besides that, you are also interested in background information about Howl and Ginsberg, which you consider somewhat less relevant than the reviews.","How did the Beat Generation influence Allen Ginsberg's work? How was he influenced by his friendship with Jack Kerouac and William S. Burroughs? What was his stance on censorship? What was his relationship to the American Civil Liberties Union? How did the poem ""Howl"" come about, and why was it such an inspiration and catalyst for the Gay Rights movement in New York City? How were his views on race reflected in his poetry?",0.5741099715232849,0.4,"[
+  (""read"", ""literature"", ""Howl""),
+  (""learn"", ""literature"", ""Allen Ginsberg""),
+  (""get_info"", ""literature"", ""background information about Howl and Ginsberg"")
+]","[
+  (""analyze"", ""literary_movement"", ""Beat Generation influence on Allen Ginsberg's work""),
+  (""analyze"", ""friendship"", ""influence of Jack Kerouac and William S. Burroughs on Allen Ginsberg""),
+  (""analyze"", ""censorship"", ""Allen Ginsberg's stance on censorship""),
+  (""analyze"", ""organization"", ""Allen Ginsberg's relationship with the American Civil Liberties Union""),
+  (""explore"", ""poetry"", ""origin and impact of the poem 'Howl' on the Gay Rights movement in New York City""),
+  (""analyze"", ""race"", ""Allen Ginsberg's views on race reflected in his poetry"")
+]",0.8,0.8,0.6,0.7
+4,"You want to find information about engineering at linkedin. You have just graduated as an engineer, and made your LinkedIn account. You are now looking for information about engineering at LinkedIn. More specifically: you need to navigate to http://engineering.linkedin.com/, although related sites might be useful, too.","You want a comprehensive survey of how software engineers should operate in the industry today. Specifically, you are interested in understanding key practices and advice for success as an engineering manager. You also want a clear discussion of what ""good"" looks like in the role and how to develop a strategy for continual improvement throughout your career.",0.41343921422958374,0.1,"[
+  (""get_info"", ""engineering"", ""LinkedIn""),
+  (""target"", ""website"", ""http://engineering.linkedin.com/"")
+]","[
+  (""learn"", ""industry_practices"", ""software engineering""),
+  (""learn"", ""role"", ""engineering manager""),
+  (""analyze"", ""success_factors"", ""good engineering management""),
+  (""plan"", ""career_development"", ""strategy for continual improvement"")
+]",0.5,0.6,0.4,0.5
+5,"You are looking for audiobooks by Raymond E Feist. You need to read a book from that author, but you don't know what the options are, and you don't like reading. Hence, you are looking for audiobooks: which ones are available, and where to buy them. Most important are results that provide them for sale or for download. However, pages about the correct audiobooks are also highly relevant, even when you cannot directly download or buy them on the site.","The agent explores various digital sources for accessing free audiobooks. It looks into free public domain books, public libraries, YouTube channels with free audio books read aloud, and fan sites reading fan fiction. Most information it needs about this topic can be found on several websites, which the agent visits selectively.",0.637984573841095,0.2,"[
+  (""explore"", ""audiobook"", ""Raymond E Feist""),
+  (""get_info"", ""audiobook"", ""available options""),
+  (""decide"", ""purchase"", ""where to buy audiobooks""),
+  (""get_info"", ""audiobook"", ""pages about audiobooks"")
+]","[
+  (""explore"", ""digital_source"", ""free audiobooks""),
+  (""explore"", ""digital_source"", ""public domain books""),
+  (""explore"", ""digital_source"", ""public libraries""),
+  (""explore"", ""digital_source"", ""YouTube channels with free audiobooks""),
+  (""explore"", ""digital_source"", ""fan sites reading fan fiction""),
+  (""get_info"", ""website"", ""information about accessing free audiobooks"")
+]",0.8,0.6,0.5,0.7
+6,"You want to know what an M/G/1 queue is. You've come across that term, and want to know what it means. Results that specifically focus on 'what is an M/G/1 queue' are most important, but results that compare them to other queues might be interesting as well.","Suppose your call center receives an average of 120 incoming calls per hour (a Poisson Process) and is serviced by four servers, one after another, where the time required to handle a caller request is exponentially distributed with mean 3 minutes. Each server has its own queue (as customers are on hold). What is the probability that there are more than 4 customers being served or waiting in a particular queue? How many calls would this average out to? Is there at least a 95% chance that you have fewer than 6 people in any queue at any moment?",0.38223719596862793,0.0,"[
+  (""learn"", ""academic_field"", ""M/G/1 queue""),
+  (""compare"", ""academic_field"", ""M/G/1 queue"")
+]","[
+  (""analyze"", ""call_center_operation"", ""incoming_calls""),
+  (""analyze"", ""call_center_operation"", ""servers""),
+  (""analyze"", ""call_center_operation"", ""queue_length""),
+  (""analyze"", ""call_center_operation"", ""probability_of_customers""),
+  (""learn"", ""call_center_operation"", ""average_calls""),
+  (""learn"", ""call_center_operation"", ""95_percent_chance"")
+]",0.5,0.5,0.4,0.6
+7,"You are looking for the lyrics of the song ""Bangarang"" by Skrillex. You don't understand the words from the song, so you would like to take a look at the lyrics. A movie is not very handy, because there you would first have to find the specific parts you are looking for.","When writing, you may refer to a few sample lyrics from some of Kurt Cobain's most popular songs. The lyrics should be no more than 7 words long and should represent his musical style. If they exist, please reference the official lyrics and links where the lyrics were used. Please write about the most well-known songs, such as 'Smells like teen spirit'.",0.2513081431388855,0.1,"[
+  (""get_info"", ""music"", ""Bangarang by Skrillex""),
+  (""analyze"", ""lyrics"", ""Bangarang by Skrillex"")
+]","[
+  (""explore"", ""music"", ""Kurt Cobain's popular songs""),
+  (""learn"", ""lyrics"", ""Smells Like Teen Spirit""),
+  (""learn"", ""lyrics"", ""Kurt Cobain's musical style""),
+  (""get_info"", ""lyrics"", ""official lyrics and links"")
+]",0.8,0.8,0.5,0.6
+8,"You want to visit Porto and are trying to find travel tips, hotels, bars,... (none)","A user is interested in a tourist attraction in Lisbon Portugal. They visited restaurants' websites and reviews for Portuguese cuisine and vegetarian options, as well as a travel website, news and report websites for tourism investment, tourism's impact on economy and environment, a travel agency website, and a government website for tourism promotion.",0.5978825688362122,0.2,"[
+  (""explore"", ""travel"", ""Porto""),
+  (""get_info"", ""travel_tips"", ""Porto""),
+  (""explore"", ""accommodation"", ""hotels in Porto""),
+  (""explore"", ""entertainment"", ""bars in Porto"")
+]","1. (""explore"", ""tourist_attraction"", ""Lisbon"")
+2. (""learn"", ""cuisine"", ""Portuguese cuisine"")
+3. (""explore"", ""cuisine"", ""vegetarian options"")
+4. (""analyze"", ""tourism"", ""tourism investment"")
+5. (""analyze"", ""tourism"", ""tourism's impact on economy"")
+6. (""analyze"", ""tourism"", ""tourism's impact on environment"")
+7. (""get_info"", ""travel_agency"", ""travel agency services"")
+8. (""get_info"", ""government"", ""tourism promotion"")",0.8,0.7,0.5,0.6
+9,"You want to buy a sony vaio laptop. Your old sony vaio laptop finally broke down, but as you were a real fan of it, you want a new laptop (not second hand) from the same brand. You will buy it over the internet, and are not looking for reviews. Top results are online stores with a large assortment of vaio laptops.","What were the top 20 best-selling computers in 2021? According to Statista, Apple laptops and desktops had sales volumes of 73.5 million units (about 21% of overall sales) while Dell had sales volumes of 71.4 million units (about 20%). Lenovo also did well and sold about 64 million units (about 18.2%). Windows continues to be the dominant OS with over a 90% market share as of June 2022.",0.3646927773952484,0.0,"[
+  (""decide"", ""laptop"", ""sony vaio""),
+  (""plan"", ""purchase"", ""new sony vaio laptop""),
+  (""get_info"", ""online store"", ""large assortment of vaio laptops"")
+]","[
+  (""summarize"", ""sales_data"", ""top 20 best-selling computers in 2021""),
+  (""learn"", ""sales_data"", ""Apple laptops and desktops sales volume""),
+  (""learn"", ""sales_data"", ""Dell sales volume""),
+  (""learn"", ""sales_data"", ""Lenovo sales volume""),
+  (""learn"", ""market_share"", ""Windows OS market share as of June 2022"")
+]",0.2,0.2,0.2,0.0
+10,"You want to know how a .csv file can be imported in excel. You need to import a .csv file in Excel, but you don't know that data type, and have no idea how to open it in Excel. Especially Excel help pages from Microsoft on this topic are relevant, but dedicated videos or tutorials are also fine.","You're looking at the Microsoft Excel file that the business has sent you to input your data. However, some of the fields appear to be empty - i.e., they look like they haven't had any data entered into them yet. Is it possible to link my Excel spreadsheet with another system, so that whenever I update my data on the spreadsheet, it will be updated automatically on the system I'm using? If not, what do I need to do first to get this Excel spreadsheet set up and ready to receive my data?",0.4304800033569336,0.2,"[
+  (""learn"", ""data_import"", "".csv file""),
+  (""get_info"", ""Excel_help"", ""importing .csv files""),
+  (""explore"", ""tutorial"", ""videos on importing .csv files in Excel"")
+]","[
+  (""explore"", ""software_integration"", ""linking Excel with another system""),
+  (""learn"", ""Excel_setup"", ""setting up Excel spreadsheet for data input""),
+  (""plan"", ""data_management"", ""steps to prepare Excel for data entry"")
+]",0.8,0.6,0.5,0.7
+11,"You want to find the phone number of the 'Vom Fass'-shop in Ghent? You want to make an order in the Vom Fass shop in Ghent, by phone. Even though you are interested in general information about the shop, you are in the first place looking for contact details, and more specifically their phone number.","Suppose you were asked to write an essay or research paper on the ethics of ""call center burnout"". How would you go about writing it? What types of sources would you use and what would be their specific value in relation to your writing?",0.02875024825334549,0.0,"[
+  (""get_info"", ""shop"", ""Vom Fass shop in Ghent""),
+  (""target"", ""contact_details"", ""phone number of Vom Fass shop in Ghent""),
+  (""plan"", ""shop"", ""order in Vom Fass shop in Ghent by phone"")
+]","[
+  (""learn"", ""academic_field"", ""ethics of call center burnout""),
+  (""explore"", ""source_type"", ""types of sources for research""),
+  (""analyze"", ""source_type"", ""value of sources in writing"")
+]",0.0,0.0,0.0,0.0
+12,"You want to know what a BMW C1 motorcycle looks like. You read that the BMW C1 would be a special case, as a motorcycle, so you wonder what it looks like, that's all.","You're currently exploring motorcycle options for your commute but have never owned one before. As you've noticed in the market, there's so much choice around price and size ranges. To help you with your purchase decision, tell me more about what differences in power, size, and practicality that exist between scooters and motorcycles.",0.38157621026039124,0.2,"[
+  (""learn"", ""motorcycle"", ""BMW C1""),
+  (""get_info"", ""motorcycle"", ""appearance"")
+]","[
+  (""explore"", ""motorcycle"", ""options""),
+  (""compare"", ""motorcycle"", ""scooters and motorcycles""),
+  (""learn"", ""motorcycle"", ""differences in power""),
+  (""learn"", ""motorcycle"", ""differences in size""),
+  (""learn"", ""motorcycle"", ""differences in practicality"")
+]",0.8,1.0,0.5,0.6
+13,"You want to buy a tuning fork. You want to buy a tuning fork for tuning your violin (and more specifically, the actual, old-fashioned device, not an online or digital tool). Since you are looking for a musical tuning fork, everything that is related to testing your hearing, is not relevant. Especially online webshops that have tuning forks for sale are important.","You're given a list of papers on Music and Sound as Medicine. Your task is to compile these papers into a single document that will serve as a starting point for your research project on the subject. Make sure the documents are in the correct order, each with its title and author listed in a table of contents; do not copy any part of the article directly from the original paper unless it is the title and/or author of the work. When you're done, upload this paper via the submission link and you will be graded for your work.",0.19177821278572083,0.0,"[
+  (""decide"", ""musical instrument"", ""tuning fork""),
+  (""target"", ""musical instrument"", ""violin""),
+  (""explore"", ""online webshop"", ""tuning fork""),
+  (""analyze"", ""musical instrument"", ""old-fashioned tuning fork""),
+  (""get_info"", ""hearing test"", ""tuning fork"")
+]","[
+  (""plan"", ""research_project"", ""Music and Sound as Medicine""),
+  (""summarize"", ""academic_papers"", ""list of papers on Music and Sound as Medicine""),
+  (""organize"", ""document"", ""table of contents with titles and authors""),
+  (""upload"", ""submission"", ""compiled paper"")
+]",0.0,0.0,0.0,0.0
+14,"You would like to know how a Dewar flask works. In fact, you want to get to know the physical principles behind a Thermos vacuum flask.","What are the various types of stainless steel cryogenic vessels available? Stainless steel cryogenic vessels are used in many industries because they store and transport very cold liquefied gases, such as liquid nitrogen and helium. The market trends for cryogenic vessels can be analyzed to determine demand for this product. Some important information about this market would include its size, market dynamics, regional segments, competitive landscape and key players. What applications could a stainless steel cryogenic vessel be used for? Cryogenic vessel is an insulated container used to transport or store very cold liquefied gases at their boiling point in the liquid phase. Cryogenic storage tanks are used for storing liquids that must be kept at very low temperatures, so that they remain in a liquefied state. Stainless steel cryogenic vessels store products at ultra-low temperatures, making them suitable for a wide range of industrial applications where the storage and transportation of extremely cold liquefied gases are needed.",0.30546215176582336,0.2,"[
+  (""learn"", ""physical_principles"", ""Dewar flask""),
+  (""learn"", ""physical_principles"", ""Thermos vacuum flask"")
+]","[
+    (""explore"", ""cryogenic_vessel"", ""types of stainless steel cryogenic vessels""),
+    (""analyze"", ""cryogenic_vessel"", ""market trends for cryogenic vessels""),
+    (""get_info"", ""cryogenic_vessel"", ""market size""),
+    (""get_info"", ""cryogenic_vessel"", ""market dynamics""),
+    (""get_info"", ""cryogenic_vessel"", ""regional segments""),
+    (""get_info"", ""cryogenic_vessel"", ""competitive landscape""),
+    (""get_info"", ""cryogenic_vessel"", ""key players""),
+    (""learn"", ""cryogenic_vessel"", ""applications of stainless steel cryogenic vessels""),
+    (""summarize"", ""cryogenic_vessel"", ""function of cryogenic vessels"")
+]",0.8,0.6,0.5,0.7
+15,"You want to know what this acronym stands for. In your electronics textbook, you found the term ROADM, without further explanation. You want to know what the acronym stands for. Results that provide the answer and deal with the right context (=electronics) are the most relevant ones.","You are interested in information about Passive Optical Network (PON) devices, their applications and related market research analysis.",0.1721319705247879,0.1,"[  
+  (""get_info"", ""electronics"", ""ROADM""),  
+  (""target"", ""electronics"", ""acronym meaning"")  
+]","[
+  (""learn"", ""technology"", ""Passive Optical Network (PON) devices""),
+  (""explore"", ""applications"", ""Passive Optical Network (PON) devices""),
+  (""analyze"", ""market research"", ""Passive Optical Network (PON) devices"")
+]",0.5,0.6,0.4,0.5
+16,"You want to buy a used kindle. You want to buy a second hande e-reader, and you heard the Amazon Kindle would be the best. General information about the Kindle is interesting for making you choice, but you are mostly looking for specific offers of Kindles on shopping sites.","The user wants to buy an e-reader, and is trying to compare and contrast different e-readers from Amazon (Kindle), Barnes & Noble, and Kobo. The key factors they're concerned about are size, resolution, color, weight, battery life, touch screen, storage space, and cost. They also want to know if all devices can read books stored on external storage drives, and how many books can be stored on each device.",0.6275820732116699,0.5,"[
+  (""decide"", ""e-reader"", ""Kindle""),
+  (""get_info"", ""e-reader"", ""Kindle""),
+  (""explore"", ""shopping_site"", ""used Kindle offers"")
+]","1. (""compare"", ""e-reader"", ""Kindle"")
+2. (""compare"", ""e-reader"", ""Barnes & Noble"")
+3. (""compare"", ""e-reader"", ""Kobo"")
+4. (""analyze"", ""e-reader"", ""size"")
+5. (""analyze"", ""e-reader"", ""resolution"")
+6. (""analyze"", ""e-reader"", ""color"")
+7. (""analyze"", ""e-reader"", ""weight"")
+8. (""analyze"", ""e-reader"", ""battery life"")
+9. (""analyze"", ""e-reader"", ""touch screen"")
+10. (""analyze"", ""e-reader"", ""storage space"")
+11. (""analyze"", ""e-reader"", ""cost"")
+12. (""get_info"", ""e-reader"", ""external storage compatibility"")
+13. (""get_info"", ""e-reader"", ""storage capacity"")",0.8,1.0,0.5,0.6
+17,"You want to buy the book with that title, written by Jurasky (the 2008 edition). For your job, you need this book, and your boss is willing to pay. Therefore, you are looking for a convenient online offer. Since you are going to study the book, all related digital content, is welcome, too. You are however not interested in reviews, because you already know that book is top.Since you are going to study the book, all related digital content, is welcome, too. You are however not interested in reviews, because you already know that book is top.",You just bought a textbook for 100$ but now you want to sell it online in the UK. How do you find the best place (online) to sell textbooks and when will be the best time? Please find some academic articles on this topic if they exist.,0.415924608707428,0.0,"1. (""book"", ""book"", ""2008 edition by Jurasky"")
+2. (""explore"", ""online_offer"", ""2008 edition by Jurasky"")
+3. (""learn"", ""digital_content"", ""related to the book"")","[
+  (""explore"", ""online_marketplace"", ""best place to sell textbooks""),
+  (""analyze"", ""selling_timing"", ""best time to sell textbooks""),
+  (""learn"", ""academic_articles"", ""selling textbooks online"")
+]",0.8,0.6,0.5,0.7
+18,"You want to buy a lounge chair by eames. Your boyfriend would like to have an Eames lounch chair, so you want to find one online. First of all, you are looking for shopping sites that have them for sale. Since you don't know much about it, related information (e.g., pictures) is also welcome.","Your friend just bought you a mid-century modern home that needs some updating. Your friends all agree that your living room and dining room seating will need a good update. Look on eBay at some options that might work for you and your furniture budget. Make sure the chairs you select fit with your floor plan. Compare your budget to the typical selling prices for mid-century modern furniture to get a sense of whether your budget is reasonable. Consider where Herman Miller fits into the overall market, and identify other leading manufacturers in this space.",0.39498817920684814,0.3,"1. (""explore"", ""shopping_site"", ""Eames lounge chair"")
+2. (""get_info"", ""Eames lounge chair"", ""pictures"")","[
+  (""explore"", ""furniture"", ""options for living room and dining room seating""),
+  (""compare"", ""budget"", ""typical selling prices for mid-century modern furniture""),
+  (""analyze"", ""market"", ""Herman Miller's position in the mid-century modern furniture market""),
+  (""learn"", ""furniture"", ""other leading manufacturers in mid-century modern furniture"")
+]",0.8,0.8,0.5,0.6
+19,"You are looking for a sound file or video of one of Chopin's ballades, interpreted by Zimerman. You want to play one of Chopin's ballades, and in order to choose one, you want to listem to them first. Most relevant are interpretations of the ballades by Zimerman, as you heard he is a great Chopin interpreter. You don't want to pay for it, and you are not looking for scores either.","You are an amateur pianist who wants to improve your sight-reading skills. For instance, you may want to learn more about what sight-reading skills consist in (i.e., which elements are sight-readable and which aren't) and how you can improve upon your own skills.",0.24607431888580322,0.0,"[
+  (""explore"", ""music"", ""Chopin's ballades interpreted by Zimerman""),
+  (""decide"", ""music"", ""Chopin's ballades""),
+  (""get_info"", ""music"", ""sound file or video of Chopin's ballades"")
+]","[
+  (""learn"", ""music_skill"", ""sight-reading skills""),
+  (""explore"", ""music_skill"", ""methods to improve sight-reading"")
+]",0.5,0.8,0.4,0.5

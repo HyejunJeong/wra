@@ -1,0 +1,205 @@
+Idx,prompts,domain_sequence,domain_count,reconstructed_prompt,sbert_similarity,llm_judge_similarity,original_prompt_triplets,reconstructed_prompt_triplets,obels_functional_equivalence,obels_domain_type_equivalence,obels_semantic_equivalence,obels_entity_granularity_tolerance
+1,A friend from Kenya is visiting you and you'd like to surprise him with by cooking a traditional Swahili dish. You want to learn about Swahili dishes and how to cook them. Find web pages about Swahili home cooking.,"africageographic.com, www.tuko.co.ke, cookpad.com, www.commonground.coop, swahilimagic.com",5.0,"""What are some traditional Swahili dishes and their recipes? What ingredients are commonly used in Swahili cuisine, and can they be sourced from local co-ops or markets?""",0.6606218218803406,0.9,"1. (""learn"", ""cuisine"", ""Swahili dishes"")
+2. (""explore"", ""cooking_method"", ""Swahili home cooking"")
+3. (""get_info"", ""web_pages"", ""Swahili home cooking"")","[
+  (""learn"", ""cuisine"", ""traditional Swahili dishes""),
+  (""get_info"", ""cuisine"", ""recipes for traditional Swahili dishes""),
+  (""learn"", ""cuisine"", ""ingredients commonly used in Swahili cuisine""),
+  (""explore"", ""market"", ""sourcing ingredients from local co-ops or markets"")
+]",0.8,0.8,0.7,0.6
+2,"You want to know what city and state Dulles airport is in; what shuttles, ride-sharing vans, and taxi cabs connect the airport to other cities; what hotels are close to the airport; where cheap off-airport parking is; and where metro stops close to Dulles airport are.","www.flydulles.com, www.google.com, www.marriott.com, www.expedia.com, www.tripadvisor.com, www.kayak.com, spothero.com, chromewebdata, www.wmata.com, www.mwaa.com",10.0,"""I am planning a trip to Washington, D.C. and need information on flights, accommodations, and transportation options. What are the best hotels to stay at? How can I find affordable flights and convenient transportation around the city?""",0.40720468759536743,0.4,"[
+  (""get_info"", ""event"", ""Dulles airport location""),
+  (""explore"", ""transportation"", ""shuttles connecting Dulles airport""),
+  (""explore"", ""transportation"", ""ride-sharing vans connecting Dulles airport""),
+  (""explore"", ""transportation"", ""taxi cabs connecting Dulles airport""),
+  (""explore"", ""accommodation"", ""hotels close to Dulles airport""),
+  (""explore"", ""parking"", ""cheap off-airport parking near Dulles airport""),
+  (""explore"", ""transportation"", ""metro stops close to Dulles airport"")
+]","[
+  (""plan"", ""travel"", ""trip to Washington, D.C.""),
+  (""get_info"", ""flights"", ""affordable flights""),
+  (""get_info"", ""accommodations"", ""best hotels""),
+  (""get_info"", ""transportation"", ""convenient transportation options"")
+]",0.5,0.6,0.5,0.7
+3,Suppose you have earned a Masters degree in Business. You want to find information to help you decide whether it is worth getting a PhD in Business or not. Find web pages that will help with a cost/benefit analysis of advanced education in Business.,"www.admit.me, helpfulprofessor.com, www.hbs.edu, www.waldenu.edu, www.researchgate.net, catalog.utdallas.edu",6.0,"""I am considering applying to graduate programs in business and education. What are the admission requirements for these programs at top universities? Are there any online resources or forums where I can find advice or connect with current students?""",0.5491694211959839,0.3,"[
+  (""decide"", ""academic_field"", ""PhD in Business""),
+  (""analyze"", ""academic_field"", ""advanced education in Business""),
+  (""get_info"", ""web_pages"", ""cost/benefit analysis"")
+]","[
+  (""explore"", ""academic_field"", ""graduate programs in business""),
+  (""explore"", ""academic_field"", ""graduate programs in education""),
+  (""get_info"", ""admission_requirements"", ""top universities for business and education""),
+  (""explore"", ""online_resources"", ""forums for advice and connection with current students"")
+]",0.8,1.0,0.5,0.6
+4,"Your friend would like to quit smoking. You would like to provide him with relevant information about: different ways to quit smoking, programs available to help quit smoking, benefits of quitting smoking, second effects of quitting smoking, using hypnosis to quit smoking, using the cold turkey method to quit smoking","www.cdc.gov, www.lung.org, www.webmd.com, www.mdanderson.org, www.heart.org",5.0,"""What are the common causes and prevention methods for lung and heart diseases? What resources are available for patients and their families?""",0.4131287932395935,0.2,"[
+  (""learn"", ""treatment_method"", ""different ways to quit smoking""),
+  (""learn"", ""program"", ""programs available to help quit smoking""),
+  (""learn"", ""benefit"", ""benefits of quitting smoking""),
+  (""analyze"", ""effect"", ""second effects of quitting smoking""),
+  (""learn"", ""treatment_method"", ""using hypnosis to quit smoking""),
+  (""learn"", ""treatment_method"", ""using the cold turkey method to quit smoking"")
+]","[
+  (""analyze"", ""health"", ""lung diseases""),
+  (""analyze"", ""health"", ""heart diseases""),
+  (""explore"", ""health"", ""prevention methods for lung and heart diseases""),
+  (""get_info"", ""resources"", ""resources for patients and their families"")
+]",0.5,0.6,0.5,0.7
+5,Suppose you are writing an article about face transplants. You want general information about face transplants and how face transplants affect the lives of patients. Find web pages about face transplants.,"www.yalemedicine.org, www.brighamandwomens.org, www.google.com, www.mayoclinic.org, my.clevelandclinic.org, www.health.harvard.edu, stanfordhealthcare.org",7.0,"""What are the symptoms, causes, and treatment options for a specific medical condition? What do leading medical institutions and experts say about it?""",0.4314776659011841,0.2,"[
+  (""get_info"", ""medical_procedure"", ""face transplants""),
+  (""analyze"", ""medical_procedure"", ""impact on patients' lives""),
+  (""explore"", ""web_pages"", ""face transplants"")
+]","[
+  (""get_info"", ""symptom"", ""specific medical condition""),
+  (""analyze"", ""cause"", ""specific medical condition""),
+  (""explore"", ""treatment_method"", ""specific medical condition""),
+  (""learn"", ""medical_institution"", ""leading medical institutions""),
+  (""learn"", ""expert_opinion"", ""experts on specific medical condition"")
+]",0.8,0.6,0.5,0.4
+6,One of your friends from Kenya invited you to attend a party in his house and have a taste of traditional Swahili dishes. You would like to find some general information about Swahili dishes. Find web pages that describe traditional Swahili dishes.,"africageographic.com, www.tuko.co.ke, ling-app.medium.com, www.google.com, linguafonica.com",5.0,"""What are some key features of the Swahili language? How does it relate to the culture and geography of East Africa? Are there any resources or apps that can help in learning Swahili?""",0.5599066615104675,0.1,"[
+  (""get_info"", ""cuisine"", ""traditional Swahili dishes""),
+  (""target"", ""event"", ""party""),
+  (""target"", ""location"", ""Kenya"")
+]","[
+  (""learn"", ""language"", ""Swahili""),
+  (""analyze"", ""language"", ""relation to culture and geography of East Africa""),
+  (""explore"", ""resources"", ""apps for learning Swahili"")
+]",0.5,0.6,0.4,0.5
+7,"In 2000, the Russian nuclear submarine Kursk sank in the Barents Sea. You want to try to understand: How did the political climate in Russia at the time contribute to the accident and exarcerbate its effects? Find web pages that explain how the sinking related to Russian politics.","www.cia.gov, www.history.co.uk, www.jstor.org, www.npr.org, www.usni.org, www.rferl.org, status.thinktogether.org",7.0,"""What were the key events and strategies during the Cold War? How did they influence global politics? What role did intelligence agencies and military strategies play in this period?""",0.3600994944572449,0.1,"[
+  (""analyze"", ""event"", ""Kursk submarine sinking""),
+  (""learn"", ""political_climate"", ""Russia 2000""),
+  (""get_info"", ""web_pages"", ""Kursk sinking and Russian politics"")
+]","[
+  (""summarize"", ""historical_events"", ""Cold War""),
+  (""analyze"", ""global_politics"", ""Cold War""),
+  (""analyze"", ""intelligence_agencies"", ""Cold War""),
+  (""analyze"", ""military_strategies"", ""Cold War"")
+]",0.5,0.8,0.4,0.6
+8,"You heard something about a Russian submarine Kursk sinking today, and want to search to know more details about this event. When did the submarine sink? Who was the on-board commander of the submarine? The submarine was part of which Russian fleet? How many crewmen were lost in the disaster? Which countries expressed regret about the loss? In what sea did the submarine sink? Which U.S. submarines were reportedly in the area?","www.navytimes.com, military.subscribers.com, www.google.com, www.warhistoryonline.com",4.0,"""What are the key historical events and developments in naval warfare? How has the role of navies evolved over time, and what are the current trends and challenges faced by modern naval forces?""",0.4276311993598938,0.0,"[
+  (""learn"", ""event"", ""Kursk submarine sinking""),
+  (""get_info"", ""event"", ""date of sinking""),
+  (""get_info"", ""event"", ""on-board commander""),
+  (""get_info"", ""event"", ""Russian fleet""),
+  (""get_info"", ""event"", ""number of crewmen lost""),
+  (""get_info"", ""event"", ""countries expressing regret""),
+  (""get_info"", ""event"", ""sea of sinking""),
+  (""get_info"", ""event"", ""U.S. submarines in the area"")
+]","[
+  (""learn"", ""historical_events"", ""naval warfare""),
+  (""analyze"", ""role"", ""navies""),
+  (""explore"", ""trends"", ""modern naval forces""),
+  (""analyze"", ""challenges"", ""modern naval forces"")
+]",0.5,0.6,0.4,0.5
+9,"""Bollywood"", the film industry based in Mumbai, India, is one of the biggest and still fastest-growing film industries in the world. What policies and legislation has the government of India enacted to encourage its continued growth? Find web pages about the growth of Bollywood and its relation to Indian politics.","www.cnn.com, www.youtube.com, www.google.com, www.jetir.org",4.0,"""Find recent news and video content on a specific topic. Look for academic research articles related to this topic as well.""",0.21818646788597107,0.2,"[
+  (""learn"", ""film_industry"", ""Bollywood""),
+  (""analyze"", ""policy_area"", ""government policies for Bollywood growth""),
+  (""get_info"", ""web_pages"", ""growth of Bollywood and Indian politics"")
+]","[
+  (""explore"", ""news"", ""recent news""),
+  (""explore"", ""video_content"", ""specific topic""),
+  (""explore"", ""academic_research"", ""specific topic"")
+]",0.5,0.5,0.3,0.4
+10,"Suppose you are writing an essay about a tax on ""junk food"". In your essay, you need to argue whether it's a good idea for a government to tax junk food and high-calorie snacks. Find web pages supporting an argument in favor of a junk food tax.","www.nutritionletter.tufts.edu, foodypage.com, www.luxwisp.com, pmc.ncbi.nlm.nih.gov, prospluscons.com",5.0,"""What are the health benefits and drawbacks of consuming chia seeds? Are there any scientific studies supporting these claims? How can chia seeds be incorporated into a daily diet?""",0.0756179690361023,0.0,"[
+  (""learn"", ""policy_area"", ""junk food tax""),
+  (""explore"", ""argument"", ""support for junk food tax""),
+  (""get_info"", ""web_page"", ""resources on junk food tax arguments"")
+]","[
+  (""analyze"", ""health"", ""chia seeds""),
+  (""learn"", ""scientific studies"", ""chia seeds""),
+  (""explore"", ""diet"", ""chia seeds"")
+]",0.0,0.0,0.0,0.0
+11,Do infants age 0-12 months experience different developmental milestones depending on culture?,"onlinelibrary.wiley.com, pmc.ncbi.nlm.nih.gov, babywhysandhows.com",3.0,"""What are the latest scientific findings on infant development and parenting techniques? Are there any new studies or insights on how to best support a baby's growth and well-being?""",0.4458808898925781,0.4,"[
+  (""learn"", ""developmental_milestones"", ""infants 0-12 months""),
+  (""analyze"", ""cultural_influence"", ""developmental milestones"")
+]","[
+  (""learn"", ""scientific_findings"", ""infant development""),
+  (""learn"", ""scientific_findings"", ""parenting techniques""),
+  (""get_info"", ""studies"", ""support a baby's growth and well-being"")
+]",0.8,0.8,0.6,0.7
+12,"You would like to write a report about interesting weddings traditions of different cultures, religions, and ethnic groups. Find information about wedding ceremonies that you think are the most fascinating and different than what you are used to.","www.brides.com, khushmag.com, www.theknot.com, www.vogue.com, www.thetravel.com",5.0,"""What are the latest trends in destination weddings? Which locations are considered the most fashionable for weddings? What are some popular bridal fashion trends and styles?""",0.496211975812912,0.1,"[
+  (""learn"", ""wedding_traditions"", ""different cultures, religions, and ethnic groups""),
+  (""get_info"", ""wedding_ceremonies"", ""most fascinating and different"")
+]","[
+  (""learn"", ""wedding_trends"", ""destination weddings""),
+  (""explore"", ""wedding_locations"", ""fashionable wedding locations""),
+  (""learn"", ""bridal_fashion"", ""popular bridal fashion trends and styles"")
+]",0.8,0.6,0.5,0.7
+13,"France won its first (and only) World Cup in 1998. Find information about the reaction of French people and institutions (such as stock markets), and studies about these reactions.","en.wikipedia.org, www.google.com, copilot.microsoft.com, theworld.org, www.youtube.com",5.0,"""What is Microsoft Copilot? How does it integrate with other software? Are there any tutorials or videos available to understand its features and functionalities?""",-0.006116691045463085,0.0,"[
+  (""get_info"", ""event"", ""1998 World Cup""),
+  (""analyze"", ""reaction"", ""French people""),
+  (""analyze"", ""reaction"", ""French institutions""),
+  (""analyze"", ""reaction"", ""stock markets""),
+  (""learn"", ""study"", ""reactions to 1998 World Cup"")
+]","[
+  (""learn"", ""software"", ""Microsoft Copilot""),
+  (""analyze"", ""integration"", ""Microsoft Copilot with other software""),
+  (""explore"", ""tutorials"", ""Microsoft Copilot features and functionalities""),
+  (""explore"", ""videos"", ""Microsoft Copilot features and functionalities"")
+]",0.2,0.2,0.0,0.0
+14,"For a philosophy assignment, you need to compare evidence that supports the existence of God to evidence that supports the naturalism theory, and infer whether God exists or not. Find web pages to help support your argument.","www.cslewisinstitute.org, plato.stanford.edu, www.reasonablefaith.org, www.google.com, bigthink.com",5.0,"""What are the main philosophical arguments for and against the existence of God? How do contemporary philosophers and theologians approach these arguments?""",0.6357990503311157,0.5,"[
+  (""compare"", ""philosophy"", ""evidence for the existence of God""),
+  (""compare"", ""philosophy"", ""evidence for naturalism theory""),
+  (""analyze"", ""philosophy"", ""existence of God""),
+  (""get_info"", ""web pages"", ""supporting arguments for existence of God and naturalism"")
+]","[
+  (""explore"", ""philosophy"", ""arguments for and against the existence of God""),
+  (""analyze"", ""philosophy"", ""contemporary approaches by philosophers and theologians"")
+]",0.8,1.0,0.5,0.6
+15,"For economic reasons, you wish to switch from regular phones to internet phone services. You want to know: the best internet phone services, the cheapest internet phone services, the providers of VOIP internet phone services, features that great VOIP services have, providers that offer free calls from the US to some European countries, expert reviews about VOIP providers.","www.google.com, www.pcmag.com, www.techradar.com, www.tomsguide.com, www.cnet.com, www.digitaltrends.com, support.microsoft.com, ell.stackexchange.com",8.0,"""How can I troubleshoot and fix common issues with Windows operating systems? What are the best resources for learning about the latest tech trends and reviews?""",0.06602582335472107,0.0,"[
+    (""explore"", ""internet_phone_services"", ""best internet phone services""),
+    (""compare"", ""internet_phone_services"", ""cheapest internet phone services""),
+    (""get_info"", ""VOIP_providers"", ""providers of VOIP internet phone services""),
+    (""learn"", ""VOIP_features"", ""features that great VOIP services have""),
+    (""explore"", ""VOIP_providers"", ""providers that offer free calls from the US to some European countries""),
+    (""evaluate"", ""VOIP_providers"", ""expert reviews about VOIP providers"")
+]","[
+  (""analyze"", ""operating_system"", ""Windows""),
+  (""learn"", ""tech_trends"", ""latest tech trends""),
+  (""get_info"", ""tech_reviews"", ""tech reviews"")
+]",0.2,0.2,0.0,0.0
+16,"In your attempt to get fit, you are looking for information on what possibilities (types of physical exercises, diets, etc...) will help you achieve your fitness goal. Find web pages about different weight loss possibilities.","www.cdc.gov, www.who.int, www.healthline.com, www.google.com",4.0,"""What are the symptoms, causes, and prevention methods for the flu? How does the flu differ from a common cold, and what are the recommended guidelines for vaccination?""",0.23097606003284454,0.0,"[
+  (""explore"", ""fitness"", ""physical exercises""),
+  (""explore"", ""fitness"", ""diets""),
+  (""get_info"", ""web_pages"", ""weight loss possibilities"")
+]","[
+  (""learn"", ""symptom"", ""flu""),
+  (""analyze"", ""cause"", ""flu""),
+  (""explore"", ""prevention_method"", ""flu""),
+  (""compare"", ""illness"", ""flu and common cold""),
+  (""summarize"", ""guideline"", ""vaccination for flu"")
+]",0.0,0.0,0.0,0.0
+17,A friend has been complaining for months that she is unhappy with her life. She has also mentioned that she can't easily sleep at nights. You think that she may be suffering from depression. You want to understand if this is the case and how you could assist her in getting some help from medical professionals.,"www.mayoclinic.org, psychcentral.com, www.healthline.com, my.clevelandclinic.org, www.helpguide.org",,"""What are the symptoms and treatment options for anxiety disorders? How can I manage anxiety effectively using both medical and lifestyle approaches?""",0.32095009088516235,0.3,"[
+  (""analyze"", ""symptom"", ""depression""),
+  (""learn"", ""treatment_method"", ""assistance from medical professionals"")
+]","[
+  (""learn"", ""symptom"", ""anxiety disorders""),
+  (""learn"", ""treatment_method"", ""anxiety disorders""),
+  (""explore"", ""management_approaches"", ""anxiety""),
+  (""analyze"", ""management_approaches"", ""medical""),
+  (""analyze"", ""management_approaches"", ""lifestyle"")
+]",0.8,0.8,0.5,0.6
+18,Pseudocyesis is the appearance of clinical and/or subclinical signs and symptoms associated with pregnancy when the organism is not actually pregnant. What are the recent advances in understanding the causes of this disorder?,"journaljammr.com, www.google.com, pmc.ncbi.nlm.nih.gov, scholar.google.com, link.springer.com",5.0,"""What are the latest research findings on the medical benefits and potential side effects of a specific treatment or medication? Please find peer-reviewed articles and scientific studies on this topic.""",0.19449231028556824,0.0,"[
+  (""learn"", ""medical_condition"", ""pseudocyesis""),
+  (""analyze"", ""medical_condition"", ""causes of pseudocyesis"")
+]","[
+  (""learn"", ""treatment_method"", ""medical benefits and potential side effects""),
+  (""get_info"", ""academic_field"", ""peer-reviewed articles and scientific studies"")
+]",0.5,0.5,0.4,0.6
+19,You are planning a winter vacation to the Pocono Mountains region in Pennsylvania in the US. Where will you stay? What will you do while there? How will you get there?,"www.poconomountains.com, lindaontherun.com, thefrenchmanor.com, www.phillymag.com",4.0,"""What are some recommended bed and breakfast options in the Pocono Mountains area? Are there any unique or luxurious accommodations? What activities or attractions are available nearby?""",0.6093202829360962,0.9,"[
+  (""plan"", ""travel"", ""Pocono Mountains region in Pennsylvania""),
+  (""get_info"", ""accommodation"", ""places to stay in Pocono Mountains""),
+  (""explore"", ""activities"", ""things to do in Pocono Mountains""),
+  (""get_info"", ""transportation"", ""how to get to Pocono Mountains"")
+]","[
+  (""explore"", ""accommodation"", ""bed and breakfast options in the Pocono Mountains""),
+  (""explore"", ""accommodation"", ""unique or luxurious accommodations""),
+  (""explore"", ""attractions"", ""activities or attractions nearby"")
+]",0.8,0.8,0.7,0.9
+20,"You have decided that you want to reduce the use of air conditioning in your house. You've thought that if you could protect the roof being overly hot due to sun exposure, you could keep the house temperature low without the excessive use of air conditioning. Find information of whether this is possible and how it could be done.","www.wikihow.com, home.howstuffworks.com, thetopekaroofers.com, www.google.com",4.0,"""How do I repair a leaky roof? What are the steps involved in fixing roof leaks, and what materials will I need?""",0.26266422867774963,0.2,"[
+  (""learn"", ""home_improvement"", ""reduce air conditioning use""),
+  (""get_info"", ""roof_insulation"", ""protect roof from sun exposure""),
+  (""explore"", ""cooling_methods"", ""keep house temperature low"")
+]","[
+  (""learn"", ""home_repair"", ""leaky roof repair""),
+  (""plan"", ""home_repair"", ""steps to fix roof leaks""),
+  (""explore"", ""home_repair"", ""materials needed for roof repair"")
+]",0.5,0.8,0.4,0.6

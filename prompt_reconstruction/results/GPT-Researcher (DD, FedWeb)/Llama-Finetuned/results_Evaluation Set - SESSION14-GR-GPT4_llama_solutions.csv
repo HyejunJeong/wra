@@ -1,0 +1,208 @@
+Unnamed: 0,prompts,reconstructed_prompt,sbert_similarity,llm_judge_similarity,original_prompt_triplets,reconstructed_prompt_triplets,obels_functional_equivalence,obels_domain_type_equivalence,obels_semantic_equivalence,obels_entity_granularity_tolerance
+0,A friend from Kenya is visiting you and you'd like to surprise him with by cooking a traditional Swahili dish. You want to learn about Swahili dishes and how to cook them. Find web pages about Swahili home cooking.,How can you make a traditional Swahili dish?,0.6184417605400085,0.7,"[
+  (""learn"", ""cuisine"", ""Swahili dishes""),
+  (""get_info"", ""cooking_method"", ""Swahili home cooking"")
+]","[  
+  (""learn"", ""cuisine"", ""traditional Swahili dish""),  
+  (""target"", ""cuisine"", ""traditional"")  
+]",1.0,0.8,0.6,0.7
+1,"You want to know what city and state Dulles airport is in; what shuttles, ride-sharing vans, and taxi cabs connect the airport to other cities; what hotels are close to the airport; where cheap off-airport parking is; and where metro stops close to Dulles airport are.",You want to know how to find the best hotel near the Washington Dulles International Airport. You want to find the best hotels near the airport.,0.6153818964958191,0.4,"[
+  (""get_info"", ""event"", ""Dulles airport location""),
+  (""explore"", ""transportation"", ""shuttles from Dulles airport""),
+  (""explore"", ""transportation"", ""ride-sharing vans from Dulles airport""),
+  (""explore"", ""transportation"", ""taxi cabs from Dulles airport""),
+  (""explore"", ""accommodation"", ""hotels near Dulles airport""),
+  (""explore"", ""parking"", ""cheap off-airport parking near Dulles airport""),
+  (""explore"", ""transportation"", ""metro stops near Dulles airport"")
+]","[
+  (""explore"", ""hotel"", ""Washington Dulles International Airport""),
+  (""target"", ""hotel"", ""best hotels"")
+]",0.5,0.8,0.5,0.7
+2,Suppose you have earned a Masters degree in Business. You want to find information to help you decide whether it is worth getting a PhD in Business or not. Find web pages that will help with a cost/benefit analysis of advanced education in Business.,What are the most prestigious PhD programs in Management? What is the most prestigious PhD program in Management?,0.3721480369567871,0.2,"[
+  (""decide"", ""academic_field"", ""PhD in Business""),
+  (""get_info"", ""cost_benefit_analysis"", ""advanced education in Business"")
+]","[
+  (""learn"", ""academic_field"", ""PhD programs in Management""),
+  (""compare"", ""academic_field"", ""prestigious PhD programs in Management"")
+]",0.8,1.0,0.5,0.7
+3,"Your friend would like to quit smoking. You would like to provide him with relevant information about: different ways to quit smoking, programs available to help quit smoking, benefits of quitting smoking, second effects of quitting smoking, using hypnosis to quit smoking, using the cold turkey method to quit smoking","You are a smoker, and you are considering quitting. You are looking for information about nicotine replacement therapy (NRT). You want to know if NRT can help you quit smoking. You are interested in learning more about the different types of NRT, how they work, and how effective they are. You want to know if NRT is safe to use and if there are any side effects. You are looking for information about the cost of NRT and if it is covered by your health insurance.",0.6518183350563049,0.5,"[
+  (""learn"", ""treatment_method"", ""different ways to quit smoking""),
+  (""learn"", ""program"", ""programs available to help quit smoking""),
+  (""learn"", ""benefit"", ""benefits of quitting smoking""),
+  (""analyze"", ""effect"", ""side effects of quitting smoking""),
+  (""learn"", ""treatment_method"", ""using hypnosis to quit smoking""),
+  (""learn"", ""treatment_method"", ""using the cold turkey method to quit smoking"")
+]","[
+  (""learn"", ""treatment_method"", ""nicotine replacement therapy""),
+  (""analyze"", ""treatment_method"", ""effectiveness of nicotine replacement therapy""),
+  (""explore"", ""treatment_method"", ""types of nicotine replacement therapy""),
+  (""analyze"", ""treatment_method"", ""safety of nicotine replacement therapy""),
+  (""analyze"", ""treatment_method"", ""side effects of nicotine replacement therapy""),
+  (""get_info"", ""treatment_method"", ""cost of nicotine replacement therapy""),
+  (""get_info"", ""policy_area"", ""health insurance coverage for nicotine replacement therapy"")
+]",0.8,1.0,0.7,0.5
+4,Suppose you are writing an article about face transplants. You want general information about face transplants and how face transplants affect the lives of patients. Find web pages about face transplants.,"You are looking for information about organ donation. You want to know what organs can be donated, how donation works, and what the benefits are for both donors and recipients. You also want to know how to become a donor and how to find out if you are a match for donation.",0.567780613899231,0.2,"[
+  (""get_info"", ""medical_procedure"", ""face transplants""),
+  (""analyze"", ""medical_procedure"", ""impact on patients' lives""),
+  (""explore"", ""web_pages"", ""face transplants"")
+]","[
+  (""get_info"", ""organ_donation"", ""organs that can be donated""),
+  (""get_info"", ""organ_donation"", ""how donation works""),
+  (""get_info"", ""organ_donation"", ""benefits for donors""),
+  (""get_info"", ""organ_donation"", ""benefits for recipients""),
+  (""learn"", ""organ_donation"", ""how to become a donor""),
+  (""get_info"", ""organ_donation"", ""how to find out if you are a match for donation"")
+]",0.8,0.6,0.5,0.7
+5,One of your friends from Kenya invited you to attend a party in his house and have a taste of traditional Swahili dishes. You would like to find some general information about Swahili dishes. Find web pages that describe traditional Swahili dishes.,You want to know what is the most widely consumed spice in the world. You are looking for a list of the most widely consumed spices.,0.3292938470840454,0.0,"[
+  (""get_info"", ""cuisine"", ""traditional Swahili dishes""),
+  (""target"", ""cuisine"", ""Swahili dishes"")
+]","[
+  (""learn"", ""cuisine"", ""most widely consumed spice""),
+  (""get_info"", ""cuisine"", ""list of most widely consumed spices"")
+]",0.8,1.0,0.5,0.6
+6,"In 2000, the Russian nuclear submarine Kursk sank in the Barents Sea. You want to try to understand: How did the political climate in Russia at the time contribute to the accident and exarcerbate its effects? Find web pages that explain how the sinking related to Russian politics.","You want to know about Russia's military. You are looking for information about the Russian military, its history, its current state, and its impact on the world. You want to know about the different branches of the military, its technology, its budget, and its influence. You also want to know about Russia's relations with other countries and how the military is involved in these relations.",0.3855750858783722,0.2,"1. (analyze, event, Kursk submarine sinking)
+2. (learn, political_climate, Russia)
+3. (get_info, web_pages, Russian politics)","[
+  (""learn"", ""military"", ""Russia""),
+  (""learn"", ""military_history"", ""Russia""),
+  (""learn"", ""current_state"", ""Russian military""),
+  (""analyze"", ""military_impact"", ""Russia""),
+  (""explore"", ""military_branches"", ""Russian military""),
+  (""explore"", ""military_technology"", ""Russia""),
+  (""analyze"", ""military_budget"", ""Russia""),
+  (""analyze"", ""military_influence"", ""Russia""),
+  (""analyze"", ""international_relations"", ""Russia's military"")
+]",0.8,0.8,0.6,0.7
+7,"You heard something about a Russian submarine Kursk sinking today, and want to search to know more details about this event. When did the submarine sink? Who was the on-board commander of the submarine? The submarine was part of which Russian fleet? How many crewmen were lost in the disaster? Which countries expressed regret about the loss? In what sea did the submarine sink? Which U.S. submarines were reportedly in the area?",What was the Russian Navy's main role during World War II?,0.43861621618270874,0.0,"[
+  (""learn"", ""event"", ""Kursk submarine sinking""),
+  (""get_info"", ""event"", ""date of sinking""),
+  (""get_info"", ""event"", ""on-board commander""),
+  (""get_info"", ""event"", ""Russian fleet""),
+  (""get_info"", ""event"", ""number of crewmen lost""),
+  (""get_info"", ""event"", ""countries expressing regret""),
+  (""get_info"", ""event"", ""sea of sinking""),
+  (""get_info"", ""event"", ""U.S. submarines in the area"")
+]","[  
+  (""learn"", ""military_history"", ""Russian Navy's main role during World War II"")  
+]",0.8,0.5,0.4,0.3
+8,"""Bollywood"", the film industry based in Mumbai, India, is one of the biggest and still fastest-growing film industries in the world. What policies and legislation has the government of India enacted to encourage its continued growth? Find web pages about the growth of Bollywood and its relation to Indian politics.",You want to know how to make a movie. You want to know what makes a movie. You want to know the process of making a movie. You want to know the cost of making a movie. You want to know how long it takes to make a movie. You want to know how many people it takes to make a movie. You want to know how much money you need to make a movie. You want to know how to make a movie without spending too much money. You want to know how to make a movie that will make money. You want to know how to make a movie that will be a hit. You want to know how to make a movie that will make people happy. You want to know how to make a movie that will make people cry. You want to know how to make a movie that will make people laugh. You want to know how to make a movie that will make people think. You want to know how to make a movie that will make people feel something. You want to know how to make a movie that will make people remember. You want to know how to make a movie that will make people want to see it again. You want to know how to make a movie that will make people want to tell their friends about it,0.21733522415161133,0.0,"[
+  (""learn"", ""film_industry"", ""Bollywood""),
+  (""analyze"", ""policy_area"", ""government policies for Bollywood growth""),
+  (""get_info"", ""web_pages"", ""growth of Bollywood and Indian politics"")
+]","[
+  (""learn"", ""filmmaking"", ""how to make a movie""),
+  (""learn"", ""filmmaking"", ""what makes a movie""),
+  (""learn"", ""filmmaking"", ""the process of making a movie""),
+  (""learn"", ""filmmaking"", ""the cost of making a movie""),
+  (""learn"", ""filmmaking"", ""how long it takes to make a movie""),
+  (""learn"", ""filmmaking"", ""how many people it takes to make a movie""),
+  (""learn"", ""filmmaking"", ""how much money you need to make a movie""),
+  (""learn"", ""filmmaking"", ""how to make a movie without spending too much money""),
+  (""learn"", ""filmmaking"", ""how to make a movie that will make money""),
+  (""learn"", ""filmmaking"", ""how to make a movie that will be a hit""),
+  (""learn"", ""filmmaking"", ""how to make a movie that will make people happy""),
+  (""learn"", ""filmmaking"", ""how to make a movie that will make people cry""),
+  (""learn"", ""filmmaking"", ""how to make a movie that will make people laugh""),
+  (""learn"", ""filmmaking"", ""how to make a movie that will make people think""),
+  (""learn"", ""filmmaking"", ""how to make a movie that will make people feel something""),
+  (""learn"", ""filmmaking"", ""how to make a movie that will make people remember""),
+  (""learn"", ""filmmaking"", ""how to make a movie that will make people want to see it again""),
+  (""learn"", ""filmmaking"", ""how to make a movie that will make people want to tell their friends about it"")
+]",0.2,0.5,0.3,0.2
+9,"Suppose you are writing an essay about a tax on ""junk food"". In your essay, you need to argue whether it's a good idea for a government to tax junk food and high-calorie snacks. Find web pages supporting an argument in favor of a junk food tax.",You want to know the causes of obesity.,0.22381027042865753,0.1,"[
+  (""analyze"", ""policy_area"", ""junk food tax""),
+  (""explore"", ""web_pages"", ""arguments in favor of junk food tax"")
+]","[  
+  (""analyze"", ""health"", ""obesity"")  
+]",0.8,0.5,0.5,0.6
+10,Do infants age 0-12 months experience different developmental milestones depending on culture?,How do you care for a newborn? What are the most important things to do when caring for a newborn?,0.32721075415611267,0.1,"[
+  (""learn"", ""developmental_milestones"", ""infants 0-12 months""),
+  (""analyze"", ""cultural_influence"", ""developmental milestones"")
+]","[
+  (""learn"", ""parenting"", ""newborn care""),
+  (""summarize"", ""parenting"", ""important tasks for newborn care"")
+]",0.8,0.8,0.5,0.6
+11,"You would like to write a report about interesting weddings traditions of different cultures, religions, and ethnic groups. Find information about wedding ceremonies that you think are the most fascinating and different than what you are used to.","You are planning a wedding, and you want to have a medieval theme. You are looking for information about what a medieval wedding would have looked like, including what types of decorations, food, and music would have been used. You are also interested in learning about the social status of brides and grooms in medieval society, as well as the role of the church in medieval weddings.",0.6489202380180359,0.2,"[
+  (""learn"", ""wedding_traditions"", ""different cultures, religions, and ethnic groups""),
+  (""get_info"", ""wedding_ceremonies"", ""fascinating and different traditions"")
+]","[
+  (""plan"", ""event"", ""wedding""),
+  (""learn"", ""event"", ""medieval wedding""),
+  (""learn"", ""cuisine"", ""medieval food""),
+  (""learn"", ""decoration"", ""medieval decorations""),
+  (""learn"", ""music"", ""medieval music""),
+  (""learn"", ""social_structure"", ""social status of brides and grooms""),
+  (""learn"", ""religion"", ""role of the church in medieval weddings"")
+]",0.8,0.6,0.5,0.7
+12,"France won its first (and only) World Cup in 1998. Find information about the reaction of French people and institutions (such as stock markets), and studies about these reactions.",What are the most common sources of revenue for a football club? How do football clubs make money?,0.19576680660247803,0.0,"[
+  (""get_info"", ""event"", ""France World Cup 1998""),
+  (""analyze"", ""reaction"", ""French people and institutions""),
+  (""learn"", ""study"", ""reactions to France World Cup 1998"")
+]","[
+  (""learn"", ""finance"", ""sources of revenue for a football club""),
+  (""analyze"", ""finance"", ""how football clubs make money"")
+]",0.2,0.5,0.3,0.0
+13,"For a philosophy assignment, you need to compare evidence that supports the existence of God to evidence that supports the naturalism theory, and infer whether God exists or not. Find web pages to help support your argument.",You want to know what is the most plausible explanation for the fact that humans have a sense of humor. You want to know what is the most plausible explanation for the fact that humans have a sense of humor. You want to know what is the most plausible explanation for the fact that humans have a sense of humor. You want to know what is the most plausible explanation for the fact that humans have a sense of humor. You want to know what is the most plausible explanation for the fact that humans have a sense of humor. You want to know what is the most plausible explanation for the fact that humans have a sense of humor. You want to know what is the most plausible explanation for the fact that humans have a sense of humor. You want to know what is the most plausible explanation for the fact that humans have a sense of humor. You want to know what is the most plausible explanation for the fact that humans have a sense of humor. You want to know what is the most plausible explanation for the fact that humans have a sense of humor. You want to know what is the most plausible explanation for the fact that humans have a sense of humor. You want to know what is the most plausible explanation for the fact that humans have a sense of humor. You want to know,0.27401724457740784,0.0,"[
+  (""compare"", ""philosophy"", ""evidence for the existence of God""),
+  (""compare"", ""philosophy"", ""evidence for naturalism theory""),
+  (""analyze"", ""philosophy"", ""existence of God""),
+  (""get_info"", ""web pages"", ""supporting arguments"")
+]","[
+  (""analyze"", ""academic_field"", ""human sense of humor"")
+]",0.2,0.5,0.0,0.0
+14,"For economic reasons, you wish to switch from regular phones to internet phone services. You want to know: the best internet phone services, the cheapest internet phone services, the providers of VOIP internet phone services, features that great VOIP services have, providers that offer free calls from the US to some European countries, expert reviews about VOIP providers.","You want to know more about VoIP. What is VoIP, how does it work, what are the different types of VoIP, and what are the advantages and disadvantages of VoIP?",0.5965606570243835,0.3,"[
+  (""explore"", ""internet_phone_services"", ""best internet phone services""),
+  (""compare"", ""internet_phone_services"", ""cheapest internet phone services""),
+  (""get_info"", ""internet_phone_services"", ""providers of VOIP internet phone services""),
+  (""analyze"", ""internet_phone_services"", ""features of great VOIP services""),
+  (""get_info"", ""internet_phone_services"", ""providers offering free calls from the US to some European countries""),
+  (""evaluate"", ""internet_phone_services"", ""expert reviews about VOIP providers"")
+]","[
+  (""learn"", ""technology"", ""VoIP""),
+  (""analyze"", ""technology"", ""VoIP advantages and disadvantages""),
+  (""explore"", ""technology"", ""different types of VoIP""),
+  (""get_info"", ""technology"", ""how VoIP works"")
+]",0.8,0.6,0.5,0.7
+15,"In your attempt to get fit, you are looking for information on what possibilities (types of physical exercises, diets, etc...) will help you achieve your fitness goal. Find web pages about different weight loss possibilities.",You want to know what is a healthy diet. You want to know what a good diet is. You want to know what foods are good for you. You want to know what is a bad diet. You want to know what foods are bad for you.,0.4255758225917816,0.4,"1. (""explore"", ""fitness"", ""physical exercises"")
+2. (""explore"", ""fitness"", ""diets"")
+3. (""get_info"", ""weight_loss"", ""possibilities"")","[
+  (""learn"", ""diet"", ""healthy diet""),
+  (""learn"", ""diet"", ""good diet""),
+  (""learn"", ""diet"", ""foods that are good for you""),
+  (""learn"", ""diet"", ""bad diet""),
+  (""learn"", ""diet"", ""foods that are bad for you"")
+]",0.8,0.8,0.5,0.6
+16,A friend has been complaining for months that she is unhappy with her life. She has also mentioned that she can't easily sleep at nights. You think that she may be suffering from depression. You want to understand if this is the case and how you could assist her in getting some help from medical professionals.,What is the most common age of onset for major depressive disorder? What are the most common symptoms of major depressive disorder? What is the most common age of onset for anxiety disorders? What are the most common symptoms of anxiety disorders? What are the most common comorbidities of major depressive disorder and anxiety disorders?,0.15016646683216095,0.2,"[
+  (""analyze"", ""symptom"", ""depression""),
+  (""learn"", ""treatment_method"", ""medical assistance""),
+  (""explore"", ""support_options"", ""help for depression"")
+]","[
+  (""learn"", ""mental_health"", ""major depressive disorder onset age""),
+  (""learn"", ""mental_health"", ""major depressive disorder symptoms""),
+  (""learn"", ""mental_health"", ""anxiety disorders onset age""),
+  (""learn"", ""mental_health"", ""anxiety disorders symptoms""),
+  (""learn"", ""mental_health"", ""comorbidities of major depressive disorder and anxiety disorders"")
+]",0.8,1.0,0.5,0.6
+17,Pseudocyesis is the appearance of clinical and/or subclinical signs and symptoms associated with pregnancy when the organism is not actually pregnant. What are the recent advances in understanding the causes of this disorder?,How do you get pregnant?,0.33024662733078003,0.0,"[
+  (""learn"", ""medical_condition"", ""pseudocyesis""),
+  (""analyze"", ""medical_condition"", ""causes of pseudocyesis"")
+]","[(""learn"", ""reproductive_health"", ""pregnancy"")]",0.8,0.5,0.5,0.6
+18,You are planning a winter vacation to the Pocono Mountains region in Pennsylvania in the US. Where will you stay? What will you do while there? How will you get there?,"You're planning a trip to the Pocono Mountains, and you want to know what kind of winter activities are available there. You want to find information about ski resorts, snow tubing, and other winter activities. You're looking for a list of ski resorts in the Pocono Mountains, as well as information about the best places to go snow tubing. You also want to know what kind of winter activities are available in the Pocono Mountains, and how to get there.",0.5706730484962463,0.8,"[
+  (""plan"", ""travel"", ""winter vacation to the Pocono Mountains""),
+  (""get_info"", ""accommodation"", ""places to stay in the Pocono Mountains""),
+  (""explore"", ""activities"", ""things to do in the Pocono Mountains""),
+  (""decide"", ""transportation"", ""how to get to the Pocono Mountains"")
+]","[
+  (""plan"", ""travel"", ""Pocono Mountains""),
+  (""get_info"", ""winter_activities"", ""ski resorts""),
+  (""get_info"", ""winter_activities"", ""snow tubing""),
+  (""get_info"", ""winter_activities"", ""other winter activities""),
+  (""get_info"", ""travel"", ""how to get there"")
+]",0.8,0.8,0.5,0.6
+19,"You have decided that you want to reduce the use of air conditioning in your house. You've thought that if you could protect the roof being overly hot due to sun exposure, you could keep the house temperature low without the excessive use of air conditioning. Find information of whether this is possible and how it could be done.",How can you reduce your energy costs?,0.3777885437011719,0.3,"[
+  (""learn"", ""home_improvement"", ""reducing air conditioning use""),
+  (""get_info"", ""roof_insulation"", ""protecting roof from sun exposure""),
+  (""explore"", ""cooling_methods"", ""keeping house temperature low"")
+]","[  
+  (""learn"", ""energy_saving"", ""energy costs"")  
+]",0.8,0.6,0.5,0.4

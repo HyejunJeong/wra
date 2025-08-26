@@ -1,0 +1,257 @@
+Unnamed: 0,prompts,reconstructed_prompt,sbert_similarity,llm_judge_similarity,original_prompt_triplets,reconstructed_prompt_triplets,obels_functional_equivalence,obels_domain_type_equivalence,obels_semantic_equivalence,obels_entity_granularity_tolerance
+0,A friend from Kenya is visiting you and you'd like to surprise him with by cooking a traditional Swahili dish. You want to learn about Swahili dishes and how to cook them. Find web pages about Swahili home cooking.,"This journey on the web is related to Tanzanian foods and cooking styles. On your quest, you will come across different items that feature in various cultures in this beautiful region. It also includes dishes like ugali, a mixture of maize flour and water usually served with vegetables, meat, fish or stews; kuku choma, which means roasted chicken; mandazi, which are fried pancakes; mkate wa maharage, which is a bean dish; and samaki, which translates to fish and can be grilled or deep-fried. Additionally, there are many other ingredients, from grains to spices to produce. However, what can truly be eye catching is the fact that Tanzania is a country made up of multiple islands, including Zanzibar, Mafia Island, and Pemba Island. As such, it's no surprise that their dishes include seafood. Moreover, what makes this culinary culture even more unique is the fact that it takes notes from not only Indian cuisine but also that of the Middle East and Southeast Asia thanks to its history of trade between these regions.",0.5525984168052673,0.4,"[
+  (""learn"", ""cuisine"", ""Swahili dishes""),
+  (""explore"", ""cooking_method"", ""Swahili home cooking""),
+  (""get_info"", ""web_pages"", ""Swahili home cooking"")
+]","[
+  (""explore"", ""cuisine"", ""Tanzanian foods""),
+  (""learn"", ""cooking_method"", ""ugali""),
+  (""learn"", ""cooking_method"", ""kuku choma""),
+  (""learn"", ""cooking_method"", ""mandazi""),
+  (""learn"", ""cooking_method"", ""mkate wa maharage""),
+  (""learn"", ""cooking_method"", ""samaki""),
+  (""explore"", ""ingredients"", ""grains""),
+  (""explore"", ""ingredients"", ""spices""),
+  (""explore"", ""ingredients"", ""produce""),
+  (""learn"", ""geography"", ""Tanzania""),
+  (""explore"", ""island"", ""Zanzibar""),
+  (""explore"", ""island"", ""Mafia Island""),
+  (""explore"", ""island"", ""Pemba Island""),
+  (""analyze"", ""cuisine_influence"", ""Indian cuisine""),
+  (""analyze"", ""cuisine_influence"", ""Middle Eastern cuisine""),
+  (""analyze"", ""cuisine_influence"", ""Southeast Asian cuisine"")
+]",0.8,0.6,0.5,0.7
+1,"You want to know what city and state Dulles airport is in; what shuttles, ride-sharing vans, and taxi cabs connect the airport to other cities; what hotels are close to the airport; where cheap off-airport parking is; and where metro stops close to Dulles airport are.","Imagine you have an assignment due on Friday. You'll be taking off after this and going to attend an industry conference in another state – it's the same state as where your employer is located. Your plan will be to go to Washington Dulles International Airport and take a car service or a rental vehicle to travel to your destination city. It's not very far away, but there will likely still be significant traffic. You also have hotel arrangements but only for one night; however, you plan to book another hotel room for the second night, which you'll pay for yourself. The event begins on Thursday evening and is over on Saturday morning. It would be nice if you could spend a few extra days in the state (but only the evenings and weekends). Anyhow, how should you structure your itinerary, particularly between leaving home in Northern Virginia and reaching the other state? How long will it take to arrive at the venue? Will a car serve you well enough, or do you need to take public transportation too? Can you take a flight instead? If so, what are your options? What hotels should you stay at?",0.3385664224624634,0.2,"1. (""get_info"", ""airport"", ""Dulles airport"")
+2. (""get_info"", ""transportation"", ""shuttles"")
+3. (""get_info"", ""transportation"", ""ride-sharing vans"")
+4. (""get_info"", ""transportation"", ""taxi cabs"")
+5. (""explore"", ""accommodation"", ""hotels near Dulles airport"")
+6. (""explore"", ""parking"", ""cheap off-airport parking"")
+7. (""explore"", ""public_transport"", ""metro stops near Dulles airport"")","1. (""plan"", ""itinerary"", ""Northern Virginia to destination city"")
+2. (""analyze"", ""travel_time"", ""home to venue"")
+3. (""evaluate"", ""transportation_options"", ""car service vs public transportation"")
+4. (""explore"", ""flight_options"", ""to destination city"")
+5. (""compare"", ""hotel_options"", ""for second night"")
+6. (""decide"", ""extra_days"", ""spending evenings and weekends in state"")",0.8,0.8,0.5,0.6
+2,Suppose you have earned a Masters degree in Business. You want to find information to help you decide whether it is worth getting a PhD in Business or not. Find web pages that will help with a cost/benefit analysis of advanced education in Business.,"You recently left your job and want to return to school. You are considering business schools and graduate programs in finance, entrepreneurship, etc. Is it worth it? To help you decide, first gather all the pros and cons for this decision. Then compare the top 5 institutions (by reputation) along with their average employment rates, typical starting salary, and other indicators.",0.5000552535057068,0.6,"[
+  (""decide"", ""academic_field"", ""PhD in Business""),
+  (""analyze"", ""academic_field"", ""advanced education in Business""),
+  (""get_info"", ""web_pages"", ""cost/benefit analysis"")
+]","[
+  (""analyze"", ""decision"", ""return to school""),
+  (""explore"", ""graduate programs"", ""business schools""),
+  (""compare"", ""institutions"", ""top 5 business schools""),
+  (""get_info"", ""employment rates"", ""top 5 business schools""),
+  (""get_info"", ""starting salary"", ""top 5 business schools""),
+  (""get_info"", ""indicators"", ""top 5 business schools""),
+  (""decide"", ""education"", ""business school"")
+]",0.8,0.8,0.5,0.7
+3,"Your friend would like to quit smoking. You would like to provide him with relevant information about: different ways to quit smoking, programs available to help quit smoking, benefits of quitting smoking, second effects of quitting smoking, using hypnosis to quit smoking, using the cold turkey method to quit smoking","You are interested in exploring how nicotine replacement therapy (NRT) can aid in reducing the risk of cardiovascular and other diseases by mitigating the effects of smoking. You seek evidence regarding the efficacy of NRT, including studies evaluating nicotine gum for heart disease and smoking cessation among those with heart issues, e-cigarettes, e-cigs for smokers trying to reduce their habit, and whether combining e-cigarettes with NRT is effective. Additionally, you want to know the effects on the general population of switching to an electronic cigarette (e-cigarette, vape), which are thought to be less toxic than combustible tobacco.",0.46919772028923035,0.3,"[
+  (""learn"", ""treatment_method"", ""different ways to quit smoking""),
+  (""learn"", ""program"", ""programs available to help quit smoking""),
+  (""learn"", ""benefit"", ""benefits of quitting smoking""),
+  (""analyze"", ""effect"", ""second effects of quitting smoking""),
+  (""learn"", ""treatment_method"", ""using hypnosis to quit smoking""),
+  (""learn"", ""treatment_method"", ""using the cold turkey method to quit smoking"")
+]","1. (""explore"", ""treatment_method"", ""nicotine replacement therapy"")
+2. (""analyze"", ""treatment_method"", ""nicotine gum"")
+3. (""analyze"", ""treatment_method"", ""e-cigarettes"")
+4. (""analyze"", ""treatment_method"", ""combining e-cigarettes with NRT"")
+5. (""analyze"", ""health_effect"", ""effects on general population of switching to e-cigarettes"")
+6. (""evaluate"", ""disease"", ""cardiovascular diseases"")
+7. (""evaluate"", ""disease"", ""heart disease"")
+8. (""evaluate"", ""behavior"", ""smoking cessation"")",0.8,0.8,0.5,0.6
+4,Suppose you are writing an article about face transplants. You want general information about face transplants and how face transplants affect the lives of patients. Find web pages about face transplants.,"A physician-scientist writing a grant application for the Department of Defense that involves the transplantation of solid organs in treating traumatic wounds. The goal here is to generate a convincing grant proposal and then include the results as references in an abstract. Start with general background of the area such as ""Regenerative medicine has gained a large amount of attention recently for its immense potential to heal complex trauma wounds in the military,"" before providing supporting data.",0.40301573276519775,0.2,"[
+  (""get_info"", ""medical_procedure"", ""face transplants""),
+  (""analyze"", ""impact"", ""lives of patients""),
+  (""explore"", ""web_pages"", ""face transplants"")
+]","[
+  (""plan"", ""grant_application"", ""Department of Defense""),
+  (""learn"", ""medical_field"", ""transplantation of solid organs""),
+  (""analyze"", ""medical_field"", ""treatment of traumatic wounds""),
+  (""summarize"", ""academic_field"", ""regenerative medicine""),
+  (""evaluate"", ""data"", ""supporting data for grant proposal""),
+  (""get_info"", ""abstract"", ""results for references"")
+]",0.5,0.6,0.5,0.7
+5,One of your friends from Kenya invited you to attend a party in his house and have a taste of traditional Swahili dishes. You would like to find some general information about Swahili dishes. Find web pages that describe traditional Swahili dishes.,"I want to know more about the Swahili language and its effects on the country of Zanzibar in East Africa and Tanzania. Also I need to know about the impact of the spice trade. The information needed is about the origin of the Swahili language, where it is spoken, its geographical distribution and influence, including how long it has existed, the history and how this relates to the spice trade.",0.5288434028625488,0.2,"[
+  (""get_info"", ""cuisine"", ""traditional Swahili dishes""),
+  (""target"", ""event"", ""party in Kenya"")
+]","[
+  (""learn"", ""academic_field"", ""Swahili language""),
+  (""analyze"", ""cultural_impact"", ""Zanzibar""),
+  (""analyze"", ""cultural_impact"", ""Tanzania""),
+  (""learn"", ""historical_context"", ""origin of the Swahili language""),
+  (""learn"", ""geographical_distribution"", ""Swahili language""),
+  (""learn"", ""historical_context"", ""history of the Swahili language""),
+  (""analyze"", ""economic_activity"", ""spice trade""),
+  (""analyze"", ""cultural_impact"", ""influence of the spice trade on Swahili language"")
+]",0.5,0.6,0.4,0.5
+6,"In 2000, the Russian nuclear submarine Kursk sank in the Barents Sea. You want to try to understand: How did the political climate in Russia at the time contribute to the accident and exarcerbate its effects? Find web pages that explain how the sinking related to Russian politics.","You are interested in the Russian submarine fleet and want to know more about it: how many boats, which classes, and so on. In particular, you want to know when the new Yasen-M subs will be ready for use in the Pacific fleet after they have recently been deployed in the Northern Fleet. How many submarines are being built and how fast? Why are they going so slow? What is the future of Russian submarines?",0.4236612915992737,0.1,"[
+  (""analyze"", ""event"", ""Kursk sinking""),
+  (""learn"", ""political_climate"", ""Russia in 2000""),
+  (""get_info"", ""web_pages"", ""Kursk sinking and Russian politics"")
+]","1. (""learn"", ""military"", ""Russian submarine fleet"")
+2. (""learn"", ""military"", ""Yasen-M submarines"")
+3. (""analyze"", ""military"", ""submarine construction speed"")
+4. (""analyze"", ""military"", ""future of Russian submarines"")
+5. (""get_info"", ""military"", ""number of Russian submarines"")
+6. (""get_info"", ""military"", ""classes of Russian submarines"")",0.8,0.5,0.4,0.6
+7,"You heard something about a Russian submarine Kursk sinking today, and want to search to know more details about this event. When did the submarine sink? Who was the on-board commander of the submarine? The submarine was part of which Russian fleet? How many crewmen were lost in the disaster? Which countries expressed regret about the loss? In what sea did the submarine sink? Which U.S. submarines were reportedly in the area?","What is the most plausible explanation for the Russian submarine incident in Norway waters on 25 November 2023? In November 2023 a Russian submersible vessel broke down and was towed into Narvik Harbor in north Norway. Norwegian government confirmed the presence of an unidentified under water object after receiving information from Russian Defense Ministry that some Russian Navy employees were in the region (for ""underwater construction work"") and that one of their vehicles (""a bathysphere"") had broken down and required assistance to leave the area. How would you explain this? Was it spying activity? Or something else?",0.57893967628479,0.2,"[
+  (""learn"", ""event"", ""Kursk submarine sinking""),
+  (""get_info"", ""event"", ""date of sinking""),
+  (""get_info"", ""event"", ""on-board commander""),
+  (""get_info"", ""event"", ""Russian fleet""),
+  (""get_info"", ""event"", ""number of crewmen lost""),
+  (""get_info"", ""event"", ""countries expressing regret""),
+  (""get_info"", ""event"", ""sea of sinking""),
+  (""get_info"", ""event"", ""U.S. submarines in the area"")
+]","[
+  (""analyze"", ""event"", ""Russian submarine incident in Norway waters""),
+  (""learn"", ""event"", ""underwater construction work""),
+  (""explore"", ""event"", ""spying activity""),
+  (""explore"", ""event"", ""other explanations"")
+]",0.5,1.0,0.4,0.5
+8,"""Bollywood"", the film industry based in Mumbai, India, is one of the biggest and still fastest-growing film industries in the world. What policies and legislation has the government of India enacted to encourage its continued growth? Find web pages about the growth of Bollywood and its relation to Indian politics.",What do you think about the Indian copyright law and how it compares with those in other countries? Is there any difference from the U.S.'s? Can India's Copyright Office consider revising the copyright protection period for cinematographic works? What does the 2012 amendment to Section 34 mean for cinematographic producers?,0.4810170829296112,0.3,"[
+  (""learn"", ""policy_area"", ""Bollywood growth policies""),
+  (""get_info"", ""film_industry"", ""Bollywood""),
+  (""explore"", ""politics"", ""relation of Bollywood to Indian politics"")
+]","[
+  (""analyze"", ""policy_area"", ""Indian copyright law""),
+  (""compare"", ""policy_area"", ""U.S. copyright law""),
+  (""explore"", ""policy_area"", ""revision of copyright protection period for cinematographic works""),
+  (""learn"", ""policy_area"", ""2012 amendment to Section 34"")
+]",0.5,0.8,0.4,0.6
+9,"Suppose you are writing an essay about a tax on ""junk food"". In your essay, you need to argue whether it's a good idea for a government to tax junk food and high-calorie snacks. Find web pages supporting an argument in favor of a junk food tax.",Your friend wants to go to grad school in Scotland. She currently lives on the west coast of the US and has never been outside of Canada and the USA. She's concerned because she doesn't know what is accepted as normal or 'healthy' body weight for women in other countries. What does a typical woman look like in Scotland? Do most look slender? Heavy? Does Scotland accept heavier women (and men) as healthy?,0.001759357051923871,0.0,"[
+  (""learn"", ""tax_policy"", ""junk food tax""),
+  (""explore"", ""argument"", ""supporting junk food tax""),
+  (""get_info"", ""web_pages"", ""arguments in favor of junk food tax"")
+]","[
+  (""learn"", ""academic_field"", ""grad school in Scotland""),
+  (""explore"", ""location"", ""Scotland""),
+  (""analyze"", ""health"", ""normal body weight for women in Scotland""),
+  (""compare"", ""health"", ""typical body appearance of women in Scotland""),
+  (""get_info"", ""health"", ""acceptance of heavier women in Scotland"")
+]",0.0,0.0,0.0,0.0
+10,Do infants age 0-12 months experience different developmental milestones depending on culture?,"You are an early childhood educator in the United States. You are developing a nutrition education program for a preschool you supervise. You want to design and implement a curriculum that provides children with knowledge about nutrition, including how to prepare healthy meals, make healthy food choices and increase their awareness and understanding of proper diet and nutrition. How can you develop this nutrition education curriculum?",0.15837529301643372,0.0,"[
+  (""learn"", ""developmental_milestones"", ""infants 0-12 months""),
+  (""analyze"", ""cultural_influence"", ""developmental milestones"")
+]","[
+  (""plan"", ""nutrition_education"", ""curriculum""),
+  (""learn"", ""nutrition"", ""healthy meals preparation""),
+  (""learn"", ""nutrition"", ""healthy food choices""),
+  (""learn"", ""nutrition"", ""proper diet awareness"")
+]",0.2,0.2,0.2,0.0
+11,"You would like to write a report about interesting weddings traditions of different cultures, religions, and ethnic groups. Find information about wedding ceremonies that you think are the most fascinating and different than what you are used to.","You plan to marry your partner soon and you wish to celebrate this special moment in a way that suits the wishes of both families. Your wedding budget includes travel, reception, gift registry, flowers and decorations, wedding apparel, entertainment, catering, invitations, photography, venue, videography, stationery, transportation, and a honeymoon. What things do you need to consider when planning for a wedding? How do you plan for a traditional wedding based on how different cultures think about weddings?",0.6574862003326416,0.3,"[
+  (""learn"", ""wedding_traditions"", ""different cultures, religions, and ethnic groups""),
+  (""get_info"", ""wedding_ceremonies"", ""most fascinating and different"")
+]","[
+  (""plan"", ""wedding"", ""celebration""),
+  (""analyze"", ""wedding"", ""cultural considerations""),
+  (""get_info"", ""wedding budget"", ""travel""),
+  (""get_info"", ""wedding budget"", ""reception""),
+  (""get_info"", ""wedding budget"", ""gift registry""),
+  (""get_info"", ""wedding budget"", ""flowers and decorations""),
+  (""get_info"", ""wedding budget"", ""wedding apparel""),
+  (""get_info"", ""wedding budget"", ""entertainment""),
+  (""get_info"", ""wedding budget"", ""catering""),
+  (""get_info"", ""wedding budget"", ""invitations""),
+  (""get_info"", ""wedding budget"", ""photography""),
+  (""get_info"", ""wedding budget"", ""venue""),
+  (""get_info"", ""wedding budget"", ""videography""),
+  (""get_info"", ""wedding budget"", ""stationery""),
+  (""get_info"", ""wedding budget"", ""transportation""),
+  (""get_info"", ""wedding budget"", ""honeymoon"")
+]",0.5,0.8,0.5,0.6
+12,"France won its first (and only) World Cup in 1998. Find information about the reaction of French people and institutions (such as stock markets), and studies about these reactions.","You're asked to summarize data on the global market for football, including data on the number of players and other participants in football from the past year (2018). Information includes the size of the market in dollars, its growth over the previous year, key trends driving market changes, competitors in the market, and a forecast for future market growth. The response has links to relevant sources and examples where applicable.",0.452112078666687,0.1,"[
+  (""get_info"", ""event"", ""France World Cup 1998""),
+  (""analyze"", ""reaction"", ""French people and institutions""),
+  (""learn"", ""study"", ""reactions to France World Cup 1998"")
+]","[
+  (""summarize"", ""market"", ""football""),
+  (""target"", ""market"", ""number of players""),
+  (""target"", ""market"", ""size in dollars""),
+  (""target"", ""market"", ""growth over the previous year""),
+  (""target"", ""market"", ""key trends driving changes""),
+  (""target"", ""market"", ""competitors""),
+  (""target"", ""market"", ""forecast for future growth"")
+]",0.2,0.2,0.0,0.0
+13,"For a philosophy assignment, you need to compare evidence that supports the existence of God to evidence that supports the naturalism theory, and infer whether God exists or not. Find web pages to help support your argument.","Suppose you believe that we don't need any laws of nature to explain the complexity of life on earth and that many other scientists agree with you, while some disagree. You want to know more about these other scientists. Answer the following questions, without using any quotations, with 4 sources that discuss why the person you are reading disagrees with you and their evidence.",0.35466790199279785,0.3,"[
+  (""compare"", ""philosophy"", ""evidence for the existence of God""),
+  (""compare"", ""philosophy"", ""evidence for naturalism theory""),
+  (""analyze"", ""philosophy"", ""existence of God""),
+  (""get_info"", ""web pages"", ""supporting arguments for existence of God and naturalism"")
+]","[
+  (""learn"", ""scientific_opinion"", ""scientists who disagree with the belief that laws of nature are unnecessary to explain life's complexity""),
+  (""get_info"", ""evidence"", ""arguments against the belief that laws of nature are unnecessary"")
+]",0.5,0.5,0.4,0.6
+14,"For economic reasons, you wish to switch from regular phones to internet phone services. You want to know: the best internet phone services, the cheapest internet phone services, the providers of VOIP internet phone services, features that great VOIP services have, providers that offer free calls from the US to some European countries, expert reviews about VOIP providers.","What are some common challenges or drawbacks for using VoIP services for business? What are some alternatives? How expensive would they be? Also, what are some challenges that might affect the growth of VoIP services?",0.6530893445014954,0.2,"[
+  (""explore"", ""internet_phone_services"", ""best internet phone services""),
+  (""compare"", ""internet_phone_services"", ""cheapest internet phone services""),
+  (""get_info"", ""internet_phone_services"", ""providers of VOIP internet phone services""),
+  (""learn"", ""internet_phone_services"", ""features that great VOIP services have""),
+  (""get_info"", ""internet_phone_services"", ""providers that offer free calls from the US to some European countries""),
+  (""evaluate"", ""internet_phone_services"", ""expert reviews about VOIP providers"")
+]","[
+  (""analyze"", ""VoIP services"", ""challenges and drawbacks""),
+  (""explore"", ""VoIP services"", ""alternatives""),
+  (""compare"", ""VoIP services"", ""cost""),
+  (""analyze"", ""VoIP services"", ""growth challenges"")
+]",0.8,1.0,0.5,0.6
+15,"In your attempt to get fit, you are looking for information on what possibilities (types of physical exercises, diets, etc...) will help you achieve your fitness goal. Find web pages about different weight loss possibilities.",What are the applications of artificial intelligence (AI) in health and nutrition? Are there examples? Are these real world applications or still experimental? Have AI systems helped or harmed patient outcomes? How have researchers and tech companies developed these AI systems? And how do AI technologies help patients and providers to monitor food consumption or improve diets?,0.25115883350372314,0.0,"[
+  (""explore"", ""fitness"", ""physical exercises""),
+  (""explore"", ""fitness"", ""diets""),
+  (""get_info"", ""weight_loss"", ""possibilities"")
+]","[
+  (""learn"", ""health_and_nutrition"", ""applications of artificial intelligence""),
+  (""get_info"", ""health_and_nutrition"", ""examples of AI applications""),
+  (""analyze"", ""health_and_nutrition"", ""real world vs experimental applications of AI""),
+  (""analyze"", ""health_and_nutrition"", ""impact of AI on patient outcomes""),
+  (""explore"", ""health_and_nutrition"", ""development of AI systems by researchers and tech companies""),
+  (""analyze"", ""health_and_nutrition"", ""how AI technologies assist in monitoring food consumption and improving diets"")
+]",0.5,0.6,0.5,0.7
+16,A friend has been complaining for months that she is unhappy with her life. She has also mentioned that she can't easily sleep at nights. You think that she may be suffering from depression. You want to understand if this is the case and how you could assist her in getting some help from medical professionals.,"You can treat your insomnia in many ways, and you may be interested in non-pharmacological treatments. In this context, we will provide an introduction to cognitive behavioral therapy for insomnia (CBT-I), including what it is, how it works, and why it works. We will also recommend some resources to guide your treatment, such as books or websites, so that you can learn more about it. If you want to try CBT-I, please note some other things that you will probably be interested in during your CBT-I experience. For those who choose drugs, there are several recommended drugs for treating insomnia. This post will introduce those recommended drugs and relevant knowledge about them.",0.3488130569458008,0.2,"[
+  (""analyze"", ""symptom"", ""depression""),
+  (""learn"", ""treatment_method"", ""assistance from medical professionals"")
+]","[
+  (""learn"", ""treatment_method"", ""cognitive behavioral therapy for insomnia (CBT-I)""),
+  (""get_info"", ""treatment_method"", ""non-pharmacological treatments for insomnia""),
+  (""get_info"", ""treatment_method"", ""recommended drugs for treating insomnia""),
+  (""explore"", ""resource"", ""books or websites for CBT-I""),
+  (""analyze"", ""treatment_method"", ""how CBT-I works""),
+  (""analyze"", ""treatment_method"", ""why CBT-I works"")
+]",0.8,0.8,0.5,0.6
+17,Pseudocyesis is the appearance of clinical and/or subclinical signs and symptoms associated with pregnancy when the organism is not actually pregnant. What are the recent advances in understanding the causes of this disorder?,"For the past two years I have been experiencing rapid eye movement sleep disorder (RBD). I don't have an explanation for why it might be happening and I do not know what can be done about it. To solve this problem I will use the WebMD article to describe RBD, in particular its symptoms, diagnosis, and treatment plan. Additionally, I will consider the information about the causes of RBD listed in one other source. Then, I will look at the WebMD page on the relationship between RBD and Parkinson's disease to give a detailed description of both their relationship and risk factors.",0.12909862399101257,0.0,"[
+  (""learn"", ""medical_condition"", ""pseudocyesis""),
+  (""analyze"", ""medical_condition"", ""causes of pseudocyesis""),
+  (""get_info"", ""medical_condition"", ""recent advances in understanding pseudocyesis"")
+]","1. (""learn"", ""symptom"", ""rapid eye movement sleep disorder (RBD)"")
+2. (""learn"", ""diagnosis"", ""rapid eye movement sleep disorder (RBD)"")
+3. (""learn"", ""treatment plan"", ""rapid eye movement sleep disorder (RBD)"")
+4. (""explore"", ""causes"", ""rapid eye movement sleep disorder (RBD)"")
+5. (""learn"", ""relationship"", ""rapid eye movement sleep disorder (RBD) and Parkinson's disease"")
+6. (""analyze"", ""risk factors"", ""rapid eye movement sleep disorder (RBD) and Parkinson's disease"")",0.8,0.8,0.5,0.6
+18,You are planning a winter vacation to the Pocono Mountains region in Pennsylvania in the US. Where will you stay? What will you do while there? How will you get there?,"You're planning a vacation to the Pocono Mountains and want to find the best place to stay for skiing and other winter sports. As you'd prefer to rent rather than buy a property, you're hoping to find tips on finding a vacation rental for your trip. You want information about what kind of things you'll be able to do while staying at your vacation rental, in particular what type of skiing you'll be able to do, and whether it's more beginner-oriented or suitable for advanced skiers. Finally, you're interested in how much a ski trip at these mountains costs, how to get there, what the weather will be like when you go, what sorts of housing options are available, and other kinds of interesting details.",0.5783294439315796,0.8,"[
+  (""plan"", ""travel"", ""winter vacation to the Pocono Mountains""),
+  (""get_info"", ""accommodation"", ""places to stay in the Pocono Mountains""),
+  (""explore"", ""activities"", ""things to do in the Pocono Mountains""),
+  (""get_info"", ""transportation"", ""ways to get to the Pocono Mountains"")
+]","1. (""plan"", ""travel"", ""Pocono Mountains"")
+2. (""explore"", ""accommodation"", ""vacation rental"")
+3. (""learn"", ""activity"", ""winter sports"")
+4. (""analyze"", ""skiing"", ""beginner-oriented"")
+5. (""analyze"", ""skiing"", ""advanced skiers"")
+6. (""get_info"", ""cost"", ""ski trip"")
+7. (""get_info"", ""travel"", ""how to get there"")
+8. (""get_info"", ""weather"", ""weather forecast"")
+9. (""explore"", ""housing options"", ""available options"")
+10. (""get_info"", ""details"", ""interesting details"")",0.8,0.8,0.5,0.7
+19,"You have decided that you want to reduce the use of air conditioning in your house. You've thought that if you could protect the roof being overly hot due to sun exposure, you could keep the house temperature low without the excessive use of air conditioning. Find information of whether this is possible and how it could be done.","A high-efficiency HVAC contractor for the residential market in CA wants to know if the customer would be eligible for any rebates or tax deductions based on the kind of installation (such as for a heat pump, air handler, AC unit). The customer lives in an area with a hot and dry summer, low humidity, no wind, no frost days, and some fog. Is this customer eligible for rebates or tax deductions?",0.22887201607227325,0.1,"[
+  (""learn"", ""energy_efficiency"", ""reducing air conditioning use""),
+  (""explore"", ""roof_protection_methods"", ""keeping house temperature low""),
+  (""get_info"", ""roof_insulation"", ""options for sun exposure protection"")
+]","1. (""learn"", ""rebate_policy"", ""eligibility for HVAC rebates or tax deductions"")
+2. (""target"", ""installation_type"", ""heat pump"")
+3. (""target"", ""installation_type"", ""air handler"")
+4. (""target"", ""installation_type"", ""AC unit"")
+5. (""target"", ""customer_location"", ""California"")
+6. (""target"", ""customer_conditions"", ""hot and dry summer, low humidity, no wind, no frost days, some fog"")",0.8,0.6,0.5,0.7

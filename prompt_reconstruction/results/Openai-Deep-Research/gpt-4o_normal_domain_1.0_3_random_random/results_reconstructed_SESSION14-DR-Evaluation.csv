@@ -1,0 +1,62 @@
+Idx,prompts,domain_sequence,domain_count,reconstructed_prompt,sbert_similarity,llm_judge_similarity,original_prompt_triplets,reconstructed_prompt_triplets,obels_functional_equivalence,obels_domain_type_equivalence,obels_semantic_equivalence,obels_entity_granularity_tolerance
+1,A friend from Kenya is visiting you and you'd like to surprise him with by cooking a traditional Swahili dish. You want to learn about Swahili dishes and how to cook them. Find web pages about Swahili home cooking.,"healthiersteps.com, weeatatlast.com, nairobikitchen.blogspot.com, wanderlusttrails.africa, www.eater.com, qz.com, swahilifood.com, africancook.blogspot.com, wearezanzibar.com, www.kaluhiskitchen.com",10,"""Explore traditional and contemporary East African cuisine. Find recipes, cooking tips, and cultural insights related to Swahili and other regional dishes. Discover popular food blogs and articles that highlight the diversity and richness of East African food culture.""",0.7465510368347168,0.8,"[
+  (""learn"", ""cuisine"", ""Swahili dishes""),
+  (""explore"", ""cooking_method"", ""Swahili home cooking""),
+  (""get_info"", ""web_pages"", ""Swahili home cooking"")
+]","[
+  (""explore"", ""cuisine"", ""traditional East African cuisine""),
+  (""explore"", ""cuisine"", ""contemporary East African cuisine""),
+  (""get_info"", ""cooking_method"", ""recipes""),
+  (""get_info"", ""cooking_method"", ""cooking tips""),
+  (""learn"", ""culture"", ""cultural insights related to Swahili dishes""),
+  (""learn"", ""culture"", ""cultural insights related to regional dishes""),
+  (""explore"", ""food_media"", ""popular food blogs""),
+  (""explore"", ""food_media"", ""articles highlighting East African food culture"")
+]",0.8,0.7,0.6,0.8
+3,Suppose you have earned a Masters degree in Business. You want to find information to help you decide whether it is worth getting a PhD in Business or not. Find web pages that will help with a cost/benefit analysis of advanced education in Business.,"fullyfundedpg.com, gradschool.duke.edu, poetsandquants.com, www.ebu.ac, businessphdwiki.com, www.businessinsider.com, stories.phdproject.org, thefinancialbasecamp.com, new.aacsb.edu, www.chicagobooth.edu, www.businessstudent.com, www.aacsb.edu, www.bls.gov, www.business-management-degree.net, www.cityam.com, www.indeed.com",16,"""You are considering pursuing a PhD in Business and want to gather information about the best programs available, funding opportunities, and career prospects after graduation. Find web pages that provide insights into top business schools, funding options for PhD students, and the potential career paths for business PhD graduates.""",0.7697194218635559,0.5,"[
+  (""decide"", ""academic_field"", ""PhD in Business""),
+  (""get_info"", ""academic_field"", ""cost/benefit analysis of advanced education in Business"")
+]","[
+  (""learn"", ""academic_field"", ""PhD in Business""),
+  (""explore"", ""academic_field"", ""best programs""),
+  (""explore"", ""academic_field"", ""funding opportunities""),
+  (""analyze"", ""academic_field"", ""career prospects after graduation""),
+  (""get_info"", ""web_pages"", ""top business schools""),
+  (""get_info"", ""web_pages"", ""funding options for PhD students""),
+  (""get_info"", ""web_pages"", ""potential career paths for business PhD graduates"")
+]",0.8,1.0,0.5,0.7
+5,Suppose you are writing an article about face transplants. You want general information about face transplants and how face transplants affect the lives of patients. Find web pages about face transplants.,"pmc.ncbi.nlm.nih.gov, edition.cnn.com, my.clevelandclinic.org, www.cnn.com, www.theguardian.com, newsroom.clevelandclinic.org, www.bbc.com, www.mayoclinic.org, www.akamai.mayoclinic.org, www.statnews.com, www.hopkinsmedicine.org, consultqd.clevelandclinic.org, www.bbc.co.uk",13,"""Research the latest developments and expert opinions on the treatment and management of a specific medical condition, such as heart disease or cancer. Look for information from reputable medical institutions and news outlets to understand current trends, breakthroughs, and expert recommendations.""",0.5168015360832214,0.2,"[
+  (""get_info"", ""medical_procedure"", ""face transplants""),
+  (""analyze"", ""medical_procedure"", ""impact on patients' lives""),
+  (""explore"", ""web_pages"", ""face transplants"")
+]","[
+  (""learn"", ""treatment_method"", ""heart disease""),
+  (""learn"", ""treatment_method"", ""cancer""),
+  (""get_info"", ""medical_institution"", ""reputable medical institutions""),
+  (""get_info"", ""news_outlet"", ""news outlets""),
+  (""analyze"", ""medical_condition"", ""current trends""),
+  (""analyze"", ""medical_condition"", ""breakthroughs""),
+  (""analyze"", ""medical_condition"", ""expert recommendations"")
+]",0.5,0.6,0.4,0.5
+6,One of your friends from Kenya invited you to attend a party in his house and have a taste of traditional Swahili dishes. You would like to find some general information about Swahili dishes. Find web pages that describe traditional Swahili dishes.,"www.lonelyplanet.com, kenyalad.com, magicalkenya.com, hellomombasa.com, wearezanzibar.com, festival.si.edu, matadornetwork.com, wanderlusttrails.africa, pegatours.co.ke",9,"""Plan a travel itinerary for a trip to Kenya and Zanzibar. Find information on popular tourist destinations, cultural festivals, and travel tips for visiting these regions. Look for recommendations on must-see places, local experiences, and travel guides to make the most of the trip.""",0.5535145998001099,0.2,"[
+  (""get_info"", ""cuisine"", ""Swahili dishes""),
+  (""target"", ""event"", ""party""),
+  (""target"", ""location"", ""Kenya"")
+]","[
+  (""plan"", ""travel"", ""itinerary for a trip to Kenya and Zanzibar""),
+  (""get_info"", ""travel"", ""popular tourist destinations in Kenya and Zanzibar""),
+  (""get_info"", ""travel"", ""cultural festivals in Kenya and Zanzibar""),
+  (""get_info"", ""travel"", ""travel tips for visiting Kenya and Zanzibar""),
+  (""explore"", ""travel"", ""recommendations on must-see places in Kenya and Zanzibar""),
+  (""explore"", ""travel"", ""local experiences in Kenya and Zanzibar""),
+  (""get_info"", ""travel"", ""travel guides for Kenya and Zanzibar"")
+]",0.8,0.8,0.5,0.6
+7,"In 2000, the Russian nuclear submarine Kursk sank in the Barents Sea. You want to try to understand: How did the political climate in Russia at the time contribute to the accident and exarcerbate its effects? Find web pages that explain how the sinking related to Russian politics.","edition.cnn.com, www.cambridge.org, www.cia.gov, www.cnn.com, www.theguardian.com, nonproliferation.org, spectrum.ieee.org, www.after-russia.org, www.history.co.uk, www.rferl.org, www.washingtonpost.com, www.csmonitor.com",12,"""Research the history and current status of nuclear non-proliferation efforts globally. What are the key treaties and agreements in place to prevent the spread of nuclear weapons? How have different countries, including Russia and the United States, contributed to or hindered these efforts? Look for information on the role of international organizations and the impact of technological advancements on nuclear non-proliferation.""",0.28064215183258057,0.1,"1. (""analyze"", ""event"", ""Kursk submarine sinking"")
+2. (""learn"", ""political climate"", ""Russia 2000"")
+3. (""get_info"", ""web pages"", ""Kursk sinking and Russian politics"")","[
+  (""learn"", ""nuclear_non_proliferation"", ""history and current status""),
+  (""explore"", ""treaties_and_agreements"", ""key treaties and agreements""),
+  (""analyze"", ""country_contributions"", ""Russia and the United States' contributions and hindrances""),
+  (""analyze"", ""international_organizations"", ""role of international organizations""),
+  (""analyze"", ""technological_advancements"", ""impact of technological advancements"")
+]",0.5,0.5,0.4,0.6

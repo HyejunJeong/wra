@@ -1,0 +1,212 @@
+Unnamed: 0,prompts,reconstructed_prompt,sbert_similarity,llm_judge_similarity,original_prompt_triplets,reconstructed_prompt_triplets,obels_functional_equivalence,obels_domain_type_equivalence,obels_semantic_equivalence,obels_entity_granularity_tolerance
+0,"You want to find scientific publications on LHC (Large Hadron Collider (LHC)) collisions. Books or scientific video lectures are accepted, too. You want to study the most recent knowledge on the topic in depth. You expect scientific publications to be most helpful, including books (you might consider buying one), but scientific video lectures or encyclopedia might be interesting as well.","A particle physicist is interested in learning how machine learning techniques can be applied to help conduct physics experiments and analyze data collected using detectors at the Large Hadron Collider (LHC) at CERN in Geneva Switzerland. They would like to review scientific papers, both published and preprints, on the subject and the code for the models described therein, so that they may use them themselves, modify them, learn from them, improve upon them, etc.",0.5079556107521057,0.3,"[
+  (""learn"", ""scientific_publications"", ""LHC collisions""),
+  (""explore"", ""books"", ""LHC collisions""),
+  (""explore"", ""video_lectures"", ""LHC collisions""),
+  (""analyze"", ""encyclopedia"", ""LHC collisions"")
+]","1. (""learn"", ""machine_learning_application"", ""physics experiments"")
+2. (""analyze"", ""data_collection"", ""detectors at the Large Hadron Collider"")
+3. (""explore"", ""scientific_papers"", ""machine learning techniques for physics"")
+4. (""review"", ""scientific_papers"", ""published and preprints on machine learning in physics"")
+5. (""access"", ""code_repository"", ""models described in scientific papers"")",0.8,0.6,0.5,0.7
+1,"You need information about (the pros and cons of) male circumcision You have to make a scientific overview of the latest knowledge on male circumcision, with evidence-based pros and cons, including medical, psychological, and social information. To this end, you first need to delve into the latest research, including papers, videos, books, pictures etc... Especially information on male circumcision itself is important, whereas for instance information solely focusing on the link between circumcision and HIV is less relevant.","This user wants to know about a procedure called circumcision. He wants to know in which countries it is practiced at birth. Also, does anyone consider it an unnecessary surgical practice which needs to be abolished? If so what arguments do they put forward for banning this procedure? Also, he wants to know its benefits.",0.6153130531311035,0.4,"[
+  (""learn"", ""medical"", ""male circumcision""),
+  (""analyze"", ""research"", ""pros and cons of male circumcision""),
+  (""explore"", ""academic_field"", ""latest research on male circumcision""),
+  (""get_info"", ""media"", ""papers, videos, books, pictures on male circumcision""),
+  (""decide"", ""health"", ""evidence-based pros and cons of male circumcision"")
+]","[
+  (""learn"", ""procedure"", ""circumcision""),
+  (""explore"", ""country"", ""countries where circumcision is practiced at birth""),
+  (""analyze"", ""surgical practice"", ""arguments for banning circumcision""),
+  (""learn"", ""procedure"", ""benefits of circumcision"")
+]",0.8,0.6,0.5,0.7
+2,"You are looking for information about a z-machine You have no idea what a z-machine is, but the colleagues are talking about it in relation to nuclear energy; and you quickly want to get at least an idea of what it is. Most relevant are pages that cover the functionality of a Z-machine, like dedicated encyclopedia articles.","This user is interested in acquiring information about a recent nuclear fusion power plant in southern California that was shut down. However, the domain list also suggests that this is a more general query about information on nuclear fusion reactor facilities worldwide. The user may require information about their current state, status, and technologies used in them.",0.4528001844882965,0.1,"[
+  (""learn"", ""nuclear_energy"", ""z-machine""),
+  (""get_info"", ""encyclopedia"", ""functionality of a z-machine"")
+]","[
+  (""get_info"", ""nuclear_fusion"", ""nuclear fusion power plant in southern California""),
+  (""get_info"", ""nuclear_fusion"", ""nuclear fusion reactor facilities worldwide""),
+  (""get_info"", ""nuclear_fusion"", ""current state of nuclear fusion reactors""),
+  (""get_info"", ""nuclear_fusion"", ""status of nuclear fusion reactors""),
+  (""get_info"", ""nuclear_fusion"", ""technologies used in nuclear fusion reactors"")
+]",0.8,0.8,0.5,0.6
+3,"You are looking for a thorough text review of Howl from Allen Ginsberg. You are intrigued by Howl from Ginsberg and want to know more about it. Detailed reviews are therefore most relevant. Besides that, you are also interested in background information about Howl and Ginsberg, which you consider somewhat less relevant than the reviews.","How did Beat writers Allen Ginsberg and Frank O'Hara respond differently to the Cold War's threat of nuclear destruction? Was O'Hara less affected by the political anxieties of his generation because he was gay, and if so, how does this inform the work of later generations of queer poets?",0.2795083522796631,0.1,"1. (""read"", ""literature"", ""Howl by Allen Ginsberg"")
+2. (""learn"", ""literature"", ""background information about Howl and Allen Ginsberg"")","[
+  (""analyze"", ""literature"", ""Beat writers' responses to the Cold War""),
+  (""compare"", ""literature"", ""Allen Ginsberg and Frank O'Hara""),
+  (""explore"", ""literature"", ""impact of sexuality on political anxieties in poetry""),
+  (""learn"", ""literature"", ""influence of queer poets on later generations"")
+]",0.8,1.0,0.5,0.6
+4,"You want to find information about engineering at linkedin. You have just graduated as an engineer, and made your LinkedIn account. You are now looking for information about engineering at LinkedIn. More specifically: you need to navigate to http://engineering.linkedin.com/, although related sites might be useful, too.","As an IT professional, you have been asked to create a training program for entry-level employees, some of whom will be learning programming languages. A significant portion of your responsibility will involve managing and assigning these tasks with an existing team, which will consist of developers, product owners, designers and salespeople. Write a proposal and presentation, including a cost and return on investment justification for this new training program, and any necessary resources for the team.",0.24299006164073944,0.0,"[
+  (""get_info"", ""engineering"", ""LinkedIn""),
+  (""target"", ""website"", ""http://engineering.linkedin.com/"")
+]","[
+  (""plan"", ""training_program"", ""entry-level employees""),
+  (""analyze"", ""cost_benefit"", ""training program""),
+  (""get_info"", ""resources"", ""team""),
+  (""decide"", ""team_structure"", ""developers, product owners, designers, salespeople""),
+  (""create"", ""presentation"", ""proposal for training program"")
+]",0.5,0.5,0.4,0.5
+5,"You are looking for audiobooks by Raymond E Feist. You need to read a book from that author, but you don't know what the options are, and you don't like reading. Hence, you are looking for audiobooks: which ones are available, and where to buy them. Most important are results that provide them for sale or for download. However, pages about the correct audiobooks are also highly relevant, even when you cannot directly download or buy them on the site.","An author I've never heard of has written a book of fantasy stories which won't be published in English for a few months, but there is an audiobook already available. You want the audiobook. All you know is that it costs about $15 and that when you look it up on Google Books you get redirected to Amazon where you can buy it for 20$ or stream it for 30$. But what are your other options? Can you get free streaming? Can you find cheaper download copies? Or can you borrow it from the library? What do the readers say about the quality of the sound? What platforms is the audio book available through? How can you pay for it if you are outside the US?",0.6435727477073669,0.4,"[
+  (""explore"", ""audiobook"", ""Raymond E Feist""),
+  (""get_info"", ""audiobook"", ""available options""),
+  (""decide"", ""purchase"", ""where to buy audiobooks""),
+  (""get_info"", ""audiobook"", ""pages about audiobooks"")
+]","1. (""book"", ""audiobook"", ""fantasy stories"")
+2. (""explore"", ""audiobook"", ""options for purchase"")
+3. (""explore"", ""audiobook"", ""free streaming"")
+4. (""explore"", ""audiobook"", ""cheaper download copies"")
+5. (""explore"", ""audiobook"", ""library borrowing"")
+6. (""analyze"", ""audiobook"", ""reader reviews on sound quality"")
+7. (""get_info"", ""audiobook"", ""available platforms"")
+8. (""plan"", ""payment"", ""outside US"")",0.8,1.0,0.5,0.6
+6,"You want to know what an M/G/1 queue is. You've come across that term, and want to know what it means. Results that specifically focus on 'what is an M/G/1 queue' are most important, but results that compare them to other queues might be interesting as well.","You wish to find literature for your course on the topic of Monte Carlo methods and their application in statistics and computer science. The literature includes an overview over the main approaches, the derivation of variance reduction techniques, applications in various areas of statistics and simulations, and implementation of those approaches.",0.12398512661457062,0.0,"[
+  (""learn"", ""academic_field"", ""M/G/1 queue""),
+  (""compare"", ""academic_field"", ""M/G/1 queue"")
+]","[
+  (""learn"", ""academic_field"", ""Monte Carlo methods""),
+  (""summarize"", ""academic_field"", ""main approaches of Monte Carlo methods""),
+  (""analyze"", ""academic_field"", ""variance reduction techniques""),
+  (""explore"", ""academic_field"", ""applications of Monte Carlo methods in statistics""),
+  (""explore"", ""academic_field"", ""applications of Monte Carlo methods in computer science""),
+  (""plan"", ""academic_field"", ""implementation of Monte Carlo methods"")
+]",0.8,1.0,0.5,0.6
+7,"You are looking for the lyrics of the song ""Bangarang"" by Skrillex. You don't understand the words from the song, so you would like to take a look at the lyrics. A movie is not very handy, because there you would first have to find the specific parts you are looking for.",How many people attended The Weeknd's Toronto concert at Scotiabank Arena in December 2023? How many of those used ASR phones to experience the performance? Were there any other apps used in connection with this concert? What is the definition of ASR phone? And what is the number of patents related to audio capture or processing for such systems?,0.06921352446079254,0.0,"[
+  (""get_info"", ""music"", ""Bangarang lyrics""),
+  (""analyze"", ""music"", ""Bangarang lyrics"")
+]","[
+  (""get_info"", ""event"", ""The Weeknd's Toronto concert""),
+  (""get_info"", ""venue"", ""Scotiabank Arena""),
+  (""get_info"", ""date"", ""December 2023""),
+  (""get_info"", ""attendance"", ""number of attendees""),
+  (""get_info"", ""technology"", ""ASR phones""),
+  (""get_info"", ""usage"", ""apps used in connection with the concert""),
+  (""get_info"", ""technology"", ""ASR phone definition""),
+  (""get_info"", ""patents"", ""number of patents related to audio capture or processing"")
+]",0.5,0.4,0.3,0.5
+8,"You want to visit Porto and are trying to find travel tips, hotels, bars,... (none)","I was looking for a list of accommodations in Porto, Portugal and found them here. I want to learn more about Porto, its food scene and history. For example, ""What's the best food to try when visiting Porto?"" This page contains links to other pages with lists of restaurants that serve local food in Porto, reviews of their food, and some historical information about what they offer. Also this site provides a lot of local food information.",0.6508930921554565,0.6,"[
+  (""explore"", ""travel"", ""Porto""),
+  (""get_info"", ""travel_tips"", ""Porto""),
+  (""explore"", ""hotels"", ""Porto""),
+  (""explore"", ""bars"", ""Porto"")
+]","[
+  (""learn"", ""city"", ""Porto""),
+  (""learn"", ""cuisine"", ""food scene in Porto""),
+  (""learn"", ""history"", ""history of Porto""),
+  (""get_info"", ""food"", ""best food to try in Porto""),
+  (""get_info"", ""restaurant"", ""restaurants serving local food in Porto""),
+  (""get_info"", ""review"", ""reviews of food in Porto""),
+  (""get_info"", ""local food"", ""local food information in Porto"")
+]",0.8,0.8,0.6,0.7
+9,"You want to buy a sony vaio laptop. Your old sony vaio laptop finally broke down, but as you were a real fan of it, you want a new laptop (not second hand) from the same brand. You will buy it over the internet, and are not looking for reviews. Top results are online stores with a large assortment of vaio laptops.",What types of hardware and software are required for a virtual reality meeting? What is the optimal set-up or configuration recommended for running VR meetings and what should be the hardware spec? How can the meeting be set up so that it runs smoothly? Are there any special requirements for the hardware that are needed for better performance?,0.1583721786737442,0.0,"[
+  (""decide"", ""laptop"", ""sony vaio""),
+  (""explore"", ""online_store"", ""vaio laptops""),
+  (""plan"", ""purchase"", ""new sony vaio laptop"")
+]","[
+  (""learn"", ""hardware_software"", ""virtual reality meeting""),
+  (""explore"", ""configuration"", ""optimal setup for VR meetings""),
+  (""analyze"", ""performance_requirements"", ""hardware specifications for VR""),
+  (""plan"", ""meeting_setup"", ""smooth running of VR meetings""),
+  (""evaluate"", ""hardware_requirements"", ""better performance for VR"")
+]",0.5,0.4,0.3,0.5
+10,"You want to know how a .csv file can be imported in excel. You need to import a .csv file in Excel, but you don't know that data type, and have no idea how to open it in Excel. Especially Excel help pages from Microsoft on this topic are relevant, but dedicated videos or tutorials are also fine.","You want to create an Excel table (instead of using a traditional worksheet), and fill it with values of a few columns from a worksheet. Do you know how to do this? How about for an array of tables? In addition to this, do you think that you could change them in the data model using Power Query? What is the data model and how does it work? Can you use tables from Excel together with Power BI and vice versa?",0.46555987000465393,0.2,"[
+  (""learn"", ""data_import"", "".csv file""),
+  (""explore"", ""help_page"", ""Excel import .csv""),
+  (""explore"", ""tutorial"", ""Excel import .csv""),
+  (""explore"", ""video"", ""Excel import .csv"")
+]","[
+  (""learn"", ""Excel"", ""creating an Excel table""),
+  (""learn"", ""Excel"", ""filling values from a worksheet""),
+  (""explore"", ""Excel"", ""array of tables""),
+  (""analyze"", ""Power Query"", ""changing tables in the data model""),
+  (""learn"", ""data model"", ""how it works""),
+  (""explore"", ""Excel and Power BI"", ""using tables together"")
+]",0.8,0.8,0.5,0.6
+11,"You want to find the phone number of the 'Vom Fass'-shop in Ghent? You want to make an order in the Vom Fass shop in Ghent, by phone. Even though you are interested in general information about the shop, you are in the first place looking for contact details, and more specifically their phone number.","You need help writing your bachelor thesis on franchising. You're looking for real-world examples of successful franchises in Flanders, particularly Belgian and Dutch franchises with multiple locations (not just a chain with one outlet). You want to learn about their franchise management system, their customer service model, and how they maintain customer loyalty across multiple branches.",0.2674621343612671,0.0,"[
+  (""get_info"", ""shop"", ""Vom Fass shop in Ghent""),
+  (""target"", ""contact_details"", ""phone number of Vom Fass shop in Ghent""),
+  (""plan"", ""order"", ""Vom Fass shop in Ghent"")
+]","[
+  (""learn"", ""academic_field"", ""franchising""),
+  (""explore"", ""business_case"", ""successful franchises in Flanders""),
+  (""analyze"", ""business_model"", ""franchise management system""),
+  (""analyze"", ""customer_service"", ""customer service model""),
+  (""analyze"", ""customer_loyalty"", ""customer loyalty across multiple branches""),
+  (""target"", ""location"", ""Flanders""),
+  (""target"", ""cuisine"", ""Belgian and Dutch franchises"")
+]",0.2,0.2,0.0,0.0
+12,"You want to know what a BMW C1 motorcycle looks like. You read that the BMW C1 would be a special case, as a motorcycle, so you wonder what it looks like, that's all.","You want some type of information about the 1995 R100RS BMW motorcycle. In particular you are looking for a replacement or replacement method of an original rear fender. How would this be manufactured? What material is this original fender constructed out of? What color is it? If it is made from plastic, what specific kind? Will a carbon fiber or a composite material suffice? Where could one acquire this fender either new, second hand or as a replica? And what is the process of replacing it yourself?",0.4571020305156708,0.1,"[
+  (""learn"", ""motorcycle"", ""BMW C1""),
+  (""get_info"", ""motorcycle"", ""BMW C1"")
+]","[
+  (""get_info"", ""motorcycle"", ""1995 R100RS BMW motorcycle""),
+  (""explore"", ""motorcycle_part"", ""replacement method for original rear fender""),
+  (""learn"", ""material"", ""original rear fender construction""),
+  (""get_info"", ""color"", ""original rear fender""),
+  (""analyze"", ""material"", ""specific type of plastic used""),
+  (""decide"", ""material"", ""carbon fiber or composite material suitability""),
+  (""explore"", ""acquisition"", ""options for acquiring rear fender""),
+  (""plan"", ""replacement"", ""process of replacing rear fender yourself"")
+]",0.8,1.0,0.5,0.6
+13,"You want to buy a tuning fork. You want to buy a tuning fork for tuning your violin (and more specifically, the actual, old-fashioned device, not an online or digital tool). Since you are looking for a musical tuning fork, everything that is related to testing your hearing, is not relevant. Especially online webshops that have tuning forks for sale are important.",What are some sources for purchasing high-quality violin pickups online? There are many different kinds. What are good sites to get recommendations from or where you can easily compare many options?,0.5290096998214722,0.1,"1. (""decide"", ""musical instrument"", ""tuning fork"")
+2. (""plan"", ""purchase"", ""tuning fork"")
+3. (""explore"", ""webshop"", ""tuning fork"")
+4. (""target"", ""musical instrument"", ""violin"")
+5. (""target"", ""musical instrument"", ""old-fashioned tuning fork"")
+6. (""target"", ""musical instrument"", ""digital tuning fork"")","[
+  (""explore"", ""shopping"", ""high-quality violin pickups""),
+  (""get_info"", ""shopping"", ""recommendations for violin pickups""),
+  (""compare"", ""shopping"", ""options for violin pickups"")
+]",0.5,0.8,0.5,0.6
+14,"You would like to know how a Dewar flask works. In fact, you want to get to know the physical principles behind a Thermos vacuum flask.","A web agent has been instructed to perform the following task: ""How do I properly insulate my vacuum flask from the environment? What type of insulator material might I use inside the vacuum space?"" The domains visited by the agent include many encyclopedic and information sites that could answer this question, along with the website for a particular company, Thermos, that manufactures vacuum flasks (thermos.com). These sites contain technical information on vacuum technologies, and insulators used inside them.",0.5171821713447571,0.3,"[
+  (""learn"", ""physical_principles"", ""Dewar flask""),
+  (""learn"", ""physical_principles"", ""Thermos vacuum flask"")
+]","[
+  (""learn"", ""cooking_method"", ""insulating vacuum flask""),
+  (""explore"", ""material"", ""insulator materials for vacuum space""),
+  (""get_info"", ""company"", ""Thermos"")
+]",0.8,0.6,0.5,0.7
+15,"You want to know what this acronym stands for. In your electronics textbook, you found the term ROADM, without further explanation. You want to know what the acronym stands for. Results that provide the answer and deal with the right context (=electronics) are the most relevant ones.","What are the types of optical equipment currently being used in communication networks? Optical communication employs the use of light generated from lasers to deliver and receive digital information for telecommunication. Optical fiber is a type of medium through which optical communication takes place, wherein a beam of laser is transmitted through an optical fiber. There are many types of equipment involved in modern-day optical communication systems to produce laser beams, transmit signals at specific frequencies, and transform them back into electricity for consumption. The most commonly used laser-based devices include tunable transmitters, transceivers, optical amplifiers, laser diodes, and so on. What are some examples of these products used today? Where do these products come from (vendors)?",0.1781671643257141,0.1,"[
+  (""get_info"", ""electronics"", ""ROADM""),
+  (""target"", ""electronics"", ""acronym meaning"")
+]","[
+  (""learn"", ""optical_communication"", ""types of optical equipment""),
+  (""get_info"", ""optical_communication"", ""examples of laser-based devices""),
+  (""explore"", ""optical_communication"", ""vendors of optical equipment"")
+]",0.8,0.8,0.5,0.6
+16,"You want to buy a used kindle. You want to buy a second hande e-reader, and you heard the Amazon Kindle would be the best. General information about the Kindle is interesting for making you choice, but you are mostly looking for specific offers of Kindles on shopping sites.","You want to get an ebook reader so you can read some novels. But you only have a limited budget, because you live in Europe and you're not earning much money so you need a cheap option. You want advice from users on Reddit and elsewhere for how to get a good ebook reader for less than $200.",0.5975131392478943,0.4,"[
+  (""decide"", ""e-reader"", ""Amazon Kindle""),
+  (""get_info"", ""e-reader"", ""Kindle""),
+  (""explore"", ""shopping_site"", ""offers for used Kindles"")
+]","[
+  (""explore"", ""ebook_reader"", ""options under $200""),
+  (""get_info"", ""Reddit"", ""advice on ebook readers""),
+  (""decide"", ""ebook_reader"", ""best value for budget"")
+]",0.8,0.8,0.5,0.6
+17,"You want to buy the book with that title, written by Jurasky (the 2008 edition). For your job, you need this book, and your boss is willing to pay. Therefore, you are looking for a convenient online offer. Since you are going to study the book, all related digital content, is welcome, too. You are however not interested in reviews, because you already know that book is top.Since you are going to study the book, all related digital content, is welcome, too. You are however not interested in reviews, because you already know that book is top.","You've been assigned to teach an advanced 200-level undergraduate course in American government this fall. This will be your first time teaching the course and your first time being responsible for its syllabus, so you want to put together a list of required reading and topics for discussion, with the aim of covering each week's schedule over seven weeks. To help you get started, I'll tell you where some examples of similar syllabi already exist (either online, in publishers' catalogues, or on our library website), and also give some useful references for how you might prepare the rest of the syllabus.",0.25439369678497314,0.0,"1. (""book"", ""book"", ""book by Jurasky (2008 edition)"")
+2. (""explore"", ""online_offer"", ""convenient online offer for the book"")
+3. (""get_info"", ""digital_content"", ""related digital content for the book"")","1. (""plan"", ""academic_field"", ""American government course syllabus"")
+2. (""explore"", ""academic_field"", ""examples of similar syllabi"")
+3. (""get_info"", ""academic_field"", ""useful references for syllabus preparation"")",0.5,0.2,0.4,0.3
+18,"You want to buy a lounge chair by eames. Your boyfriend would like to have an Eames lounch chair, so you want to find one online. First of all, you are looking for shopping sites that have them for sale. Since you don't know much about it, related information (e.g., pictures) is also welcome.","A collector recently acquired two George Nelson sideboards attributed to Herman Miller: A 1954 ""L-shaped office cabinet"" and a 1947-50 ""C-shape magazine stand"". The collector knows that all Herman Miller items are now marked with a little stamp on the inside. However, some pieces were not stamped originally and therefore don't carry this mark. The question is whether the value of the item is affected if it is not stamped? It is easy for me to get some authentication, however, the collector wanted to know if there are other pieces like these being sold without the stamps. If the stamp is original, but was rubbed off, how does the value affect the piece?",0.06830502301454544,0.0,"1. (""explore"", ""shopping_site"", ""Eames lounge chair"")
+2. (""get_info"", ""product"", ""Eames lounge chair"")
+3. (""learn"", ""product"", ""Eames lounge chair"")","1. (""analyze"", ""value"", ""Herman Miller items without stamps"")
+2. (""explore"", ""market"", ""Herman Miller sideboards without stamps"")
+3. (""analyze"", ""value"", ""Herman Miller items with rubbed off stamps"")",0.8,0.6,0.5,0.7
+19,"You are looking for a sound file or video of one of Chopin's ballades, interpreted by Zimerman. You want to play one of Chopin's ballades, and in order to choose one, you want to listem to them first. Most relevant are interpretations of the ballades by Zimerman, as you heard he is a great Chopin interpreter. You don't want to pay for it, and you are not looking for scores either.","You are tasked with writing an article about the future of music education in a world where AI can compose music and perform concerts. The goal is to investigate this hypothetical near-future scenario from several perspectives: musical theory, composition and creation, performance, audience experience, education, employment, copyright law, and culture. For each perspective, find evidence that supports your argument and provide counterarguments.",0.2183450311422348,0.0,"[
+  (""explore"", ""music"", ""Chopin's ballades interpreted by Zimerman""),
+  (""decide"", ""music"", ""Chopin's ballades""),
+  (""get_info"", ""music"", ""sound file or video of Chopin's ballades""),
+  (""target"", ""music"", ""free interpretations of Chopin's ballades by Zimerman"")
+]","[
+  (""analyze"", ""music education"", ""future of music education""),
+  (""explore"", ""musical theory"", ""impact of AI on musical theory""),
+  (""explore"", ""composition and creation"", ""AI in music composition""),
+  (""explore"", ""performance"", ""AI in live music performance""),
+  (""explore"", ""audience experience"", ""AI's effect on audience experience""),
+  (""explore"", ""education"", ""AI's role in music education""),
+  (""explore"", ""employment"", ""employment in music industry with AI""),
+  (""explore"", ""copyright law"", ""copyright implications of AI in music""),
+  (""explore"", ""culture"", ""cultural impact of AI on music"")
+]",0.5,0.6,0.4,0.5

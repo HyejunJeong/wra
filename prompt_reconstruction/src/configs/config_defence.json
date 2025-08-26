@@ -1,0 +1,32 @@
+{ 
+  "traning_data_folder": "data/GPT-Researcher-Defence/Training",
+  "test_data_folder": "data/GPT-Researcher-Defence/Evaluation",
+  "Decoy_domains_folder": "data/GPT-Researcher-Defence/Decoy_domains",
+  "domain_prompts_folder": "data/GPT-Researcher-Defence/Decoy_prompts",
+  "output_dir": "output/GPT-Researcher-Defence",  
+
+  "decoy_domains_set_num": 5,
+  "mixing_sets_strategy": "random",
+  "mixing_traces_strategy": "random",
+  
+  "openai_api_key": "your_openai_key",
+  "model": "gpt-4o",
+  "max_tokens": 1000,
+  "temperature": 0.3, 
+  "sampling_ratio": 1.0,
+  "min_domains": 2,
+  "defence": true,
+  "timing_info": false,
+  "icl_type": "normal",
+  "icl_contrastive_strategy": "simple",
+  "icl_contrastive_num_negatives": 1,
+  "icl_contrastive_quality_threshold": 0.48,
+  "icl_trace_type": "domain",
+  "icl_num_examples": 5,
+  "icl_selection_strategy": "random",
+  "icl_ordering_strategy": "random",
+  "contrastive_temperature": 0.8,
+  "contrastive_max_tokens": 60,
+  "experiment_description": "random ICL selection and ordering",
+  "seed": 42
+} 

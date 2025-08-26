@@ -1,0 +1,34 @@
+{
+  "reconstructed_Evaluation Set - SESSION14-GR-GPT4.csv": {
+    "avg_sbert_similarity": 0.48958025500178337,
+    "avg_llm_judge_similarity": 0.36,
+    "avg_obels_functional_equivalence": 0.7350000000000001,
+    "avg_obels_domain_type_equivalence": 0.705,
+    "avg_obels_semantic_equivalence": 0.5,
+    "avg_obels_entity_granularity_tolerance": 0.6199999999999999,
+    "num_samples": 20
+  },
+  "reconstructed_Evaluation Set - SESSION14-GR-local.csv": {
+    "avg_sbert_similarity": 0.5303268268704414,
+    "avg_llm_judge_similarity": 0.4,
+    "avg_obels_functional_equivalence": 0.7100000000000002,
+    "avg_obels_domain_type_equivalence": 0.7500000000000001,
+    "avg_obels_semantic_equivalence": 0.505,
+    "avg_obels_entity_granularity_tolerance": 0.6249999999999998,
+    "num_samples": 20
+  },
+  "overall_folder_averages": {
+    "avg_sbert_similarity": 0.5099535409361124,
+    "avg_llm_judge_similarity": 0.38,
+    "avg_obels_functional_equivalence": 0.7225000000000001,
+    "avg_obels_domain_type_equivalence": 0.7275,
+    "avg_obels_semantic_equivalence": 0.5025,
+    "avg_obels_entity_granularity_tolerance": 0.6224999999999998,
+    "total_samples": 40,
+    "num_files": 2,
+    "processed_files": [
+      "reconstructed_Evaluation Set - SESSION14-GR-GPT4.csv",
+      "reconstructed_Evaluation Set - SESSION14-GR-local.csv"
+    ]
+  }
+}

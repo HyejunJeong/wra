@@ -1,0 +1,24 @@
+{
+  "reconstructed_SESSION14-DR-Evaluation.csv": {
+    "avg_sbert_similarity": 0.5734457492828369,
+    "avg_llm_judge_similarity": 0.36,
+    "avg_obels_functional_equivalence": 0.68,
+    "avg_obels_domain_type_equivalence": 0.72,
+    "avg_obels_semantic_equivalence": 0.48,
+    "avg_obels_entity_granularity_tolerance": 0.64,
+    "num_samples": 5
+  },
+  "overall_folder_averages": {
+    "avg_sbert_similarity": 0.5734457492828369,
+    "avg_llm_judge_similarity": 0.36,
+    "avg_obels_functional_equivalence": 0.68,
+    "avg_obels_domain_type_equivalence": 0.72,
+    "avg_obels_semantic_equivalence": 0.48,
+    "avg_obels_entity_granularity_tolerance": 0.64,
+    "total_samples": 5,
+    "num_files": 1,
+    "processed_files": [
+      "reconstructed_SESSION14-DR-Evaluation.csv"
+    ]
+  }
+}

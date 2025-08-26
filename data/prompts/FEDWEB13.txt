@@ -1,0 +1,129 @@
+Prompt 1: You want to find scientific publications on LHC (Large Hadron Collider (LHC)) collisions. Books or scientific video lectures are accepted, too. You want to study the most recent knowledge on the topic in depth. You expect scientific publications to be most helpful, including books (you might consider buying one), but scientific video lectures or encyclopedia might be interesting as well.
+
+Prompt 2: You need information about (the pros and cons of) male circumcision You have to make a scientific overview of the latest knowledge on male circumcision, with evidence-based pros and cons, including medical, psychological, and social information.
+To this end, you first need to delve into the latest research, including papers, videos, books, pictures etc...
+Especially information on male circumcision itself is important, whereas for instance information solely focusing on the link between circumcision and HIV is less relevant.
+
+Prompt 3: You are looking for information about a z-machine You have no idea what a z-machine is, but the colleagues are talking about it in relation to nuclear energy; and you quickly want to get at least an idea of what it is. Most relevant are pages that cover the functionality of a Z-machine, like dedicated encyclopedia articles.
+
+Prompt 4: You are looking for a thorough text review of Howl from Allen Ginsberg. You are intrigued by Howl from Ginsberg and want to know more about it. Detailed reviews are therefore most relevant. Besides that, you are also interested in background information about Howl and Ginsberg, which you consider somewhat less relevant than the reviews.
+
+Prompt 5: You want to find information about engineering at linkedin. You have just graduated as an engineer, and made your LinkedIn account. You are now looking for information about engineering at LinkedIn. More specifically: you need to navigate to http://engineering.linkedin.com/, although related sites might be useful, too.
+
+Prompt 6: You are looking for audiobooks by Raymond E Feist. You need to read a book from that author, but you don't know what the options are, and you don't like reading. Hence, you are looking for audiobooks: which ones are available, and where to buy them. 
+
+Most important are results that provide them for sale or for download. However, pages about the correct audiobooks are also highly relevant, even when you cannot directly download or buy them on the site.
+
+Prompt 7: You want to know what an M/G/1 queue is. You've come across that term, and want to know what it means. 
+Results that specifically focus on 'what is an M/G/1 queue' are most important, but results that compare them to other queues might be interesting as well.
+
+Prompt 8: You are looking for the lyrics of the song "Bangarang" by Skrillex. You don't understand the words from the song, so you would like to take a look at the lyrics. A movie is not very handy, because there you would first have to find the specific parts you are looking for.
+
+Prompt 9: You want to visit Porto and are trying to find travel tips, hotels, bars,... (none)
+
+Prompt 10: You want to buy a sony vaio laptop. Your old sony vaio laptop finally broke down, but as you were a real fan of it, you want a new laptop (not second hand) from the same brand. You will buy it over the internet, and are not looking for reviews.
+Top results are online stores with a large assortment of vaio laptops.
+
+Prompt 11: You want to know how a .csv file can be imported in excel. You need to import a .csv file in Excel, but you don't know that data type, and have no idea how to open it in Excel.
+Especially Excel help pages from Microsoft on this topic are relevant, but dedicated videos or tutorials are also fine.
+
+Prompt 12: You want to find the phone number of the 'Vom Fass'-shop in Ghent? You want to make an order in the Vom Fass shop in Ghent, by phone.
+Even though you are interested in general information about the shop, you are in the first place looking for contact details, and more specifically their phone number.
+
+Prompt 13: You want to know what a BMW C1 motorcycle looks like. You read that the BMW C1 would be a special case, as a motorcycle, so you wonder what it looks like, that's all.
+
+Prompt 14: You want to buy a tuning fork. You want to buy a tuning fork for tuning your violin (and more specifically, the actual, old-fashioned device, not an online or digital tool).
+Since you are looking for a musical tuning fork, everything that is related to testing your hearing, is not relevant.
+Especially online webshops that have tuning forks for sale are important.
+
+Prompt 15: You would like to know how a Dewar flask works. In fact, you want to get to know the physical principles behind a Thermos vacuum flask.
+
+Prompt 16: You want to know what this acronym stands for. In your electronics textbook, you found the term ROADM, without further explanation. You want to know what the acronym stands for. Results that provide the answer and deal with the right context (=electronics) are the most relevant ones.
+
+Prompt 17: You want to buy a used kindle. You want to buy a second hande e-reader, and you heard the Amazon Kindle would be the best.
+General information about the Kindle is interesting for making you choice, but you are mostly looking for specific offers of Kindles on shopping sites.
+
+Prompt 18: You want to buy the book with that title, written by Jurasky (the 2008 edition). For your job, you need this book, and your boss is willing to pay. Therefore, you are looking for a convenient online offer.
+
+Since you are going to study the book, all related digital content, is welcome, too. You are however not interested in reviews, because you already know that book is top.
+
+Prompt 19: You want to buy a lounge chair by eames. Your boyfriend would like to have an Eames lounch chair, so you want to find one online. 
+First of all, you are looking for shopping sites that have them for sale. 
+Since you don't know much about it, related information (e.g., pictures) is also welcome.
+
+Prompt 20: You are looking for a sound file or video of one of Chopin's ballades, interpreted by Zimerman. You want to play one of Chopin's ballades, and in order to choose one, you want to listem to them first. Most relevant are interpretations of the ballades by Zimerman, as you heard he is a great Chopin interpreter. You don't want to pay for it, and you are not looking for scores either.
+
+Prompt 21: You are looking for pictures of paintings made by Bouguereau. I am writing a paper about Bouguereau, for which I need pictures of some of his work.
+
+Prompt 22: You are looking for the theme music of the hobbits, from the movie Lord of the Rings You primarily want to hear the song, not necessarily download it. In any case, you are not willing to pay for it.
+
+Prompt 23: You want to read some reviews about the movie 'burn after reading'. You are a huge fan of films from the Coen Brothers, and want to write a small piece about 'Burn After Reading' in a student magazine. Before getting started, you want to read some online reviews about it.
+
+Prompt 24: You want to get a list with all the recordings of Jonathan Kreisberg. You are collecting his recordings, and want to know which albums you don't yet have. A full list of his recordings is most relevant, but specific information about Keisberg might be highly relevant, too.
+
+Prompt 25: You're looking for a sound (or video) file with 'ionisation' by Edgar Varese. You heard 'ionisation' on a concert and would like to see/hear it again online.
+
+Prompt 26: You want to find out who was the winner of the Eurovision song contest 2012. Your little sister wants to know who won the contest in 2012. You are not at all interested in this, but you quickly look it up anyway. You need the artist (answer: Loreen) and the country (answer: Sweden). 
+The faster you know these two facts, the better. It's even better if also the song title is mentioned (anticipating on your sister's next question; answer: Euphoria).
+
+Prompt 27: You want to know how to calculate the inertia of a sphere. You know how the inertia is defined, but you don't feel like deriving the formula for a sphere all the way from the start, so you are quickly trying to find it online.
+
+Prompt 28: You want to find out how to enable the Touch Pad Scroll Feature on your laptop (Dell Latitude). You have a new laptop, but you don't find how to activate the scrollpad. You don't want to spend much time, and are quickly looking for the answer online. Most relevant are pages that suggest the appropriate drivers, but forums with answers from the community may be highly relevant, too.
+
+Prompt 29: You are looking for some good dumb blonde jokes. As a simple pastime and especially to be able to boast with the best jokes to your friends, you are looking for jokes about dumb blondes.
+Especially result pages with several dumb blond jokes are what you're looking for, but videos about/with dumb blondes might be highly interesting, too.
+
+Prompt 30: You want to understand MANOVA and are looking for videolectures that can help you with that. You are an engineering student, and studying for a statistics exam. You have some notions about MANOVA but your course book is not sufficient. In order to understand MANOVA better, you are looking for some good lectures.
+
+Prompt 31: You want to know what kind of treatments are available for cystic fibrosis You are currently studying for your retake on heart, long, and kidneys. During the part on respiratory fysiology, you come across the desease 'cystic fibrosis', and you want to know which are the possibilities for therapy. Since you are going to be a physician, results with sufficient scientific depth are welcome.
+
+Prompt 32: You are in New York, and are looking for a place to eat pho. Especially information or reviews about New York restaurants where you can eat pho are welcome. General info about restaurants in New York are not exactly what you intended, but since you are looking for a place to eat, they can be interesting, too.
+
+Prompt 33: You are looking for the latest news about the pittsburgh steelers (football team) The best results you are looking for, are the homepage of the Pittsburgh Steelers, or news pages where the Steelers are being discussed in detail. Especially results from April or May, 2013, are important (i.e., when the data were crawled).
+[note: this is not a navigational query]
+
+Prompt 34: You want to buy Yves Saint Laurent boots. (none)
+
+Prompt 35: You want to find out which are the cities that surround Long Beach, California. During your holiday in Long Beach California, you want to know which cities, surrounding Long Beach, are worth paying a visit. For now, you just want to know the names of those cities.
+
+The results are especially interesting if they come from sites specialized in travelling, or from geographical sites / maps. However, results that indirectly mention these cities might be highly relevant to your specific information need, too.
+
+Prompt 36: You want to obtain the latest AVG home edition. You heard AVG would be a greate antivirus tool, and you want to obtain it. The AVG homepage is most relevant, obviously. Some pages only provide the free version, which is still highly relevant, albeit below top. Your main concern is recency: if you find an AVG version that was released before 2013, you consider it non relevant.
+
+Prompt 37: You are looking for a job in the Massachusetts general hospital. You are about to finish medical school, and would like to know if there are any open positions at the Massachusetts general hospital. You are open to vacencies announced on specialized sites, but you mostly expect to navigate to the jobs section of the hospital's homepage.
+
+Prompt 38: You want to know why cats purr and what it means. You have cats and want to know what they want to communicate while purring. Any information on the meaning of purring is interesting, including videos. However, biological information on how the purring is done, is not relevant.
+
+Prompt 39: You want to find a recipe for a crab dip appetizer. Some friends are coming over for lunch. You have some crab left, and want to use it for making a dip sauce as an appetizer. You are only interested in free recipes, and not in recipes for main dishes with crab.
+
+Prompt 40: You are looking for recipes or videos on how to make Swahili dishes. You have visitors, and you promised them a typical Swahili dish. For now, you're not looking for recipes from other cultures, and you have no time to read into other aspects of Swahili culture.
+
+Prompt 41: You want to find US road maps. (none)
+
+Prompt 42: You want to find news about Kobe Bryant. In fact, you are really looking for the latest gossip about Kobe Bryant. Most relevant are therefore the most recent posts, rather than older biographical data about him.
+
+Prompt 43: You want to find the criteria needed for a child to be diagnozed with ADHD. Your child has difficulties focusing at school. You want to find out whether that points in the direction of adhd, before going to a doctor. Results in the form of a quiz are somewhat relevant, but you prefer medical sites with a better explanation of the symptoms.
+
+Prompt 44: You want to know everything about Kim Kardashian being pregnant, with pictures and everything. I want to know the latest gossip about Kim Kardashian pregnancy. However, I'm not up-to-date with older gossip, so that's welcome as well.
+
+Prompt 45: You want to know which are this year's most anticipates games You want to find out which video games have been released in the first months of 2013, and which are expected before the end of the year. 
+Based on trailers/previews and reviews by experts, you want to make up your mind about the most anticipated games in 2013, keeping in mind you might want to order one.
+
+The best results are those with a large overview of 2013 games (top 10 is fine, but more is even better). 
+You want to make your judgment based on those from specialized sites or game developers. 
+Games for all possible consoles are taken into account (ps3, xbox, pc,...).
+
+Prompt 46: You want to find out if there is going to come a sequal to the X-Men film series, and if so, when it can be expected. (none)
+
+Prompt 47: You want to find inspiration on some fun activities you could prepare for a bachelor party. Your brother is getting married. 
+You are looking for some original ideas for his bachelor party. Sites that are dedicated to the topic are top, especially if they describe several pranks. 
+Sites about bachelorette parties (for girls) are only slightly interesting, as you expect that most stuff is not usable for men.
+Jokes about bachelor parties are non-relevant.
+
+Prompt 48: You heard the Leiden schools have been closed due to a massive gun threat. Any further news would be most helpful. You have some family living in Leiden, and heard about the gun threat on the news. Now you are looking for the latest developments, and some more detailed information.
+
+Prompt 49: You want to know more about the recent ethnic cleansing in Myanmar Reports on the ethnic conflict that erupted around Juni 2012, and the situation up to now (=April 23,2013), are the most relevant information you are looking for, especially the ethnic cleansing of the Rohingya population. Earlier ethnic conflicts are considered less relevant.
+
+Prompt 50: You heard the singer from I touch myself  just died (Chrissy Amphlett), and you want to know more about that. You heard Chrissy Amphlett passed away, and you would like to have some more information on who she was, and especially the cause of her early death. 
+Especially results from trustworthy sources in the music community  (like specialized magazines) are important.
+

@@ -1,0 +1,74 @@
+{
+  "reconstructed_Evaluation Set - DD16-GR-GPT4.csv": {
+    "avg_sbert_similarity": 0.4833365105092525,
+    "avg_llm_judge_similarity": 0.22999999999999998,
+    "avg_obels_functional_equivalence": 0.64,
+    "avg_obels_domain_type_equivalence": 0.64,
+    "avg_obels_semantic_equivalence": 0.45,
+    "avg_obels_entity_granularity_tolerance": 0.59,
+    "num_samples": 20
+  },
+  "reconstructed_Evaluation Set - DD16-GR-local.csv": {
+    "avg_sbert_similarity": 0.4963964741677046,
+    "avg_llm_judge_similarity": 0.275,
+    "avg_obels_functional_equivalence": 0.56,
+    "avg_obels_domain_type_equivalence": 0.6649999999999999,
+    "avg_obels_semantic_equivalence": 0.43499999999999994,
+    "avg_obels_entity_granularity_tolerance": 0.5549999999999999,
+    "num_samples": 20
+  },
+  "reconstructed_Evaluation Set - FEDWEB13-GR-GPT4.csv": {
+    "avg_sbert_similarity": 0.49989514648914335,
+    "avg_llm_judge_similarity": 0.355,
+    "avg_obels_functional_equivalence": 0.7750000000000001,
+    "avg_obels_domain_type_equivalence": 0.7800000000000001,
+    "avg_obels_semantic_equivalence": 0.5599999999999999,
+    "avg_obels_entity_granularity_tolerance": 0.69,
+    "num_samples": 20
+  },
+  "reconstructed_Evaluation Set - FEDWEB13-GR-local.csv": {
+    "avg_sbert_similarity": 0.471313252300024,
+    "avg_llm_judge_similarity": 0.29000000000000004,
+    "avg_obels_functional_equivalence": 0.6750000000000002,
+    "avg_obels_domain_type_equivalence": 0.705,
+    "avg_obels_semantic_equivalence": 0.5,
+    "avg_obels_entity_granularity_tolerance": 0.5599999999999999,
+    "num_samples": 20
+  },
+  "reconstructed_Evaluation Set - SESSION14-GR-GPT4.csv": {
+    "avg_sbert_similarity": 0.43206212669610977,
+    "avg_llm_judge_similarity": 0.28,
+    "avg_obels_functional_equivalence": 0.6850000000000002,
+    "avg_obels_domain_type_equivalence": 0.7350000000000001,
+    "avg_obels_semantic_equivalence": 0.4999999999999999,
+    "avg_obels_entity_granularity_tolerance": 0.6199999999999999,
+    "num_samples": 20
+  },
+  "reconstructed_Evaluation Set - SESSION14-GR-local.csv": {
+    "avg_sbert_similarity": 0.42646907139569523,
+    "avg_llm_judge_similarity": 0.33499999999999996,
+    "avg_obels_functional_equivalence": 0.6700000000000002,
+    "avg_obels_domain_type_equivalence": 0.6650000000000001,
+    "avg_obels_semantic_equivalence": 0.505,
+    "avg_obels_entity_granularity_tolerance": 0.6299999999999999,
+    "num_samples": 20
+  },
+  "overall_folder_averages": {
+    "avg_sbert_similarity": 0.468245430259655,
+    "avg_llm_judge_similarity": 0.29416666666666663,
+    "avg_obels_functional_equivalence": 0.6675000000000001,
+    "avg_obels_domain_type_equivalence": 0.6983333333333334,
+    "avg_obels_semantic_equivalence": 0.49166666666666664,
+    "avg_obels_entity_granularity_tolerance": 0.6074999999999999,
+    "total_samples": 120,
+    "num_files": 6,
+    "processed_files": [
+      "reconstructed_Evaluation Set - DD16-GR-GPT4.csv",
+      "reconstructed_Evaluation Set - DD16-GR-local.csv",
+      "reconstructed_Evaluation Set - FEDWEB13-GR-GPT4.csv",
+      "reconstructed_Evaluation Set - FEDWEB13-GR-local.csv",
+      "reconstructed_Evaluation Set - SESSION14-GR-GPT4.csv",
+      "reconstructed_Evaluation Set - SESSION14-GR-local.csv"
+    ]
+  }
+}

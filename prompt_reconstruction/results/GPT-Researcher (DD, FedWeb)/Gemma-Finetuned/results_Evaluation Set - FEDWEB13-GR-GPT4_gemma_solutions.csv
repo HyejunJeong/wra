@@ -1,0 +1,178 @@
+Unnamed: 0,prompts,reconstructed_prompt,sbert_similarity,llm_judge_similarity,original_prompt_triplets,reconstructed_prompt_triplets,obels_functional_equivalence,obels_domain_type_equivalence,obels_semantic_equivalence,obels_entity_granularity_tolerance
+0,"You want to find scientific publications on LHC (Large Hadron Collider (LHC)) collisions. Books or scientific video lectures are accepted, too. You want to study the most recent knowledge on the topic in depth. You expect scientific publications to be most helpful, including books (you might consider buying one), but scientific video lectures or encyclopedia might be interesting as well.","Find the final state of the CMS data (2017 dataset) and you are asked to find events that look like they produced a large jet. You are asked to find events where the jet was not produced on the CMS detector, you were asked to find events where the jet was produced on the CMS detector. You should find the jet events by looking for jets. You found jets. You should then look for events that contain a large jet and are not found on the CMS detector. You need to find events that contain a large jet. You found events that contain large jets. Is there a way you can find which event produced these jets? Are there any events that have not been recorded as well? These events were produced by jets. Did any of the jets have a high energy value?",0.2870895266532898,0.1,"1. (""learn"", ""scientific_publications"", ""LHC collisions"")
+2. (""explore"", ""books"", ""LHC collisions"")
+3. (""explore"", ""video_lectures"", ""LHC collisions"")
+4. (""get_info"", ""encyclopedia"", ""LHC collisions"")","[
+  (""analyze"", ""CMS data"", ""final state of the CMS data (2017 dataset)""),
+  (""explore"", ""event"", ""events that produced a large jet""),
+  (""explore"", ""event"", ""events where the jet was not produced on the CMS detector""),
+  (""explore"", ""event"", ""events where the jet was produced on the CMS detector""),
+  (""explore"", ""event"", ""jet events""),
+  (""get_info"", ""event"", ""events that contain a large jet and are not found on the CMS detector""),
+  (""explore"", ""event"", ""events that contain a large jet""),
+  (""analyze"", ""event"", ""which event produced these jets""),
+  (""get_info"", ""event"", ""events that have not been recorded""),
+  (""analyze"", ""jet"", ""jets produced by events""),
+  (""analyze"", ""jet"", ""jets with a high energy value"")
+]",0.8,0.6,0.5,0.7
+1,"You need information about (the pros and cons of) male circumcision You have to make a scientific overview of the latest knowledge on male circumcision, with evidence-based pros and cons, including medical, psychological, and social information. To this end, you first need to delve into the latest research, including papers, videos, books, pictures etc... Especially information on male circumcision itself is important, whereas for instance information solely focusing on the link between circumcision and HIV is less relevant.","You have a patient that is a young, uncircumcised boy from rural kenya. He is being brought to your office and you're trying to find out how to convince the parents. You are able to ask the patient for his views, but he does not speak english. How do you convince the parents to allow circumcision?",0.5063588619232178,0.2,"[
+  (""learn"", ""medical"", ""male circumcision""),
+  (""analyze"", ""research"", ""latest knowledge on male circumcision""),
+  (""explore"", ""evidence"", ""pros and cons of male circumcision""),
+  (""evaluate"", ""psychological"", ""impact of male circumcision""),
+  (""evaluate"", ""social"", ""implications of male circumcision""),
+  (""get_info"", ""research"", ""papers on male circumcision""),
+  (""get_info"", ""media"", ""videos on male circumcision""),
+  (""get_info"", ""literature"", ""books on male circumcision""),
+  (""get_info"", ""visuals"", ""pictures related to male circumcision"")
+]","[
+  (""analyze"", ""patient_care"", ""circumcision""),
+  (""get_info"", ""communication"", ""non-English speaking patient""),
+  (""plan"", ""patient_engagement"", ""convincing parents"")
+]",0.5,0.5,0.4,0.6
+2,"You are looking for information about a z-machine You have no idea what a z-machine is, but the colleagues are talking about it in relation to nuclear energy; and you quickly want to get at least an idea of what it is. Most relevant are pages that cover the functionality of a Z-machine, like dedicated encyclopedia articles.",You are looking for a model that would predict the best fusion reactions and designs. You’d like to learn about designs that have higher performance than traditional reactors. You are particularly interested in the effects of wall collisions in the plasma. You can investigate the model using an online simulator with some degree of customization.,0.3315664529800415,0.0,"[
+  (""get_info"", ""nuclear_energy"", ""z-machine""),
+  (""target"", ""information_source"", ""encyclopedia articles"")
+]","1. (""learn"", ""fusion_reactors"", ""designs with higher performance than traditional reactors"")
+2. (""analyze"", ""fusion_reactors"", ""effects of wall collisions in plasma"")
+3. (""explore"", ""simulation_tools"", ""online simulator with customization options"")",0.5,0.8,0.4,0.5
+3,"You are looking for a thorough text review of Howl from Allen Ginsberg. You are intrigued by Howl from Ginsberg and want to know more about it. Detailed reviews are therefore most relevant. Besides that, you are also interested in background information about Howl and Ginsberg, which you consider somewhat less relevant than the reviews.","You want to find information about a 20th-century, politically aware, surrealist, feminist poem. You want to find one that embodies the aesthetics of the poetry, and you want to find information about the author and their background. You want to find a poem of good quality, which should be well-edited and properly formatted (for instance: one page, no margins, etc.).",0.3342083692550659,0.4,"[
+  (""read"", ""literature"", ""Howl by Allen Ginsberg""),
+  (""learn"", ""literature"", ""background information about Howl and Allen Ginsberg"")
+]","1. (""learn"", ""poetry"", ""20th-century surrealist feminist poem"")
+2. (""explore"", ""poetry"", ""poem aesthetics"")
+3. (""get_info"", ""author"", ""author background"")
+4. (""evaluate"", ""poetry"", ""poem quality"")
+5. (""plan"", ""poetry"", ""poem formatting requirements"")",0.8,0.8,0.5,0.6
+4,"You want to find information about engineering at linkedin. You have just graduated as an engineer, and made your LinkedIn account. You are now looking for information about engineering at LinkedIn. More specifically: you need to navigate to http://engineering.linkedin.com/, although related sites might be useful, too.","You are an academic working in the field of research. You are looking for information about the use of sentiment analysis to support business decision making. You are particularly interested in what techniques are being used in industry to make decisions about what content should be purchased and the relative importance of different indicators. You are looking for ways to compare the use of sentiment analysis in business to research. You are interested in business and academic research, but you have no specific interest in finding information from commercial vendors. You are not looking for a particular source, but rather for the general use of sentiment analysis in business. Your interests are more specifically related to the use of sentiment analysis to support business decision making.",0.23870722949504852,0.0,"[
+  (""get_info"", ""engineering"", ""LinkedIn""),
+  (""target"", ""website"", ""http://engineering.linkedin.com/"")
+]","1. (""learn"", ""academic_field"", ""sentiment analysis"")
+2. (""analyze"", ""business"", ""business decision making"")
+3. (""explore"", ""business"", ""techniques used in industry"")
+4. (""compare"", ""business"", ""sentiment analysis vs research"")
+5. (""get_info"", ""business"", ""importance of different indicators"")",0.8,0.6,0.5,0.5
+5,"You are looking for audiobooks by Raymond E Feist. You need to read a book from that author, but you don't know what the options are, and you don't like reading. Hence, you are looking for audiobooks: which ones are available, and where to buy them. Most important are results that provide them for sale or for download. However, pages about the correct audiobooks are also highly relevant, even when you cannot directly download or buy them on the site.","You want to look for a specific audiobook series by an author who publishes on Audible, Amazon, Barnes and Noble and other sources. You're looking for *The Librarian* or *The Black Library* series.",0.834754467010498,0.3,"[
+  (""explore"", ""audiobook"", ""Raymond E Feist""),
+  (""get_info"", ""audiobook"", ""available options""),
+  (""decide"", ""purchase"", ""where to buy audiobooks"")
+]","[
+  (""explore"", ""audiobook_series"", ""The Librarian""),
+  (""explore"", ""audiobook_series"", ""The Black Library"")
+]",0.8,1.0,0.5,0.6
+6,"You want to know what an M/G/1 queue is. You've come across that term, and want to know what it means. Results that specifically focus on 'what is an M/G/1 queue' are most important, but results that compare them to other queues might be interesting as well.","You want to know how to create a non-deterministic linear chain of digits, where each digit is created as a combination of the digits from a number between 1 and 999. As well you want to know how many different chain length digits can be created. How would that work? Find sources that provide more information on that topic.  You are looking for the mathematical foundations, but you are not looking for the algorithm.",0.0419328399002552,0.0,"[
+  (""learn"", ""academic_field"", ""M/G/1 queue""),
+  (""compare"", ""academic_field"", ""M/G/1 queue"")
+]","[
+  (""learn"", ""mathematics"", ""non-deterministic linear chain of digits""),
+  (""analyze"", ""mathematics"", ""different chain length digits""),
+  (""get_info"", ""sources"", ""mathematical foundations"")
+]",0.8,1.0,0.5,0.6
+7,"You are looking for the lyrics of the song ""Bangarang"" by Skrillex. You don't understand the words from the song, so you would like to take a look at the lyrics. A movie is not very handy, because there you would first have to find the specific parts you are looking for.","You want to know the origin and meaning of the ""Bluebird"" song, by the band ""The Rolling Stones"". You're specifically interested in how this song fits into the context of the ""Sympathy for the Devil"" album, which is generally known for its hard rock songs.",0.22373679280281067,0.0,"[
+  (""get_info"", ""music"", ""Bangarang lyrics""),
+  (""analyze"", ""music"", ""Bangarang lyrics"")
+]","[
+  (""learn"", ""song"", ""Bluebird""),
+  (""analyze"", ""album"", ""Sympathy for the Devil""),
+  (""compare"", ""album"", ""hard rock songs"")
+]",0.5,0.6,0.4,0.5
+8,"You want to visit Porto and are trying to find travel tips, hotels, bars,... (none)",The website www.cozycozy.com is a portal that allows you to quickly find all tourist accommodations in Portugal.,0.5581058263778687,0.4,"[
+  (""explore"", ""travel"", ""Porto""),
+  (""get_info"", ""travel_tips"", ""Porto""),
+  (""explore"", ""accommodation"", ""hotels in Porto""),
+  (""explore"", ""entertainment"", ""bars in Porto"")
+]","[
+  (""explore"", ""travel"", ""tourist accommodations""),
+  (""get_info"", ""website"", ""www.cozycozy.com""),
+  (""target"", ""location"", ""Portugal"")
+]",0.8,0.8,0.5,0.6
+9,"You want to buy a sony vaio laptop. Your old sony vaio laptop finally broke down, but as you were a real fan of it, you want a new laptop (not second hand) from the same brand. You will buy it over the internet, and are not looking for reviews. Top results are online stores with a large assortment of vaio laptops.",How much did they cost when you bought them? Why do they keep going up? Are they going up forever? Will they keep going up in the future?,0.15478643774986267,0.0,"[
+  (""decide"", ""electronics"", ""sony vaio laptop""),
+  (""plan"", ""shopping"", ""buy online""),
+  (""target"", ""electronics"", ""new sony vaio laptop""),
+  (""target"", ""shopping"", ""online stores with large assortment"")
+]","[
+  (""get_info"", ""cost"", ""them""),
+  (""analyze"", ""price_trend"", ""them""),
+  (""explore"", ""future_price"", ""them"")
+]",0.0,0.0,0.0,0.0
+10,"You want to know how a .csv file can be imported in excel. You need to import a .csv file in Excel, but you don't know that data type, and have no idea how to open it in Excel. Especially Excel help pages from Microsoft on this topic are relevant, but dedicated videos or tutorials are also fine.","""I want to know how I can use Power BI to produce a visual report for stakeholders based on sales of my car business.""",0.16985467076301575,0.0,"[
+  (""learn"", ""data_import"", "".csv file""),
+  (""get_info"", ""Excel_help"", ""importing .csv file""),
+  (""explore"", ""tutorials"", ""importing .csv file in Excel"")
+]","[
+  (""learn"", ""software"", ""Power BI""),
+  (""plan"", ""reporting"", ""visual report""),
+  (""analyze"", ""business"", ""sales of my car business""),
+  (""target"", ""audience"", ""stakeholders"")
+]",0.2,0.5,0.2,0.0
+11,"You want to find the phone number of the 'Vom Fass'-shop in Ghent? You want to make an order in the Vom Fass shop in Ghent, by phone. Even though you are interested in general information about the shop, you are in the first place looking for contact details, and more specifically their phone number.","You want to find out where you can buy a voucher for the Van Fossé supermarket in Ghent, Belgium.",0.5395549535751343,0.1,"[
+  (""get_info"", ""shop"", ""Vom Fass""),
+  (""get_info"", ""contact_details"", ""phone number""),
+  (""plan"", ""order"", ""Vom Fass shop in Ghent"")
+]","[
+  (""learn"", ""voucher"", ""Van Fossé supermarket""),
+  (""target"", ""location"", ""Ghent, Belgium"")
+]",0.5,0.8,0.5,0.6
+12,"You want to know what a BMW C1 motorcycle looks like. You read that the BMW C1 would be a special case, as a motorcycle, so you wonder what it looks like, that's all.","You want to replace a worn-out clutch cable on a 2005 BMW R1150GS Adventure that you have, along with two new OEM clutch assemblies. It is not a new vehicle, and has been sitting for quite some time. You want a complete and easy to understand set of new instructions (or videos) with images.",0.2769923210144043,0.0,"[
+  (""learn"", ""motorcycle"", ""BMW C1""),
+  (""get_info"", ""motorcycle"", ""appearance"")
+]","[
+  (""learn"", ""repair"", ""clutch cable replacement instructions for 2005 BMW R1150GS Adventure""),
+  (""explore"", ""repair"", ""videos with images for clutch cable replacement""),
+  (""analyze"", ""vehicle condition"", ""2005 BMW R1150GS Adventure"")
+]",0.8,0.8,0.5,0.6
+13,"You want to buy a tuning fork. You want to buy a tuning fork for tuning your violin (and more specifically, the actual, old-fashioned device, not an online or digital tool). Since you are looking for a musical tuning fork, everything that is related to testing your hearing, is not relevant. Especially online webshops that have tuning forks for sale are important.",Does anyone else have a passion for sound healing?,0.17294397950172424,0.0,"[
+  (""decide"", ""musical instrument"", ""tuning fork""),
+  (""target"", ""musical instrument"", ""violin""),
+  (""explore"", ""online webshop"", ""tuning fork""),
+  (""analyze"", ""musical instrument"", ""old-fashioned tuning fork""),
+  (""get_info"", ""hearing test"", ""tuning fork"")
+]","[  
+  (""explore"", ""sound healing"", ""passion"")  
+]",0.0,0.0,0.0,0.0
+14,"You would like to know how a Dewar flask works. In fact, you want to get to know the physical principles behind a Thermos vacuum flask.","Is there any specific product that can maintain the heat for the longest time, like more than 6 hours? How do I make sure my food stays warm for a really long time?",0.10889871418476105,0.3,"[
+  (""learn"", ""physical_principles"", ""Dewar flask""),
+  (""learn"", ""physical_principles"", ""Thermos vacuum flask"")
+]","[
+  (""explore"", ""product"", ""heat retention products""),
+  (""learn"", ""cooking_method"", ""keeping food warm for long periods"")
+]",0.8,0.6,0.5,0.7
+15,"You want to know what this acronym stands for. In your electronics textbook, you found the term ROADM, without further explanation. You want to know what the acronym stands for. Results that provide the answer and deal with the right context (=electronics) are the most relevant ones.",You need to find the wavelength of light that can cause a specific amount of excitation in a silicon diode. How can you find that information?,0.12690789997577667,0.0,"[
+  (""get_info"", ""electronics"", ""ROADM""),
+  (""target"", ""electronics"", ""acronym meaning"")
+]","[
+  (""learn"", ""physics"", ""wavelength of light for silicon diode excitation""),
+  (""get_info"", ""silicon diode"", ""excitation amount"")
+]",0.5,0.5,0.4,0.6
+16,"You want to buy a used kindle. You want to buy a second hande e-reader, and you heard the Amazon Kindle would be the best. General information about the Kindle is interesting for making you choice, but you are mostly looking for specific offers of Kindles on shopping sites.","In this year's summer school program in the European Union, you are expected to find a website that contains some data about the countries' population from the years 2000 to 2022. You want to find the most recent figures for those countries, so the first search result is also important. Which countries should you have investigated to find this kind of information.",0.12736304104328156,0.0,"[
+  (""decide"", ""e-reader"", ""Amazon Kindle""),
+  (""get_info"", ""e-reader"", ""Kindle""),
+  (""explore"", ""shopping_site"", ""offers for used Kindles"")
+]","[
+  (""explore"", ""summer school program"", ""European Union""),
+  (""get_info"", ""population data"", ""countries from 2000 to 2022""),
+  (""decide"", ""countries"", ""most recent figures"")
+]",0.5,0.2,0.4,0.3
+17,"You want to buy the book with that title, written by Jurasky (the 2008 edition). For your job, you need this book, and your boss is willing to pay. Therefore, you are looking for a convenient online offer. Since you are going to study the book, all related digital content, is welcome, too. You are however not interested in reviews, because you already know that book is top.Since you are going to study the book, all related digital content, is welcome, too. You are however not interested in reviews, because you already know that book is top.","How are the differences between the different types of materials that are considered as evidence in trial different than those that are not. You are interested in knowing how your argument about evidence can be used in court, and what the differences are when presenting that evidence.",0.026076283305883408,0.0,"1. (""book"", ""book"", ""book by Jurasky 2008 edition"")
+2. (""explore"", ""online_offer"", ""convenient online offer for the book"")
+3. (""get_info"", ""digital_content"", ""related digital content for the book"")","[
+  (""analyze"", ""evidence_types"", ""materials considered as evidence in trial""),
+  (""compare"", ""evidence_types"", ""materials not considered as evidence in trial""),
+  (""learn"", ""argumentation"", ""use of evidence in court""),
+  (""explore"", ""presentation"", ""differences in presenting evidence"")
+]",0.0,0.0,0.0,0.0
+18,"You want to buy a lounge chair by eames. Your boyfriend would like to have an Eames lounch chair, so you want to find one online. First of all, you are looking for shopping sites that have them for sale. Since you don't know much about it, related information (e.g., pictures) is also welcome.","What's the best way to find a vintage Eames lounge chair? What about the price, how is the chair determined?",0.7191030383110046,0.4,"[
+  (""explore"", ""shopping_site"", ""Eames lounge chair""),
+  (""get_info"", ""Eames lounge chair"", ""pictures"")
+]","[
+  (""explore"", ""furniture"", ""vintage Eames lounge chair""),
+  (""get_info"", ""furniture"", ""price determination of Eames lounge chair"")
+]",1.0,0.8,0.7,0.9
+19,"You are looking for a sound file or video of one of Chopin's ballades, interpreted by Zimerman. You want to play one of Chopin's ballades, and in order to choose one, you want to listem to them first. Most relevant are interpretations of the ballades by Zimerman, as you heard he is a great Chopin interpreter. You don't want to pay for it, and you are not looking for scores either.","You want to know where you can get a copy of the music of the old masters, including Bach's inventions",0.26943519711494446,0.0,"1. (""explore"", ""sound_file"", ""Chopin's ballades interpreted by Zimerman"")
+2. (""decide"", ""sound_file"", ""Chopin's ballades"")
+3. (""get_info"", ""musical_interpreter"", ""Zimerman"")","[
+  (""learn"", ""music"", ""old masters""),
+  (""get_info"", ""music"", ""Bach's inventions""),
+  (""explore"", ""music"", ""places to get a copy"")
+]",0.5,0.5,0.4,0.6

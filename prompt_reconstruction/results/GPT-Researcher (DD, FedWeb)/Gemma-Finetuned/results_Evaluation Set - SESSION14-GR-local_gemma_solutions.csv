@@ -1,0 +1,190 @@
+Unnamed: 0,prompts,reconstructed_prompt,sbert_similarity,llm_judge_similarity,original_prompt_triplets,reconstructed_prompt_triplets,obels_functional_equivalence,obels_domain_type_equivalence,obels_semantic_equivalence,obels_entity_granularity_tolerance
+0,A friend from Kenya is visiting you and you'd like to surprise him with by cooking a traditional Swahili dish. You want to learn about Swahili dishes and how to cook them. Find web pages about Swahili home cooking.,Is the user planning a trip to East Africa?,0.31684428453445435,0.0,"[
+  (""learn"", ""cuisine"", ""Swahili dishes""),
+  (""explore"", ""cooking_method"", ""traditional Swahili dish""),
+  (""get_info"", ""web_pages"", ""Swahili home cooking"")
+]","[  
+  (""plan"", ""travel"", ""East Africa"")  
+]",0.2,0.2,0.0,0.0
+1,"You want to know what city and state Dulles airport is in; what shuttles, ride-sharing vans, and taxi cabs connect the airport to other cities; what hotels are close to the airport; where cheap off-airport parking is; and where metro stops close to Dulles airport are.","How much would it cost to fly for 4 adults from Washington, D.C., to Rome? You wish to buy non-stop economy tickets.",0.19568568468093872,0.0,"[
+  (""get_info"", ""airport"", ""Dulles airport""),
+  (""get_info"", ""transportation"", ""shuttles""),
+  (""get_info"", ""transportation"", ""ride-sharing vans""),
+  (""get_info"", ""transportation"", ""taxi cabs""),
+  (""explore"", ""accommodation"", ""hotels near Dulles airport""),
+  (""explore"", ""parking"", ""cheap off-airport parking""),
+  (""explore"", ""public_transport"", ""metro stops near Dulles airport"")
+]","[
+  (""explore"", ""flight"", ""cost for 4 adults from Washington, D.C. to Rome non-stop economy tickets"")
+]",0.2,0.5,0.3,0.2
+2,Suppose you have earned a Masters degree in Business. You want to find information to help you decide whether it is worth getting a PhD in Business or not. Find web pages that will help with a cost/benefit analysis of advanced education in Business.,"You're starting to find some business roles, but you need to determine a good college to start your masters. Where are the top programs that are affordable and close to home?",0.4566575884819031,0.2,"[
+  (""decide"", ""academic_field"", ""PhD in Business""),
+  (""analyze"", ""academic_field"", ""advanced education in Business""),
+  (""get_info"", ""web_pages"", ""cost/benefit analysis of advanced education in Business"")
+]","1. (""explore"", ""academic_field"", ""masters programs in business"")
+2. (""target"", ""academic_field"", ""affordable business masters programs"")
+3. (""target"", ""academic_field"", ""business masters programs close to home"")",0.8,1.0,0.5,0.7
+3,"Your friend would like to quit smoking. You would like to provide him with relevant information about: different ways to quit smoking, programs available to help quit smoking, benefits of quitting smoking, second effects of quitting smoking, using hypnosis to quit smoking, using the cold turkey method to quit smoking",What are the risk factors for tobacco? What are some ways to get nicotine free? What can I do to quit tobacco if I want to? How do different types of drugs affect tobacco use?,0.5539096593856812,0.3,"[
+  (""learn"", ""treatment_method"", ""different ways to quit smoking""),
+  (""learn"", ""program"", ""programs available to help quit smoking""),
+  (""learn"", ""benefit"", ""benefits of quitting smoking""),
+  (""analyze"", ""effect"", ""second effects of quitting smoking""),
+  (""learn"", ""treatment_method"", ""using hypnosis to quit smoking""),
+  (""learn"", ""treatment_method"", ""using the cold turkey method to quit smoking"")
+]","[
+  (""learn"", ""health"", ""risk factors for tobacco""),
+  (""explore"", ""treatment_method"", ""ways to get nicotine free""),
+  (""plan"", ""treatment_method"", ""quit tobacco""),
+  (""analyze"", ""drug_effects"", ""different types of drugs affecting tobacco use"")
+]",0.8,0.8,0.6,0.7
+4,Suppose you are writing an article about face transplants. You want general information about face transplants and how face transplants affect the lives of patients. Find web pages about face transplants.,Which medications do you know might interfere with the efficacy of the new anti-cancer drug you’re being considering?,0.11815665662288666,0.0,"[
+  (""get_info"", ""medical_procedure"", ""face transplants""),
+  (""analyze"", ""medical_procedure"", ""impact on patients' lives""),
+  (""explore"", ""web_resources"", ""web pages about face transplants"")
+]","[
+  (""analyze"", ""medication"", ""interference with anti-cancer drug efficacy""),
+  (""get_info"", ""medication"", ""new anti-cancer drug"")
+]",0.8,0.5,0.4,0.3
+5,One of your friends from Kenya invited you to attend a party in his house and have a taste of traditional Swahili dishes. You would like to find some general information about Swahili dishes. Find web pages that describe traditional Swahili dishes.,"How do you change the taste of a banana? If you add some lime juice, it tastes better.",0.11056295782327652,0.0,"[
+  (""get_info"", ""cuisine"", ""traditional Swahili dishes""),
+  (""target"", ""event"", ""party""),
+  (""target"", ""location"", ""Kenya"")
+]","[
+  (""learn"", ""cooking_method"", ""change the taste of a banana""),
+  (""analyze"", ""cooking_method"", ""adding lime juice to banana"")
+]",0.0,0.0,0.0,0.0
+6,"In 2000, the Russian nuclear submarine Kursk sank in the Barents Sea. You want to try to understand: How did the political climate in Russia at the time contribute to the accident and exarcerbate its effects? Find web pages that explain how the sinking related to Russian politics.","How did the Soviet Union fail to control all of its satellites from falling to capitalism, and what are the consequences of a satellite falling? Are Soviet satellites falling faster than they're able to control them?",0.31105801463127136,0.2,"[
+  (""analyze"", ""event"", ""Kursk submarine sinking""),
+  (""learn"", ""political climate"", ""Russia 2000""),
+  (""get_info"", ""web pages"", ""Kursk sinking and Russian politics"")
+]","[
+  (""analyze"", ""historical_event"", ""Soviet Union control over satellites""),
+  (""analyze"", ""historical_event"", ""consequences of satellite falling""),
+  (""compare"", ""historical_event"", ""rate of Soviet satellites falling vs control"")
+]",0.8,0.8,0.5,0.6
+7,"You heard something about a Russian submarine Kursk sinking today, and want to search to know more details about this event. When did the submarine sink? Who was the on-board commander of the submarine? The submarine was part of which Russian fleet? How many crewmen were lost in the disaster? Which countries expressed regret about the loss? In what sea did the submarine sink? Which U.S. submarines were reportedly in the area?",Are there any more details about the bombing of the USS Liberty? Can you tell me where the bombs came from?,0.34156739711761475,0.0,"[
+    (""learn"", ""event"", ""Kursk submarine sinking""),
+    (""get_info"", ""event"", ""date of sinking""),
+    (""get_info"", ""event"", ""on-board commander""),
+    (""get_info"", ""event"", ""Russian fleet""),
+    (""get_info"", ""event"", ""crewmen lost""),
+    (""get_info"", ""event"", ""countries expressing regret""),
+    (""get_info"", ""event"", ""sea of sinking""),
+    (""get_info"", ""event"", ""U.S. submarines in area"")
+]","[
+  (""learn"", ""event"", ""bombing of the USS Liberty""),
+  (""get_info"", ""source"", ""where the bombs came from"")
+]",0.8,0.5,0.4,0.6
+8,"""Bollywood"", the film industry based in Mumbai, India, is one of the biggest and still fastest-growing film industries in the world. What policies and legislation has the government of India enacted to encourage its continued growth? Find web pages about the growth of Bollywood and its relation to Indian politics.",Can anyone recommend an online course related to film directing? What are the famous institutes and universities in India that have film or movie directing programs?,0.37580928206443787,0.0,"[
+  (""learn"", ""film_industry"", ""Bollywood""),
+  (""analyze"", ""policy_area"", ""government policies on Bollywood growth""),
+  (""get_info"", ""web_pages"", ""growth of Bollywood and its relation to Indian politics"")
+]","[
+  (""explore"", ""online_course"", ""film directing""),
+  (""learn"", ""academic_institution"", ""film directing programs""),
+  (""explore"", ""academic_institution"", ""famous institutes and universities in India"")
+]",0.5,0.6,0.4,0.5
+9,"Suppose you are writing an essay about a tax on ""junk food"". In your essay, you need to argue whether it's a good idea for a government to tax junk food and high-calorie snacks. Find web pages supporting an argument in favor of a junk food tax.","How is sugar consumption tied to obesity, diabetes, and cardiovascular disease?",0.16158172488212585,0.2,"[
+  (""learn"", ""tax_policy"", ""junk food tax""),
+  (""explore"", ""argument"", ""supporting junk food tax""),
+  (""get_info"", ""web_pages"", ""arguments in favor of junk food tax"")
+]","[
+  (""analyze"", ""health"", ""sugar consumption""),
+  (""analyze"", ""health"", ""obesity""),
+  (""analyze"", ""health"", ""diabetes""),
+  (""analyze"", ""health"", ""cardiovascular disease"")
+]",0.5,0.5,0.4,0.6
+10,Do infants age 0-12 months experience different developmental milestones depending on culture?,You are a mother with a toddler. You want to be more responsive to your child’s speech by increasing access to and use of language during play and story times. What are some research findings of importance from speech and language researchers?,0.3389822244644165,0.2,"[
+  (""learn"", ""developmental_milestones"", ""infants 0-12 months""),
+  (""analyze"", ""cultural_influence"", ""developmental milestones"")
+]","[
+  (""learn"", ""academic_field"", ""speech and language research""),
+  (""explore"", ""play"", ""language development strategies""),
+  (""explore"", ""story time"", ""language engagement techniques"")
+]",0.8,0.6,0.5,0.7
+11,"You would like to write a report about interesting weddings traditions of different cultures, religions, and ethnic groups. Find information about wedding ceremonies that you think are the most fascinating and different than what you are used to.",I want to know when and where the wedding ceremony of a friend was held. How far was the wedding ceremony from the couple’s home. What would be a good wedding location?,0.45251670479774475,0.1,"[
+  (""learn"", ""wedding traditions"", ""different cultures""),
+  (""learn"", ""wedding traditions"", ""different religions""),
+  (""learn"", ""wedding traditions"", ""different ethnic groups""),
+  (""get_info"", ""wedding ceremonies"", ""fascinating traditions"")
+]","[
+  (""get_info"", ""event"", ""wedding ceremony of a friend""),
+  (""analyze"", ""event"", ""distance from couple's home to wedding ceremony""),
+  (""explore"", ""event"", ""good wedding location"")
+]",0.5,0.6,0.4,0.5
+12,"France won its first (and only) World Cup in 1998. Find information about the reaction of French people and institutions (such as stock markets), and studies about these reactions.","You are interested in buying real estate in France. What types of property are you looking for? Would you like to see houses or apartments? What is your budget? Are you looking for property in a specific location? What is your price range and how long you are willing to wait to purchase property? If you have seen certain properties you would like to buy, provide their URLs.",0.40518417954444885,0.0,"[
+  (""get_info"", ""event"", ""France World Cup 1998""),
+  (""analyze"", ""reaction"", ""French people and institutions""),
+  (""learn"", ""study"", ""reactions to France World Cup 1998"")
+]","[
+  (""explore"", ""real_estate"", ""property types in France""),
+  (""decide"", ""real_estate"", ""houses or apartments""),
+  (""get_info"", ""real_estate"", ""budget""),
+  (""target"", ""real_estate"", ""specific location""),
+  (""target"", ""real_estate"", ""price range""),
+  (""target"", ""real_estate"", ""waiting period for purchase""),
+  (""get_info"", ""real_estate"", ""URLs of properties"")
+]",0.2,0.5,0.2,0.0
+13,"For a philosophy assignment, you need to compare evidence that supports the existence of God to evidence that supports the naturalism theory, and infer whether God exists or not. Find web pages to help support your argument.",What are the scientific arguments for why the Cambrian explosion occurred? You are trying to understand the evolution of animals.,0.21596483886241913,0.1,"[
+  (""compare"", ""philosophy"", ""evidence for the existence of God""),
+  (""compare"", ""philosophy"", ""evidence for naturalism theory""),
+  (""analyze"", ""philosophy"", ""existence of God""),
+  (""get_info"", ""web pages"", ""supporting arguments for existence of God and naturalism"")
+]","[
+  (""learn"", ""evolution"", ""Cambrian explosion""),
+  (""analyze"", ""evolution"", ""scientific arguments"")
+]",0.0,0.0,0.0,0.0
+14,"For economic reasons, you wish to switch from regular phones to internet phone services. You want to know: the best internet phone services, the cheapest internet phone services, the providers of VOIP internet phone services, features that great VOIP services have, providers that offer free calls from the US to some European countries, expert reviews about VOIP providers.",Is there a good software to help with contact center management? Which software can I use to better manage my customer contact center? Are there any recommendations for customer contact center management software?,0.20864206552505493,0.0,"[
+  (""explore"", ""internet_phone_services"", ""best internet phone services""),
+  (""compare"", ""internet_phone_services"", ""cheapest internet phone services""),
+  (""get_info"", ""VOIP_providers"", ""providers of VOIP internet phone services""),
+  (""analyze"", ""VOIP_services"", ""features that great VOIP services have""),
+  (""get_info"", ""VOIP_providers"", ""providers that offer free calls from the US to some European countries""),
+  (""evaluate"", ""VOIP_providers"", ""expert reviews about VOIP providers"")
+]","[
+  (""explore"", ""software"", ""contact center management""),
+  (""get_info"", ""software"", ""customer contact center management recommendations"")
+]",0.5,0.4,0.3,0.5
+15,"In your attempt to get fit, you are looking for information on what possibilities (types of physical exercises, diets, etc...) will help you achieve your fitness goal. Find web pages about different weight loss possibilities.",What are the most important factors in determining the effectiveness of a novel diabetes medication (DPP-4 inhibitor) on individuals with diabetes? How were these factors determined?,0.11868444830179214,0.0,"[
+  (""explore"", ""fitness"", ""physical exercises""),
+  (""explore"", ""fitness"", ""diets""),
+  (""get_info"", ""web_pages"", ""weight loss possibilities"")
+]","[
+  (""analyze"", ""medication_effectiveness"", ""novel diabetes medication (DPP-4 inhibitor)""),
+  (""learn"", ""factors"", ""effectiveness of diabetes medication"")
+]",0.2,0.2,0.0,0.0
+16,A friend has been complaining for months that she is unhappy with her life. She has also mentioned that she can't easily sleep at nights. You think that she may be suffering from depression. You want to understand if this is the case and how you could assist her in getting some help from medical professionals.,How do depression and anxiety impact different aspects of the psyche? How can medication interact with the way depression and anxiety affect people?,0.2808452248573303,0.2,"[
+  (""analyze"", ""symptom"", ""depression""),
+  (""learn"", ""treatment_method"", ""assistance from medical professionals"")
+]","[
+  (""analyze"", ""mental_health"", ""depression""),
+  (""analyze"", ""mental_health"", ""anxiety""),
+  (""analyze"", ""mental_health"", ""psyche""),
+  (""analyze"", ""medication"", ""interaction with depression""),
+  (""analyze"", ""medication"", ""interaction with anxiety"")
+]",0.8,0.8,1.0,0.9
+17,Pseudocyesis is the appearance of clinical and/or subclinical signs and symptoms associated with pregnancy when the organism is not actually pregnant. What are the recent advances in understanding the causes of this disorder?,You are looking for information about the treatment of infertility for women who have a genetic mutation called PCOS,0.38588881492614746,0.1,"[
+  (""learn"", ""medical_condition"", ""pseudocyesis""),
+  (""analyze"", ""medical_research"", ""causes of pseudocyesis"")
+]","[
+  (""get_info"", ""treatment_method"", ""infertility""),
+  (""target"", ""condition"", ""PCOS"")
+]",0.5,0.5,0.4,0.6
+18,You are planning a winter vacation to the Pocono Mountains region in Pennsylvania in the US. Where will you stay? What will you do while there? How will you get there?,Looking for an adventurous ski trip in the Poconos. What are the pros and cons of spending the whole winter visiting the ski resorts?,0.6195688247680664,0.5,"[
+  (""plan"", ""travel"", ""winter vacation to the Pocono Mountains""),
+  (""get_info"", ""accommodation"", ""places to stay in the Pocono Mountains""),
+  (""explore"", ""activities"", ""things to do in the Pocono Mountains""),
+  (""get_info"", ""transportation"", ""ways to get to the Pocono Mountains"")
+]","[
+  (""explore"", ""travel"", ""adventurous ski trip in the Poconos""),
+  (""analyze"", ""travel"", ""pros and cons of spending the whole winter visiting ski resorts"")
+]",0.8,0.8,0.6,0.7
+19,"You have decided that you want to reduce the use of air conditioning in your house. You've thought that if you could protect the roof being overly hot due to sun exposure, you could keep the house temperature low without the excessive use of air conditioning. Find information of whether this is possible and how it could be done.",You have a roof that is leaking. You want to see if the government can help. You are hoping the Government can provide information to help the leak. You need to see if there are any financial rebates or tax credits that will cover the cost of replacing your roof.,0.34889286756515503,0.1,"[
+  (""learn"", ""energy_efficiency"", ""reducing air conditioning use""),
+  (""explore"", ""roof_insulation_methods"", ""protecting roof from sun exposure""),
+  (""get_info"", ""roof_insulation_methods"", ""how to keep house temperature low"")
+]","[
+  (""explore"", ""government_assistance"", ""roof leak""),
+  (""get_info"", ""financial_rebates"", ""roof replacement""),
+  (""get_info"", ""tax_credits"", ""roof replacement"")
+]",0.5,0.5,0.4,0.6

@@ -1,0 +1,296 @@
+Unnamed: 0,prompts,reconstructed_prompt,sbert_similarity,llm_judge_similarity,original_prompt_triplets,reconstructed_prompt_triplets,obels_functional_equivalence,obels_domain_type_equivalence,obels_semantic_equivalence,obels_entity_granularity_tolerance
+0,"Who are key leaders (field grade officers and senior NCO’s) in charge of U.S. military units combating the ebola epidemic in Africa, what are the protocols for personnel safety, and what is their mission? Units from all four services were deployed to West Africa, some 3000 personnel in all, in support of U.S. and international aid workers. The military was not directly involved in treating ebola patients. Their mission was to provide support services such as facilities construction, logistics, telecommunications, road building, etc. so that the medical aid workers could function more effectively. Additionally, the research addressed safety protocols for the U.S. forces, including mandatory quarantines upon return to their home bases. Non relevant information encompasses non-U.S. military units and civilian aid workers and U.S. military units that did not deploy to Africa.",How does the US military handle the care of wounded soldiers?,0.4708526134490967,0.0,"[
+  (""learn"", ""military_leadership"", ""key leaders in U.S. military units combating ebola""),
+  (""get_info"", ""protocols"", ""personnel safety protocols for U.S. forces""),
+  (""analyze"", ""mission"", ""mission of U.S. military units in West Africa""),
+  (""explore"", ""support_services"", ""support services provided by military units"")
+]","[
+  (""learn"", ""military_care"", ""wounded soldiers"")
+]",0.5,0.8,0.4,0.6
+1,"Identify the conspiracies circulating about Ebola. Any information on conspiracy theories about Ebola is relevant. Degree of relevance was determined by the specificity of the information. A major grey area is the difference among a conspiracy (an even caused by powerful people or groups to benefit themselves), a myth (an idea or story believed by many people but is not true), a hoax (a trick, deception, or prank), and disinformation (intentionally false or inaccurate information spread deliberately). Information clearly related to a hoax is not relevant. There probably is more data available on this topic.",How do you think the number of cases of the disease has changed over time? What factors have contributed to this change? What is the impact on public health? What are the implications for disease surveillance and management? How do you think the number of cases of the disease has changed over time? What factors have contributed to this change? What is the impact on public health? What are the implications for disease surveillance and management?,0.37546423077583313,0.0,"[
+  (""learn"", ""conspiracy_theories"", ""Ebola""),
+  (""get_info"", ""conspiracy_theories"", ""Ebola""),
+  (""analyze"", ""conspiracy_types"", ""conspiracy""),
+  (""analyze"", ""conspiracy_types"", ""myth""),
+  (""analyze"", ""conspiracy_types"", ""hoax""),
+  (""analyze"", ""conspiracy_types"", ""disinformation"")
+]","[
+  (""analyze"", ""disease"", ""cases over time""),
+  (""analyze"", ""disease"", ""factors contributing to change""),
+  (""analyze"", ""public health"", ""impact of disease cases""),
+  (""analyze"", ""disease surveillance"", ""implications for management"")
+]",0.5,0.5,0.4,0.6
+2,What were the healthcare impacts of the Ebola virus? The Ebola virus breakout in Africa had significant impacts on healthcare providers. What were these impacts? How much did this cost both in Africa and the rest of the world? Which healthcare companies did it affect the most?. How was healthcare insurance affected? Who paid these costs,"What are the main challenges faced by developing countries during an outbreak? How do they manage to respond to the outbreak, especially in terms of healthcare infrastructure? What role do international organizations, NGOs, and governments play in this response? How do they coordinate their efforts, and what are the most effective ways to contain an outbreak? What are some of the key issues that need to be addressed, such as the availability of medical supplies, the training of healthcare workers, and the need for better infrastructure? How do these countries balance the need to respond to an outbreak with the need to maintain economic stability? What are some of the key lessons learned from previous outbreaks, and how can these be applied to current and future outbreaks?",0.489998996257782,0.3,"[
+  (""analyze"", ""healthcare"", ""Ebola virus impacts""),
+  (""get_info"", ""cost"", ""Ebola virus healthcare impacts""),
+  (""explore"", ""healthcare"", ""affected healthcare companies""),
+  (""analyze"", ""healthcare"", ""healthcare insurance effects""),
+  (""get_info"", ""cost"", ""who paid Ebola virus healthcare costs"")
+]","[
+    (""analyze"", ""healthcare"", ""challenges faced by developing countries during an outbreak""),
+    (""explore"", ""healthcare"", ""responses to outbreaks by developing countries""),
+    (""analyze"", ""healthcare"", ""role of international organizations in outbreak response""),
+    (""analyze"", ""healthcare"", ""role of NGOs in outbreak response""),
+    (""analyze"", ""healthcare"", ""role of governments in outbreak response""),
+    (""analyze"", ""healthcare"", ""coordination of efforts in outbreak response""),
+    (""explore"", ""healthcare"", ""effective ways to contain an outbreak""),
+    (""analyze"", ""healthcare"", ""key issues in outbreak response""),
+    (""analyze"", ""healthcare"", ""availability of medical supplies during outbreaks""),
+    (""analyze"", ""healthcare"", ""training of healthcare workers during outbreaks""),
+    (""analyze"", ""healthcare"", ""need for better infrastructure during outbreaks""),
+    (""analyze"", ""healthcare"", ""balancing outbreak response with economic stability""),
+    (""learn"", ""healthcare"", ""key lessons learned from previous outbreaks""),
+    (""apply"", ""healthcare"", ""lessons from previous outbreaks to current and future outbreaks"")
+]",0.8,1.0,0.5,0.6
+3,"Find info on photo/journalist Daniel Berehulak. His professional and personal background is relevant. His assignment and activities are relevant. His contacts are relevant. This would include his editors and people he has collaborated with on stories. Individuals named in the captions of pictures he has published are also considered his contacts, since he will have had enough contact with them to learn their names and, presumably, get their permission to identify them for publication.","You are given a list of domains visited by a web agent during a browsing session. Your task is to reconstruct the most plausible **original user prompt** that would have caused the agent to visit these domains. This prompt should reflect the likely information need or task of the user, as inferred from the domains.",0.22899825870990753,0.0,"[
+  (""get_info"", ""journalist"", ""Daniel Berehulak""),
+  (""learn"", ""journalist"", ""professional background of Daniel Berehulak""),
+  (""learn"", ""journalist"", ""personal background of Daniel Berehulak""),
+  (""explore"", ""assignment"", ""activities of Daniel Berehulak""),
+  (""explore"", ""contacts"", ""editors of Daniel Berehulak""),
+  (""explore"", ""contacts"", ""collaborators of Daniel Berehulak""),
+  (""explore"", ""contacts"", ""individuals named in captions of Daniel Berehulak's pictures"")
+]","1. (""get_info"", ""browsing_session"", ""domains visited"")
+2. (""analyze"", ""web_agent"", ""browsing behavior"")",0.5,0.2,0.3,0.4
+4,"Find information that describes ewedu as a treatment for Ebola. Any information on ewedu, an herb, as a treatment for Ebola is relevant. Recipes (other than how to prepare ewedu medicinally) and other uses for ewedu are not relevant. Search terms included alternate names for ewedu: kren-kren, corchorus, mallow leaves long-fruited vegetable","You are looking for information about Coconut. You want to know about its use in medicine, its effect on human health, its side effects, its potential as a treatment for diseases, its use in the food industry, its impact on the environment, its use in traditional medicine, its use as a food source, its nutritional content, its effect on the economy, its use in cosmetics, its effect on animal health, its use in agriculture, its use as a biofuel, its use in the energy industry, its use in the chemical industry, its use in the pharmaceutical industry, its use in the textile industry, its use in the paper industry, its use in the construction industry, its use in the manufacturing industry, its use in the automotive industry, its use in the aerospace industry, its use in the marine industry, its use in the transportation industry, its use in the tourism industry, its use in the hospitality industry, its use in the entertainment industry, its use in the education industry, its use in the healthcare industry, its use in the public health industry, its use in the government industry, its use in the non-profit industry, its use in the private sector, its use in the public sector, its use in the international community, its use in the global",0.27062979340553284,0.0,"[
+  (""get_info"", ""treatment_method"", ""ewedu""),
+  (""get_info"", ""treatment_method"", ""Ebola""),
+  (""get_info"", ""herb"", ""kren-kren""),
+  (""get_info"", ""herb"", ""corchorus""),
+  (""get_info"", ""herb"", ""mallow leaves long-fruited vegetable"")
+]","1. (""get_info"", ""cuisine"", ""Coconut"")
+2. (""get_info"", ""medicine"", ""Coconut"")
+3. (""get_info"", ""health"", ""Coconut"")
+4. (""get_info"", ""treatment_method"", ""Coconut"")
+5. (""get_info"", ""food_industry"", ""Coconut"")
+6. (""get_info"", ""environment"", ""Coconut"")
+7. (""get_info"", ""traditional_medicine"", ""Coconut"")
+8. (""get_info"", ""food_source"", ""Coconut"")
+9. (""get_info"", ""nutrition"", ""Coconut"")
+10. (""get_info"", ""economy"", ""Coconut"")
+11. (""get_info"", ""cosmetics"", ""Coconut"")
+12. (""get_info"", ""animal_health"", ""Coconut"")
+13. (""get_info"", ""agriculture"", ""Coconut"")
+14. (""get_info"", ""biofuel"", ""Coconut"")
+15. (""get_info"", ""energy_industry"", ""Coconut"")
+16. (""get_info"", ""chemical_industry"", ""Coconut"")
+17. (""get_info"", ""pharmaceutical_industry"", ""Coconut"")
+18. (""get_info"", ""textile_industry"", ""Coconut"")
+19. (""get_info"", ""paper_industry"", ""Coconut"")
+20. (""get_info"", ""construction_industry"", ""Coconut"")
+21. (""get_info"", ""manufacturing_industry"", ""Coconut"")
+22. (""get_info"", ""automotive_industry"", ""Coconut"")
+23. (""get_info"", ""aerospace_industry"", ""Coconut"")
+24. (""get_info"", ""marine_industry"", ""Coconut"")
+25. (""get_info"", ""transportation_industry"", ""Coconut"")
+26. (""get_info"", ""tourism_industry"", ""Coconut"")
+27. (""get_info"", ""hospitality_industry"", ""Coconut"")
+28. (""get_info"", ""entertainment_industry"", ""Coconut"")
+29. (""get_info"", ""education_industry"", ""Coconut"")
+30. (""get_info"", ""healthcare_industry"", ""Coconut"")
+31. (""get_info"", ""public_health_industry"", ""Coconut"")
+32. (""get_info"", ""government_industry"", ""Coconut"")
+33. (""get_info"", ""non_profit_industry"", ""Coconut"")
+34. (""get_info"", ""private_sector"", ""Coconut"")
+35. (""get_info"", ""public_sector"", ""Coconut"")
+36. (""get_info"", ""international_community"", ""Coconut"")
+37. (""get_info"", ""global"", ""Coconut"")",0.8,0.5,0.4,0.6
+5,"What alternative treatments exist to cure or alleviate Ebola? Information on the following alleged treatments for Ebola is relevant (alternate search terms are in parentheses): essential oils, melatonin, cannabis (marijuana, pot, weed), red algae (rhodophyta), bitter kola (bitter cola), spider venom, fermented soy, condensed milk, raw onions, vitamin C (ascorbic acid, ascorbate), and saltwater (salt, saline solution). Specificity of the information, whether the treatment is a potential cure or a """"known"""" cure, and whether the treatment is supportive versus a cure determined the judgments' degree of relevancy.",What are the benefits and risks of the COVID-19 vaccine? Is it safe for people with a history of autoimmune diseases? What are the potential side effects? Is the vaccine effective in preventing COVID-19? What are the possible long-term effects of the vaccine?,0.2585412263870239,0.0,"[
+  (""explore"", ""treatment_method"", ""Ebola""),
+  (""get_info"", ""treatment_method"", ""essential oils""),
+  (""get_info"", ""treatment_method"", ""melatonin""),
+  (""get_info"", ""treatment_method"", ""cannabis""),
+  (""get_info"", ""treatment_method"", ""red algae""),
+  (""get_info"", ""treatment_method"", ""bitter kola""),
+  (""get_info"", ""treatment_method"", ""spider venom""),
+  (""get_info"", ""treatment_method"", ""fermented soy""),
+  (""get_info"", ""treatment_method"", ""condensed milk""),
+  (""get_info"", ""treatment_method"", ""raw onions""),
+  (""get_info"", ""treatment_method"", ""vitamin C""),
+  (""get_info"", ""treatment_method"", ""saltwater"")
+]","[
+  (""analyze"", ""vaccine"", ""benefits and risks of the COVID-19 vaccine""),
+  (""analyze"", ""vaccine"", ""safety for people with a history of autoimmune diseases""),
+  (""analyze"", ""vaccine"", ""potential side effects of the COVID-19 vaccine""),
+  (""analyze"", ""vaccine"", ""effectiveness in preventing COVID-19""),
+  (""analyze"", ""vaccine"", ""possible long-term effects of the COVID-19 vaccine"")
+]",0.2,0.5,0.0,0.0
+6,"How has the movement of people from outlying rural villages to urban centers affected the spread of Ebola? Since Ebola was first discovered in 1976, the population of the affected areas in Africa has almost tripled and the percentage of people living in cities has risen dramatically. The disease hasn't changed over time, but the demographics have. Up until this latest outbreak, the disease hit mainly in rural villages, where it was more easily stopped, but now it spreads much more rapidly making it harder to contain and treat. Beyond urbanization is migration, while the virus is oblivious to borders and boundaries.",You want to know what is the most plausible prompt that would have caused the agent to visit these domains. You want to know what information you need to know to plan a trip to Africa. You want to know how many people live in Africa. You want to know how many people live in Africa by country. You want to know the population of the African Union. You want to know what is the most plausible prompt that would have caused the agent to visit these domains. You want to know how many people live in the African Union. You want to know the population of the African Union by country. You want to know the population of the African Union by region. You want to know the population of the African Union by age. You want to know the population of the African Union by sex. You want to know the population of the African Union by urban area. You want to know the population of the African Union by rural area. You want to know the population of the African Union by region and age. You want to know the population of the African Union by region and sex. You want to know the population of the African Union by region and urban area. You want to know the population of the African Union by region and rural area. You want to know the population of,0.2121945172548294,0.1,"[
+  (""analyze"", ""epidemic"", ""Ebola""),
+  (""analyze"", ""demographics"", ""migration from rural to urban areas""),
+  (""analyze"", ""epidemic"", ""impact of urbanization on Ebola spread""),
+  (""summarize"", ""epidemic"", ""historical context of Ebola since 1976"")
+]","```plaintext
+[
+    (""plan"", ""travel"", ""Africa""),
+    (""get_info"", ""demographics"", ""population of Africa""),
+    (""get_info"", ""demographics"", ""population of Africa by country""),
+    (""get_info"", ""demographics"", ""population of African Union""),
+    (""get_info"", ""demographics"", ""population of African Union by country""),
+    (""get_info"", ""demographics"", ""population of African Union by region""),
+    (""get_info"", ""demographics"", ""population of African Union by age""),
+    (""get_info"", ""demographics"", ""population of African Union by sex""),
+    (""get_info"", ""demographics"", ""population of African Union by urban area""),
+    (""get_info"", ""demographics"", ""population of African Union by rural area""),
+    (""get_info"", ""demographics"", ""population of African Union by region and age""),
+    (""get_info"", ""demographics"", ""population of African Union by region and sex""),
+    (""get_info"", ""demographics"", ""population of African Union by region and urban area""),
+    (""get_info"", ""demographics"", ""population of African Union by region and rural area"")
+]
+```",0.5,0.8,0.5,0.6
+7,"This research centered on Dr. Olivet Buck, a Sierra Leone doctor who died of ebola after contracting the disease from her patients. Dr. Buck was the fourth Sierra Leone doctor to become infected, and when she fell ill, there was official concern, both for her personally and for the potential depletion of the country’s medical personnel. The President of Sierra Leone formally asked the World Health Organization (WHO) to evacuate Dr. Buck to Germany for treatment. WHO refused, saying they did not have the resources to evacuate anyone but their own staff, and Dr. Buck died. Relevant information included the official involvement of the Government of Sierra Leone, WHO’s response, Dr. Buck’s biography, and identification of other medical fatalities in Sierra Leone. Non-relevant information included biographic details of Dr. Buck’s colleagues beyond their names, medical fatalities in other West Africa countries, and treatment of foreign aid workers.",How many people are dying from malaria? What is the current situation in Sierra Leone? How many people are infected with malaria? What are the causes of the high malaria deaths in Sierra Leone? What are the effects of the high malaria deaths in Sierra Leone? What is the current response to the high malaria deaths in Sierra Leone? What are the consequences of the high malaria deaths in Sierra Leone? What are the future plans to reduce the number of malaria deaths in Sierra Leone?,0.374777227640152,0.1,"[
+  (""learn"", ""academic_field"", ""Dr. Olivet Buck""),
+  (""analyze"", ""event"", ""ebola outbreak in Sierra Leone""),
+  (""explore"", ""policy_area"", ""WHO's evacuation policies""),
+  (""summarize"", ""event"", ""medical fatalities in Sierra Leone""),
+  (""get_info"", ""government_involvement"", ""Government of Sierra Leone""),
+  (""get_info"", ""organization_response"", ""WHO's response"")
+]","[
+  (""get_info"", ""disease"", ""malaria deaths""),
+  (""get_info"", ""country"", ""Sierra Leone""),
+  (""get_info"", ""disease"", ""malaria infections""),
+  (""analyze"", ""disease"", ""causes of high malaria deaths in Sierra Leone""),
+  (""analyze"", ""disease"", ""effects of high malaria deaths in Sierra Leone""),
+  (""get_info"", ""disease"", ""current response to high malaria deaths in Sierra Leone""),
+  (""analyze"", ""disease"", ""consequences of high malaria deaths in Sierra Leone""),
+  (""plan"", ""disease"", ""future plans to reduce malaria deaths in Sierra Leone"")
+]",0.8,0.8,0.5,0.6
+8,"The research centered on Liberian national Thomas Eric Duncan, the first person to die of ebola in the U.S. Duncan flew to the U.S. to visit relatives in Dallas, fell ill, was initially misdiagnosed at a hospital emergency room and sent home. His condition worsened, he returned to the hospital and was correctly diagnosed, but died. Two nurses who treated him subsequently contracted ebola; both recovered. Duncan’s family threatened to sue the hospital but reached a financial settlement out of court. Relevant information encompassed the postmortem repercussions, potential spread of the disease via primary and secondary contacts, Duncan's biographical information, and status of the two infected nurses. Non-relevant information included persons and activities not connected to the Duncan case, including other infected U.S. medical personnel and other fatalities in the U.S. and West Africa.",What is the current situation with COVID-19 in the US?,0.28436335921287537,0.0,"[
+  (""analyze"", ""event"", ""Thomas Eric Duncan's case""),
+  (""learn"", ""disease"", ""ebola""),
+  (""explore"", ""healthcare"", ""misdiagnosis""),
+  (""summarize"", ""legal"", ""financial settlement""),
+  (""get_info"", ""biography"", ""Thomas Eric Duncan""),
+  (""get_info"", ""healthcare"", ""status of the two infected nurses""),
+  (""analyze"", ""disease"", ""potential spread of ebola"")
+]","[  
+  (""get_info"", ""health"", ""COVID-19 in the US"")  
+]",0.2,0.5,0.0,0.0
+9,"What was the economic impact of the Ebola virus outbreak? The Ebola virus breakout in Africa had a wide spread economic impact, not only in Africa but in various other parts of the world. What were these impact? How extensive were the impacts? What other countries were affected? How did it impact governments in Africa and in other parts of the world? What companies did it affect? And which countries were most affected?","You are looking for information about a new vaccine for the coronavirus. You want to know how the vaccine works, what it is made of, who has been given the vaccine, and how effective it is. You also want to know about any potential side effects and whether the vaccine is available in your area.",0.34602558612823486,0.0,"[
+  (""analyze"", ""economic_impact"", ""Ebola virus outbreak""),
+  (""explore"", ""affected_countries"", ""Ebola virus outbreak""),
+  (""analyze"", ""government_impact"", ""Ebola virus outbreak""),
+  (""explore"", ""companies_affected"", ""Ebola virus outbreak""),
+  (""compare"", ""impact_extent"", ""Ebola virus outbreak"")
+]","[
+  (""get_info"", ""vaccine"", ""coronavirus""),
+  (""learn"", ""vaccine"", ""how it works""),
+  (""learn"", ""vaccine"", ""what it is made of""),
+  (""get_info"", ""vaccine"", ""who has been given the vaccine""),
+  (""analyze"", ""vaccine"", ""how effective it is""),
+  (""learn"", ""vaccine"", ""potential side effects""),
+  (""get_info"", ""vaccine"", ""availability in my area"")
+]",0.0,0.0,0.0,0.0
+10,"The research objective was identification of U.S. aid workers infected with ebola as a result of providing medical assistance in West Africa. This encompassed identities and circumstances of medical evacuees, aid workers who returned home before showing symptoms, and protocols for treating them. Relevant information includes identities of U.S. medical aid workers infected in West Africa and the evolving evacuation and treatment protocols of the U.S. healthcare system. U.S. healthcare professionals who contracted ebola in the U.S. and non-U.S. persons are not relevant.",How will the COVID-19 pandemic affect the US military?,0.28460225462913513,0.0,"[
+  (""learn"", ""healthcare"", ""U.S. aid workers infected with ebola""),
+  (""analyze"", ""healthcare"", ""evacuation and treatment protocols of the U.S. healthcare system""),
+  (""get_info"", ""healthcare"", ""identities of U.S. medical aid workers infected in West Africa"")
+]","[
+  (""analyze"", ""event"", ""COVID-19 pandemic""),
+  (""target"", ""entity"", ""US military"")
+]",0.5,0.5,0.3,0.4
+11,"Is there a natural immunity to Ebola? Is there a natural occurring immunity to the Ebola virus? The searches looked to find if some people are born with an immunity. Is immunity acquired after having the Ebola virus? Do some people have a natural immunity, if so why, who are they, where are they from. Also, can the body’s immune system be used to cure or prevent Ebola?",How many people have died from measles? How many people have died from measles? How many people have died from measles? How many people have died from measles? How many people have died from measles? How many people have died from measles? How many people have died from measles? How many people have died from measles? How many people have died from measles? How many people have died from measles? How many people have died from measles? How many people have died from measles? How many people have died from measles? How many people have died from measles? How many people have died from measles? How many people have died from measles? How many people have died from measles? How many people have died from measles? How many people have died from measles? How many people have died from measles? How many people have died from measles? How many people have died from measles? How many people have died from measles? How many people have died from measles? How many people have died from measles? How many people have died from measles? How many people have died from measles? How many people have died from measles? How many people have died from measles? How many people have died from measles? How many people have died from measles? How many people have died from measles?,0.16595621407032013,0.0,"[
+    (""learn"", ""health"", ""natural immunity to Ebola""),
+    (""analyze"", ""health"", ""acquired immunity after having Ebola virus""),
+    (""explore"", ""health"", ""people with natural immunity to Ebola""),
+    (""analyze"", ""health"", ""body’s immune system in relation to Ebola prevention and cure"")
+]","[  
+  (""get_info"", ""symptom"", ""measles"")  
+]",0.0,0.0,0.0,0.0
+12,"Find info on Dr. Steven Hatch, an American medical doctor working in Africa. His professional and personal background is relevant. His assignment in Africa and activities there are relevant. His training and preparation for coming to Africa and working with ebola patients is relevant. His motivation for working with ebola patients and his thoughts and attitude regarding the work are all relevant.","You are given a list of domains visited by a web agent during a browsing session. Your task is to reconstruct the most plausible **original user prompt** that would have caused the agent to visit these domains. This prompt should reflect the likely information need or task of the user, as inferred from the domains.",0.16145974397659302,0.0,"[
+  (""get_info"", ""person"", ""Dr. Steven Hatch""),
+  (""learn"", ""medical_background"", ""professional and personal background""),
+  (""explore"", ""assignment"", ""activities in Africa""),
+  (""analyze"", ""training"", ""preparation for working with ebola patients""),
+  (""analyze"", ""motivation"", ""thoughts and attitude regarding work with ebola patients"")
+]","Sure! Please provide the list of domains visited by the web agent during the browsing session, and I will reconstruct the most plausible original user prompt in the form of semantic triplets.",0.0,0.0,0.0,0.0
+13,"What influence has the popularity of T.B. Joshua and his SCOAN ministry had on the spread of EVD in Nigeria? Information regarding T.B. Joshua's claims of healing powers and any events drawing international followers to his Synagogue Church of All Nations in Lagos, Nigeria is relevant. Relevant information includes government efforts to prevent foreign visitors to SCOAN during the Ebola crisis, including Joshua's compliance or lack of compliance, and any real or rumored EVD victims attending at SCOAN events. Information pertaining only to the prevention and/or spread of EVD in regards to Joshua and SCOAN are relevant. The collapse of a SCOAN building or his televangelist network are not relevant.","You are a nurse in Nigeria. You are trying to understand the effects of the COVID-19 pandemic on religion in Nigeria. You want to know how religious leaders and institutions are responding to the pandemic, how people are interpreting the pandemic through religious lenses, and how the pandemic is affecting religious practice. You want to know if religious leaders are using their influence to promote public health measures, such as vaccination, and if they are promoting religious rituals that may help prevent the spread of the virus. You want to know if the pandemic is changing the way people think about religion and health, and if it is changing the way religious leaders think about their role in promoting public health.",0.4676193296909332,0.1,"1. (""analyze"", ""influence"", ""T.B. Joshua and SCOAN ministry on EVD spread in Nigeria"")
+2. (""get_info"", ""claims"", ""T.B. Joshua's healing powers"")
+3. (""get_info"", ""events"", ""international followers to SCOAN in Lagos, Nigeria"")
+4. (""get_info"", ""government efforts"", ""prevent foreign visitors to SCOAN during Ebola crisis"")
+5. (""get_info"", ""compliance"", ""T.B. Joshua's compliance during Ebola crisis"")
+6. (""get_info"", ""EVD victims"", ""real or rumored EVD victims attending SCOAN events"")
+7. (""get_info"", ""prevention"", ""EVD in regards to T.B. Joshua and SCOAN"")","1. (""analyze"", ""impact"", ""COVID-19 pandemic on religion in Nigeria"")
+2. (""learn"", ""response"", ""religious leaders and institutions to COVID-19"")
+3. (""analyze"", ""interpretation"", ""people's views on COVID-19 through religious lenses"")
+4. (""analyze"", ""practice"", ""effects of COVID-19 on religious practice"")
+5. (""learn"", ""influence"", ""religious leaders promoting public health measures"")
+6. (""analyze"", ""rituals"", ""religious practices that may help prevent virus spread"")
+7. (""analyze"", ""perception"", ""changes in people's views on religion and health due to COVID-19"")
+8. (""analyze"", ""role"", ""changes in religious leaders' perspectives on promoting public health"")",0.8,0.8,0.6,0.7
+14,"Who is Maurice Iwu? Any information about Maurice Iwu, a Nigerian doctor who claimed the bitter kola nut could be a potential cure for Ebola, is relevant. Specifically, any information about his research into bitter kola, his efforts to bring the treatment to market, his family, and his professional background is relevant.",You want to know the price of malaria drugs in Nigeria. You want to know the names of the drugs.,0.36440223455429077,0.0,"[
+  (""get_info"", ""person"", ""Maurice Iwu""),
+  (""learn"", ""research"", ""bitter kola""),
+  (""explore"", ""treatment"", ""Ebola""),
+  (""analyze"", ""market"", ""bitter kola treatment""),
+  (""get_info"", ""family"", ""Maurice Iwu""),
+  (""get_info"", ""professional background"", ""Maurice Iwu"")
+]","[
+  (""get_info"", ""pharmaceutical"", ""malaria drugs""),
+  (""target"", ""pharmaceutical"", ""Nigeria""),
+  (""get_info"", ""pharmaceutical"", ""names of malaria drugs"")
+]",0.5,0.8,0.4,0.6
+15,"How and when was Sierra Leone's first confirmed Ebola case discovered at the Kenema Government District Hospital? Information regarding Sierra Leone's first confirmed EVD patient at KDGH and the source of this patient's infection is relevant. How the emergence of EVD in Kenema impacted the hospital, its staff, its Lassa Fever Treatment Center and its ability to care for subsequent EVD patients is relevant. Information pertaining only to the Kenema area and KDGH conditions, patients, staff and associates is relevant. Conditions at other Sierra Leone hospitals are not relevant,","You are interested in learning more about the Ebola virus. You would like to know what it is, how it is transmitted, and what symptoms it causes. You would also like to know how to protect yourself from infection.",0.5384780764579773,0.0,"[
+  (""learn"", ""event"", ""Sierra Leone's first confirmed Ebola case""),
+  (""get_info"", ""hospital"", ""Kenema Government District Hospital""),
+  (""analyze"", ""impact"", ""emergence of EVD in Kenema""),
+  (""get_info"", ""patient"", ""first confirmed EVD patient at KDGH""),
+  (""get_info"", ""source"", ""source of this patient's infection""),
+  (""analyze"", ""hospital_conditions"", ""impact on hospital staff and Lassa Fever Treatment Center""),
+  (""get_info"", ""location"", ""Kenema area""),
+  (""get_info"", ""hospital_conditions"", ""conditions at KDGH"")
+]","[
+  (""learn"", ""virus"", ""Ebola virus""),
+  (""learn"", ""transmission"", ""Ebola virus""),
+  (""learn"", ""symptoms"", ""Ebola virus""),
+  (""learn"", ""prevention"", ""Ebola virus"")
+]",0.5,0.5,0.5,0.6
+16,"What roles can robots and software play in the diagnosis and treatment of Ebola? Given that health care workers are at the highest risk of contracting Ebola while treating infected patients, what software, electronic, and mechanical devices are currently available and can be developed and used in the field. The goal is to make diagnosis and treatment as """"hands off"""" as possible, to mitigate the risk as much as possible. A number of viable robots already exist, and are used for various purposes, including disinfecting, decontaminating, handling waste, consulting between patients and doctors around the world. Government, private industry, and robotics scientists across the country are working together to adapt and implement these technologies to work in the field of medicine and the challenging conditions in West Africa.",How can you improve the medical and clinical trials system in the United States? What are the main challenges and how can they be overcome? What are the most important aspects of the medical and clinical trials system in the United States? How can the system be improved and what are the most important challenges that need to be overcome?,0.33238092064857483,0.0,"[
+  (""explore"", ""technology"", ""roles of robots and software in Ebola diagnosis and treatment""),
+  (""get_info"", ""healthcare"", ""current software and devices for Ebola treatment""),
+  (""analyze"", ""healthcare"", ""risks for healthcare workers treating Ebola""),
+  (""summarize"", ""technology"", ""viable robots used in medical applications""),
+  (""plan"", ""technology"", ""development of robots for hands-off diagnosis and treatment""),
+  (""evaluate"", ""collaboration"", ""efforts of government, private industry, and robotics scientists in medicine"")
+]","[
+  (""analyze"", ""medical_trials_system"", ""United States""),
+  (""explore"", ""medical_trials_system"", ""challenges""),
+  (""learn"", ""medical_trials_system"", ""improvement_aspects""),
+  (""evaluate"", ""medical_trials_system"", ""important_challenges"")
+]",0.2,0.2,0.0,0.0
+17,"Find mentions of attacks on people, vehicles or facilities in Africa that provide education or medical aid regarding ebola. A general statement concerning attacks is relevant. The attack must be physical, not just a threat or angry words. Identification or description of who or what was attacked is relevant. Descriptions of the attackers and motives for the attacks are relevant. Attacks on clinics, burial teams, medical personnel, and educational teams are relevant. Robbery and theft of medical supplies or blood samples is relevant. People raiding and looting a health center is relevant, but people storming a center to get treatment is NOT relevant. Attacks on security personnel or police are NOT relevant. Trying to break out of quarantine is NOT relevant. Precautions against or fear of possible attacks are NOT relevant. Remembrance of a person killed is NOT relevant unless the circumstance of the attack is described. Attacks by animal rights activists in connection with the fate of a dog belonging to an ebola victim is NOT relevant. Mere hindering or disruption of work is not an attack, and therefore NOT relevant.",What are the most common causes of the outbreak of war? What are the most common causes of war? What are the most common causes of war? What are the most common causes of war? What are the most common causes of war? What are the most common causes of war? What are the most common causes of war? What are the most common causes of war? What are the most common causes of war? What are the most common causes of war? What are the most common causes of war? What are the most common causes of war? What are the most common causes of war? What are the most common causes of war? What are the most common causes of war? What are the most common causes of war? What are the most common causes of war? What are the most common causes of war? What are the most common causes of war? What are the most common causes of war? What are the most common causes of war? What are the most common causes of war? What are the most common causes of war? What are the most common causes of war? What are the most common causes of war? What are the most common causes of war? What are the most common causes of war? What are the most common causes of war? What,0.261356920003891,0.0,"1. (""get_info"", ""attack"", ""people in Africa providing education or medical aid regarding ebola"")
+2. (""get_info"", ""attack"", ""vehicles in Africa providing education or medical aid regarding ebola"")
+3. (""get_info"", ""attack"", ""facilities in Africa providing education or medical aid regarding ebola"")
+4. (""get_info"", ""attack"", ""clinics in Africa providing education or medical aid regarding ebola"")
+5. (""get_info"", ""attack"", ""burial teams in Africa related to ebola"")
+6. (""get_info"", ""attack"", ""medical personnel in Africa related to ebola"")
+7. (""get_info"", ""attack"", ""educational teams in Africa related to ebola"")
+8. (""get_info"", ""attack"", ""robbery of medical supplies in Africa related to ebola"")
+9. (""get_info"", ""attack"", ""theft of blood samples in Africa related to ebola"")
+10. (""get_info"", ""attack"", ""health centers in Africa related to ebola"")","[
+  (""learn"", ""event"", ""outbreak of war""),
+  (""learn"", ""event"", ""causes of war"")
+]",0.2,0.2,0.0,0.0
+18,"Who is Pauline Cafferkey? Biographical information about Pauline Cafferkey, the British nurse who contracted Ebola while volunteering in West Africa, is pertinent. Of interest is who she knows, where she lives, where she works, what her profession is, and who her family is. Mention of her tangentially in articles about other Ebola cases is not relevant. A comedian's jokes about her are not relevant. A caption identifying her from """"a Cafferkey family photo"""" is not relevant. Relevancy was judged based on the specificity of the information. In the Contacts sub-topic, relevancy also was based on the likelihood that the individual knew Cafferkey directly. In all sub-topics,documents that did not mention Cafferkey by name were judged as marginally relevant or relevant.",You want to know what has been happening in the world of COVID-19. What is the latest news on this virus?,0.27184242010116577,0.0,"1. (""learn"", ""biography"", ""Pauline Cafferkey"")
+2. (""get_info"", ""profession"", ""nurse"")
+3. (""get_info"", ""location"", ""West Africa"")
+4. (""get_info"", ""health_condition"", ""Ebola"")
+5. (""get_info"", ""family"", ""Cafferkey family"")
+6. (""get_info"", ""contacts"", ""individuals who know Cafferkey"")","[
+  (""learn"", ""health"", ""COVID-19""),
+  (""get_info"", ""news"", ""latest developments"")
+]",0.8,0.5,0.4,0.6
+19,"How was Ebola medical waste handled? The Ebola virus was very contagious, and this fairly large outbreak created a lot of medical waste. How was all this medical waste handled? What were the dangers of this medical waste? What were the costs involved in handling the waste and disposing of it? How was this medical waste contained? And how was all this medical waste disposed of, what methods were used in various parts of the world, the USA, Africa, Europe?","You are looking for information on the medical waste management. You want to know how to properly handle medical waste, what types of waste are considered medical, and how to dispose of them.",0.49034541845321655,0.4,"[
+  (""learn"", ""medical_waste_management"", ""Ebola outbreak""),
+  (""analyze"", ""medical_waste_management"", ""dangers of Ebola medical waste""),
+  (""analyze"", ""medical_waste_management"", ""costs of handling Ebola medical waste""),
+  (""explore"", ""medical_waste_management"", ""methods of containing Ebola medical waste""),
+  (""explore"", ""medical_waste_management"", ""disposal methods for Ebola medical waste""),
+  (""compare"", ""medical_waste_management"", ""disposal methods in USA""),
+  (""compare"", ""medical_waste_management"", ""disposal methods in Africa""),
+  (""compare"", ""medical_waste_management"", ""disposal methods in Europe"")
+]","[
+  (""learn"", ""medical waste management"", ""proper handling of medical waste""),
+  (""learn"", ""medical waste management"", ""types of medical waste""),
+  (""learn"", ""medical waste management"", ""disposal methods for medical waste"")
+]",0.8,1.0,0.5,0.6

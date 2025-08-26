@@ -1,0 +1,230 @@
+Unnamed: 0,prompts,reconstructed_prompt,sbert_similarity,llm_judge_similarity,original_prompt_triplets,reconstructed_prompt_triplets,obels_functional_equivalence,obels_domain_type_equivalence,obels_semantic_equivalence,obels_entity_granularity_tolerance
+0,"You want to find scientific publications on LHC (Large Hadron Collider (LHC)) collisions. Books or scientific video lectures are accepted, too. You want to study the most recent knowledge on the topic in depth. You expect scientific publications to be most helpful, including books (you might consider buying one), but scientific video lectures or encyclopedia might be interesting as well.","You are looking for information about CERN, the European Organization for Nuclear Research, and its connection to the Large Hadron Collider (LHC). You want to know what CERN is, what the LHC is, and what kind of research is done there. You are also interested in the results of experiments performed at the LHC, such as the discovery of the Higgs boson.",0.65069180727005,0.5,"[
+  (""learn"", ""scientific_publications"", ""LHC collisions""),
+  (""explore"", ""books"", ""LHC collisions""),
+  (""explore"", ""video_lectures"", ""LHC collisions""),
+  (""analyze"", ""recent_knowledge"", ""LHC collisions"")
+]","[
+  (""learn"", ""organization"", ""CERN""),
+  (""learn"", ""facility"", ""Large Hadron Collider""),
+  (""learn"", ""research"", ""CERN""),
+  (""learn"", ""experiment"", ""Higgs boson"")
+]",0.8,0.6,0.5,0.7
+1,"You need information about (the pros and cons of) male circumcision You have to make a scientific overview of the latest knowledge on male circumcision, with evidence-based pros and cons, including medical, psychological, and social information. To this end, you first need to delve into the latest research, including papers, videos, books, pictures etc... Especially information on male circumcision itself is important, whereas for instance information solely focusing on the link between circumcision and HIV is less relevant.",You are looking for information about the circumcision rate in the United States. What is the current rate of circumcision in the US? Is it increasing or decreasing? What are the causes of this change?,0.6470704674720764,0.2,"[
+  (""get_info"", ""medical"", ""male circumcision""),
+  (""learn"", ""research"", ""latest studies on male circumcision""),
+  (""analyze"", ""medical"", ""pros and cons of male circumcision""),
+  (""explore"", ""psychological"", ""psychological effects of male circumcision""),
+  (""explore"", ""social"", ""social implications of male circumcision""),
+  (""evaluate"", ""evidence"", ""evidence-based information on male circumcision"")
+]","[
+  (""get_info"", ""health_statistics"", ""circumcision rate in the United States""),
+  (""analyze"", ""health_statistics"", ""causes of changes in circumcision rate in the United States""),
+  (""compare"", ""health_statistics"", ""current circumcision rate trends in the United States"")
+]",0.8,0.6,0.5,0.7
+2,"You are looking for information about a z-machine You have no idea what a z-machine is, but the colleagues are talking about it in relation to nuclear energy; and you quickly want to get at least an idea of what it is. Most relevant are pages that cover the functionality of a Z-machine, like dedicated encyclopedia articles.",You want to know the current state of nuclear fusion as a power source. You want to know how close we are to making it work. You want to know if it's still worth investing in. You want to know if it's worth spending money on. You want to know if it's worth your time. You want to know if it's worth the risk.,0.4124200940132141,0.0,"[
+  (""learn"", ""nuclear_energy"", ""z-machine""),
+  (""get_info"", ""encyclopedia"", ""functionality of a z-machine"")
+]","[
+  (""learn"", ""energy"", ""nuclear fusion""),
+  (""analyze"", ""energy"", ""current state of nuclear fusion as a power source""),
+  (""decide"", ""investment"", ""nuclear fusion""),
+  (""decide"", ""time"", ""nuclear fusion""),
+  (""decide"", ""risk"", ""nuclear fusion"")
+]",0.8,0.8,0.5,0.6
+3,"You are looking for a thorough text review of Howl from Allen Ginsberg. You are intrigued by Howl from Ginsberg and want to know more about it. Detailed reviews are therefore most relevant. Besides that, you are also interested in background information about Howl and Ginsberg, which you consider somewhat less relevant than the reviews.","You are looking for information about Allen Ginsberg, an American poet. You would like to know his life, his work, and how he was important to the Beat Generation. You would also like to know how his work has influenced other writers, artists, and musicians.",0.5417141318321228,0.4,"1. (""read"", ""literature"", ""Howl by Allen Ginsberg"")
+2. (""learn"", ""literature"", ""background information about Howl and Allen Ginsberg"")","[
+  (""learn"", ""academic_field"", ""Allen Ginsberg""),
+  (""analyze"", ""literary_impact"", ""Beat Generation""),
+  (""analyze"", ""influence"", ""other writers, artists, and musicians"")
+]",0.8,0.8,0.6,0.7
+4,"You want to find information about engineering at linkedin. You have just graduated as an engineer, and made your LinkedIn account. You are now looking for information about engineering at LinkedIn. More specifically: you need to navigate to http://engineering.linkedin.com/, although related sites might be useful, too.","You are given a list of domains visited by a web agent during a browsing session. Your task is to reconstruct the most plausible **original user prompt** that would have caused the agent to visit these domains. This prompt should reflect the likely information need or task of the user, as inferred from the domains.",0.1912860870361328,0.1,"[
+  (""get_info"", ""engineering"", ""LinkedIn""),
+  (""target"", ""website"", ""http://engineering.linkedin.com/"")
+]","1. (""get_info"", ""web_browsing"", ""domains visited"")
+2. (""analyze"", ""browsing_session"", ""user behavior"")",0.8,0.5,0.4,0.6
+5,"You are looking for audiobooks by Raymond E Feist. You need to read a book from that author, but you don't know what the options are, and you don't like reading. Hence, you are looking for audiobooks: which ones are available, and where to buy them. Most important are results that provide them for sale or for download. However, pages about the correct audiobooks are also highly relevant, even when you cannot directly download or buy them on the site.","You want to find out more about a particular book. You want to know more about the book's contents, its author, the book's genre, and other related books. You are interested in fiction, preferably fantasy, but also open to other genres. You are looking for a book that is a story, and which you will be able to listen to. You are not interested in non-fiction, or in books that are not a story.",0.614846408367157,0.3,"[
+  (""explore"", ""audiobook"", ""Raymond E Feist""),
+  (""get_info"", ""audiobook"", ""available options""),
+  (""decide"", ""purchase"", ""where to buy audiobooks""),
+  (""get_info"", ""audiobook"", ""pages about audiobooks"")
+]","1. (""learn"", ""book"", ""contents"")
+2. (""learn"", ""book"", ""author"")
+3. (""learn"", ""book"", ""genre"")
+4. (""explore"", ""book"", ""related books"")
+5. (""decide"", ""book"", ""fiction"")
+6. (""decide"", ""book"", ""fantasy"")
+7. (""decide"", ""book"", ""story"")
+8. (""decide"", ""book"", ""audiobook"")",0.8,0.8,0.5,0.7
+6,"You want to know what an M/G/1 queue is. You've come across that term, and want to know what it means. Results that specifically focus on 'what is an M/G/1 queue' are most important, but results that compare them to other queues might be interesting as well.",You want to know how to calculate the probability of a call being answered by an agent. You want to know the most up-to-date information available on this topic. You are looking for the most accurate information available.,0.3054659366607666,0.0,"[
+  (""learn"", ""academic_field"", ""M/G/1 queue""),
+  (""compare"", ""academic_field"", ""M/G/1 queue"")
+]","[
+  (""learn"", ""probability_calculation"", ""call answered by an agent""),
+  (""get_info"", ""probability_calculation"", ""most up-to-date information""),
+  (""evaluate"", ""probability_calculation"", ""most accurate information"")
+]",0.5,0.5,0.4,0.6
+7,"You are looking for the lyrics of the song ""Bangarang"" by Skrillex. You don't understand the words from the song, so you would like to take a look at the lyrics. A movie is not very handy, because there you would first have to find the specific parts you are looking for.","You want to know more about the band Nirvana and their song ""Come As You Are"". You are looking for the lyrics of the song, but also information about the band and the song, like when it was released, who is the main singer, who are the other members, the style of the song, the album, the record label, the producer, the genre, the band's history, the song's history, the music video, the lyrics, the meaning of the song, the song's ranking, the band's ranking, the band's awards, the band's nominations, the song's awards, the song's nominations, the band's popularity, the song's popularity, the band's influence, the song's influence, the band's legacy, the song's legacy, the band's impact, the song's impact, the band's impact on music, the song's impact on music, the band's impact on popular culture, the song's impact on popular culture, the band's impact on society, the song's impact on society, the band's impact on the world, the song's impact on the world, the band's impact on the music industry, the song's impact on the music industry, the band's impact on the music world,",0.2925022840499878,0.1,"[
+  (""get_info"", ""music"", ""Bangarang by Skrillex""),
+  (""analyze"", ""lyrics"", ""Bangarang by Skrillex"")
+]","1. (""learn"", ""band"", ""Nirvana"")
+2. (""learn"", ""song"", ""Come As You Are"")
+3. (""get_info"", ""lyrics"", ""Come As You Are"")
+4. (""get_info"", ""release_info"", ""Come As You Are"")
+5. (""get_info"", ""main_singer"", ""Nirvana"")
+6. (""get_info"", ""band_members"", ""Nirvana"")
+7. (""get_info"", ""style"", ""Come As You Are"")
+8. (""get_info"", ""album"", ""Come As You Are"")
+9. (""get_info"", ""record_label"", ""Come As You Are"")
+10. (""get_info"", ""producer"", ""Come As You Are"")
+11. (""get_info"", ""genre"", ""Come As You Are"")
+12. (""get_info"", ""band_history"", ""Nirvana"")
+13. (""get_info"", ""song_history"", ""Come As You Are"")
+14. (""get_info"", ""music_video"", ""Come As You Are"")
+15. (""get_info"", ""meaning"", ""Come As You Are"")
+16. (""get_info"", ""song_ranking"", ""Come As You Are"")
+17. (""get_info"", ""band_ranking"", ""Nirvana"")
+18. (""get_info"", ""band_awards"", ""Nirvana"")
+19. (""get_info"", ""band_nominations"", ""Nirvana"")
+20. (""get_info"", ""song_awards"", ""Come As You Are"")
+21. (""get_info"", ""song_nominations"", ""Come As You Are"")
+22. (""get_info"", ""band_popularity"", ""Nirvana"")
+23. (""get_info"", ""song_popularity"", ""Come As You Are"")
+24. (""get_info"", ""band_influence"", ""Nirvana"")
+25. (""get_info"", ""song_influence"", ""Come As You Are"")
+26. (""get_info"", ""band_legacy"", ""Nirvana"")
+27. (""get_info"", ""song_legacy"", ""Come As You Are"")
+28. (""get_info"", ""band_impact"", ""Nirvana"")
+29. (""get_info"", ""song_impact"", ""Come As You Are"")
+30. (""get_info"", ""band_impact_on_music"", ""Nirvana"")
+31. (""get_info"", ""song_impact_on_music"", ""Come As You Are"")
+32. (""get_info"", ""band_impact_on_popular_culture"", ""Nirvana"")
+33. (""get_info"", ""song_impact_on_popular_culture"", ""Come As You Are"")
+34. (""get_info"", ""band_impact_on_society"", ""Nirvana"")
+35. (""get_info"", ""song_impact_on_society"", ""Come As You Are"")
+36. (""get_info"", ""band_impact_on_world"", ""Nirvana"")
+37. (""get_info"", ""song_impact_on_world"", ""Come As You Are"")
+38. (""get_info"", ""band_impact_on_music_industry"", ""Nirvana"")
+39. (""get_info"", ""song_impact_on_music_industry"", ""Come As You Are"")
+40. (""get_info"", ""band_impact_on_music_world"", ""Nirvana"")",0.8,0.8,0.5,0.6
+8,"You want to visit Porto and are trying to find travel tips, hotels, bars,... (none)","You are looking for restaurants in Lisbon. You want to know which ones are the best, the most expensive, the most visited, the most liked, the most popular, the most famous, the most visited, the most talked about, the most visited, the most visited, the most visited, the most visited, the most visited, the most visited, the most visited, the most visited, the most visited, the most visited, the most visited, the most visited, the most visited, the most visited, the most visited, the most visited, the most visited, the most visited, the most visited, the most visited, the most visited, the most visited, the most visited, the most visited, the most visited, the most visited, the most visited, the most visited, the most visited, the most visited, the most visited, the most visited, the most visited, the most visited, the most visited, the most visited, the most visited, the most visited, the most visited, the most visited, the most visited, the most visited, the most visited, the most visited, the most visited, the most visited, the most visited, the most visited, the most visited, the most visited, the most visited, the most visited, the",0.620501697063446,0.0,"[
+  (""explore"", ""travel"", ""Porto""),
+  (""get_info"", ""travel_tips"", ""Porto""),
+  (""explore"", ""hotels"", ""Porto""),
+  (""explore"", ""bars"", ""Porto"")
+]","1. (""explore"", ""restaurant"", ""Lisbon"")
+2. (""compare"", ""restaurant"", ""best"")
+3. (""compare"", ""restaurant"", ""most expensive"")
+4. (""compare"", ""restaurant"", ""most visited"")
+5. (""compare"", ""restaurant"", ""most liked"")
+6. (""compare"", ""restaurant"", ""most popular"")
+7. (""compare"", ""restaurant"", ""most famous"")
+8. (""compare"", ""restaurant"", ""most talked about"")",0.8,0.6,0.5,0.7
+9,"You want to buy a sony vaio laptop. Your old sony vaio laptop finally broke down, but as you were a real fan of it, you want a new laptop (not second hand) from the same brand. You will buy it over the internet, and are not looking for reviews. Top results are online stores with a large assortment of vaio laptops.",You want to buy a new laptop. You are looking for information about the most popular laptops. You want to know which laptops are most popular. You want to know how many laptops are sold each year. You want to know what kind of laptops are most popular. You want to know how many people buy laptops. You want to know how many laptops are sold. You want to know what laptops are most popular. You want to know how many laptops are sold each year. You want to know how many laptops are sold. You want to know how many laptops are sold each year. You want to know how many people buy laptops. You want to know what kind of laptops are most popular. You want to know how many laptops are sold each year. You want to know how many laptops are sold each year. You want to know how many laptops are sold. You want to know how many laptops are sold. You want to know how many laptops are sold. You want to know how many people buy laptops. You want to know how many laptops are sold. You want to know how many laptops are sold. You want to know how many people buy laptops. You want to know how many laptops are sold. You want to know how many laptops are sold. You want to,0.2568947374820709,0.1,"[
+  (""decide"", ""electronics"", ""sony vaio laptop""),
+  (""plan"", ""online shopping"", ""buy new sony vaio laptop""),
+  (""target"", ""online store"", ""large assortment of vaio laptops"")
+]","1. (""learn"", ""technology"", ""most popular laptops"")
+2. (""learn"", ""sales_data"", ""laptops sold each year"")
+3. (""learn"", ""consumer_behavior"", ""people buying laptops"")
+4. (""learn"", ""technology"", ""types of popular laptops"")",0.5,0.8,0.5,0.6
+10,"You want to know how a .csv file can be imported in excel. You need to import a .csv file in Excel, but you don't know that data type, and have no idea how to open it in Excel. Especially Excel help pages from Microsoft on this topic are relevant, but dedicated videos or tutorials are also fine.",You are looking for information on how to connect Excel to other databases or data sources. You want to know how to import data from other sources into Excel or how to link Excel to other systems.,0.6971008777618408,0.3,"[
+  (""learn"", ""data_import"", "".csv file""),
+  (""get_info"", ""Excel_help"", ""importing .csv files""),
+  (""explore"", ""tutorials"", ""importing .csv files in Excel"")
+]","[
+  (""learn"", ""data_integration"", ""connecting Excel to databases""),
+  (""learn"", ""data_integration"", ""importing data into Excel""),
+  (""learn"", ""data_integration"", ""linking Excel to other systems"")
+]",0.8,0.8,0.5,0.7
+11,"You want to find the phone number of the 'Vom Fass'-shop in Ghent? You want to make an order in the Vom Fass shop in Ghent, by phone. Even though you are interested in general information about the shop, you are in the first place looking for contact details, and more specifically their phone number.",You are looking for a whisky. You would like to know which distilleries are most likely to produce a whisky that you would like.,0.13933777809143066,0.0,"[
+  (""get_info"", ""shop"", ""Vom Fass shop in Ghent""),
+  (""target"", ""contact_detail"", ""phone number of Vom Fass shop in Ghent""),
+  (""plan"", ""order"", ""Vom Fass shop in Ghent"")
+]","[
+  (""explore"", ""whisky"", ""distilleries""),
+  (""target"", ""whisky"", ""preferences"")
+]",0.5,0.2,0.3,0.4
+12,"You want to know what a BMW C1 motorcycle looks like. You read that the BMW C1 would be a special case, as a motorcycle, so you wonder what it looks like, that's all.","You are looking for information about the BMW R 5. You want to know what it is, how it works, and what it looks like. You want to know if it is a good bike to buy, and what the price is.",0.5247634649276733,0.2,"[  
+  (""learn"", ""motorcycle"", ""BMW C1""),  
+  (""get_info"", ""motorcycle"", ""appearance"")  
+]  ","[
+  (""get_info"", ""motorcycle"", ""BMW R 5""),
+  (""analyze"", ""motorcycle"", ""BMW R 5""),
+  (""evaluate"", ""motorcycle"", ""BMW R 5""),
+  (""get_info"", ""price"", ""BMW R 5"")
+]",0.8,1.0,0.5,0.6
+13,"You want to buy a tuning fork. You want to buy a tuning fork for tuning your violin (and more specifically, the actual, old-fashioned device, not an online or digital tool). Since you are looking for a musical tuning fork, everything that is related to testing your hearing, is not relevant. Especially online webshops that have tuning forks for sale are important.",You want to know the most popular and best-selling music instruments.,0.42654237151145935,0.1,"1. (""decide"", ""musical instrument"", ""tuning fork"")
+2. (""plan"", ""purchase"", ""tuning fork"")
+3. (""get_info"", ""webshop"", ""tuning fork"")
+4. (""target"", ""musical instrument"", ""violin"")","[
+  (""learn"", ""music_instruments"", ""popular and best-selling"")
+]",0.5,0.8,0.5,0.6
+14,"You would like to know how a Dewar flask works. In fact, you want to get to know the physical principles behind a Thermos vacuum flask.","You want to know what are the most popular bottle sizes and shapes that consumers prefer. You are interested in learning about the different types of bottles that are commonly used for packaging liquids. You want to know what are the most common materials used for making bottles, and what are their advantages and disadvantages. You want to know what are the most common applications of bottles in different industries. You are interested in learning about the different types of bottle caps and closures that are commonly used, and what are their advantages and disadvantages. You want to know what are the most common types of bottle labels and how they are used. You want to know what are the most common types of bottle packaging and how they are used. You are interested in learning about the different types of bottle manufacturing processes and how they are used. You want to know what are the most common types of bottle suppliers and manufacturers, and what are their websites. You want to know what are the most common types of bottle-related products and services, and what are their prices. You want to know what are the most common types of bottle-related news and articles, and what are their sources. You want to know what are the most common types of bottle-related research and studies, and what are their findings. You want to know what are",0.243687242269516,0.0,"[
+  (""learn"", ""physical_principles"", ""Dewar flask""),
+  (""learn"", ""physical_principles"", ""Thermos vacuum flask"")
+]","```plaintext
+[
+    (""learn"", ""bottle"", ""popular bottle sizes and shapes""),
+    (""learn"", ""bottle"", ""types of bottles for packaging liquids""),
+    (""learn"", ""bottle"", ""common materials for making bottles""),
+    (""analyze"", ""bottle"", ""advantages and disadvantages of bottle materials""),
+    (""learn"", ""bottle"", ""common applications of bottles in industries""),
+    (""learn"", ""bottle"", ""types of bottle caps and closures""),
+    (""analyze"", ""bottle"", ""advantages and disadvantages of bottle caps and closures""),
+    (""learn"", ""bottle"", ""common types of bottle labels and their uses""),
+    (""learn"", ""bottle"", ""common types of bottle packaging and their uses""),
+    (""learn"", ""bottle"", ""types of bottle manufacturing processes""),
+    (""learn"", ""bottle"", ""common types of bottle suppliers and manufacturers""),
+    (""get_info"", ""bottle"", ""websites of bottle suppliers and manufacturers""),
+    (""learn"", ""bottle"", ""common types of bottle-related products and services""),
+    (""get_info"", ""bottle"", ""prices of bottle-related products and services""),
+    (""learn"", ""bottle"", ""common types of bottle-related news and articles""),
+    (""get_info"", ""bottle"", ""sources of bottle-related news and articles""),
+    (""learn"", ""bottle"", ""common types of bottle-related research and studies""),
+    (""learn"", ""bottle"", ""findings of bottle-related research and studies"")
+]
+```",0.8,0.5,0.4,0.6
+15,"You want to know what this acronym stands for. In your electronics textbook, you found the term ROADM, without further explanation. You want to know what the acronym stands for. Results that provide the answer and deal with the right context (=electronics) are the most relevant ones.",You want to know which companies are working on a new 5G network. You want to know which companies are working on a new 5G network.,0.18634945154190063,0.0,"[
+  (""get_info"", ""electronics"", ""ROADM""),
+  (""target"", ""electronics"", ""context"")
+]","[
+  (""explore"", ""technology"", ""5G network""),
+  (""get_info"", ""companies"", ""5G network"")
+]",0.8,0.5,0.4,0.6
+16,"You want to buy a used kindle. You want to buy a second hande e-reader, and you heard the Amazon Kindle would be the best. General information about the Kindle is interesting for making you choice, but you are mostly looking for specific offers of Kindles on shopping sites.","You want to buy an e-reader. You are looking for information about e-readers, e-reader reviews, and e-reader deals. You want to know which e-reader is the best and what are the pros and cons of each e-reader. You also want to know how to get the best e-reader deals.",0.6772665977478027,0.6,"[
+  (""decide"", ""e-reader"", ""Kindle""),
+  (""get_info"", ""e-reader"", ""Kindle""),
+  (""explore"", ""shopping_site"", ""used Kindle offers"")
+]","[
+  (""explore"", ""e-reader"", ""e-readers""),
+  (""get_info"", ""e-reader"", ""e-reader reviews""),
+  (""get_info"", ""e-reader"", ""e-reader deals""),
+  (""compare"", ""e-reader"", ""best e-reader""),
+  (""analyze"", ""e-reader"", ""pros and cons of each e-reader""),
+  (""plan"", ""e-reader"", ""best e-reader deals"")
+]",0.8,1.0,0.5,0.6
+17,"You want to buy the book with that title, written by Jurasky (the 2008 edition). For your job, you need this book, and your boss is willing to pay. Therefore, you are looking for a convenient online offer. Since you are going to study the book, all related digital content, is welcome, too. You are however not interested in reviews, because you already know that book is top.Since you are going to study the book, all related digital content, is welcome, too. You are however not interested in reviews, because you already know that book is top.","You are looking for a book about natural language processing. You want to find a book that is a comprehensive and accurate overview of the field. You want the book to be written by experts in the field, and you want it to cover all aspects of NLP, including algorithms, techniques, and applications. You also want the book to be up-to-date, reflecting the latest research and developments in the field.",0.1627025306224823,0.2,"1. (""book"", ""book"", ""book by Jurasky (2008 edition)"")
+2. (""explore"", ""online_offer"", ""book by Jurasky (2008 edition)"")
+3. (""learn"", ""digital_content"", ""related digital content for the book by Jurasky (2008 edition)"")
+4. (""target"", ""job"", ""book by Jurasky (2008 edition)"")
+5. (""target"", ""payment"", ""boss willing to pay"")","[
+  (""explore"", ""book"", ""natural language processing""),
+  (""target"", ""book"", ""comprehensive and accurate overview""),
+  (""target"", ""book"", ""written by experts""),
+  (""target"", ""book"", ""covering algorithms, techniques, and applications""),
+  (""target"", ""book"", ""up-to-date with latest research and developments"")
+]",0.8,0.8,0.5,0.6
+18,"You want to buy a lounge chair by eames. Your boyfriend would like to have an Eames lounch chair, so you want to find one online. First of all, you are looking for shopping sites that have them for sale. Since you don't know much about it, related information (e.g., pictures) is also welcome.",What are the most popular chair designs of the 20th century?,0.41396766901016235,0.1,"1. (""explore"", ""shopping_site"", ""Eames lounge chair"")
+2. (""get_info"", ""Eames lounge chair"", ""pictures"")","[  
+  (""learn"", ""design"", ""chair designs of the 20th century"")  
+]",0.5,0.5,0.4,0.6
+19,"You are looking for a sound file or video of one of Chopin's ballades, interpreted by Zimerman. You want to play one of Chopin's ballades, and in order to choose one, you want to listem to them first. Most relevant are interpretations of the ballades by Zimerman, as you heard he is a great Chopin interpreter. You don't want to pay for it, and you are not looking for scores either.","You want to find information about piano music. You want to find a piano piece that you can learn in a reasonable amount of time. You want to find a piece that you will enjoy playing. You are not looking for a piece that is too difficult, but you want it to be challenging enough to be interesting. You want to find a piece that is written by a well-known composer. You want to find a piece that is written for solo piano.",0.37911543250083923,0.1,"1. (""explore"", ""music"", ""Chopin's ballades interpreted by Zimerman"")
+2. (""decide"", ""music"", ""Chopin's ballades"")
+3. (""get_info"", ""music"", ""sound file or video of Chopin's ballades"") 
+4. (""target"", ""price"", ""free"")","1. (learn, music, piano music)
+2. (explore, music, piano piece)
+3. (decide, music, piano piece)
+4. (analyze, music, difficulty level)
+5. (explore, music, well-known composer)
+6. (explore, music, solo piano piece)",0.8,1.0,0.5,0.6

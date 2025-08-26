@@ -1,0 +1,2671 @@
+Prompt 1:
+Instructions for Researcher
+
+Objective:  
+I want to find the most recent and in-depth scientific knowledge on LHC (Large Hadron Collider) collisions. My preferences are scientific publications (journal articles or reviews), but I am also interested in recent books on the topic (including ones available for purchase), as well as scientific video lectures or reliable encyclopedia entries. The focus is on current and detailed information.
+
+Key Attributes & Dimensions:
+
+- **Scope of Research:**  
+  - LHC collisions (phenomena, results, technologies, relevant experiments, notable findings)
+  - Most recent knowledge (prioritize publications and resources from the past 3–5 years; note the year of publication)
+  - Primary preference: scientific publications (peer-reviewed journal articles, reviews, and preprints)
+  - Secondary preference: books—recent, in print, and available for purchase
+  - Additional interest: scientific video lectures (preferably from reputable scientific conferences, universities, or large research organizations such as CERN)
+  - Encyclopedia entries: only from reputable scientific sources (e.g., Scholarpedia, Encyclopedia of Physics, or official CERN resources), not general-audience platforms unless authored by domain experts
+
+- **Language:**  
+  - English (no other language specified)
+
+- **Sources:**  
+  - Prefer direct links to official or primary sources:
+    - Journal articles: link to publisher or DOI whenever possible (journals such as Nature, Science, Physics Letters B, Physical Review Letters, JHEP, CERN Document Server, arXiv.org)
+    - Books: link to publisher's site or a reputable seller (such as Springer, Oxford University Press, Cambridge, or Amazon)
+    - Video lectures: link to official conference websites, YouTube channels maintained by CERN or universities, etc.
+    - Encyclopedia entries: link to official scientific platforms as noted above
+
+- **Open Dimensions/Unstated Preferences:**  
+  - If multiple subfields are relevant (e.g., particle physics, detector physics, computational methods), include examples from each
+  - No limit on the number of resources, but organize top recommendations according to relevance and recency
+
+Expected Output Format:
+
+- **Format as a Structured Research Report** with clear headings:
+    1. Executive Summary (briefly describe the landscape of recent LHC collision research and available in-depth resources)
+    2. Recent Key Scientific Publications (with complete citations, publication year, brief summaries, and direct links)
+    3. Recent Books (with brief description, publication info, availability for purchase)
+    4. Scientific Video Lectures (with titles, presenters, event/source, date, and links)
+    5. Encyclopedia and Authoritative Overviews (with titles, authors/editors, publication year, platform, and links)
+    6. Additional Resources (if any)
+    7. Table(s):  
+        - Provide a comparative table summarizing recent key scientific publications (columns: Title, Year, Author(s)/Collaboration, Main Focus, Source/Link).
+        - Provide a separate table for books (Title, Author(s)/Editor(s), Year, Publisher, Availability/Purchase Link, Coverage Depth).
+
+Additional Instructions:
+- For each resource, note its year of publication and summarize why it is significant or relevant for in-depth study.
+- For video lectures, indicate target audience level (introductory, advanced, expert).
+- Do NOT include resources published prior to 2018 unless they are foundational and continue to be cited in the latest research—note such exceptions clearly.
+- In all cases, prioritize the scholarly, recent, and domain-expert sourced materials.
+
+If additional research dimensions are discovered to be essential as you work (e.g., types of LHC collisions, theoretical vs experimental focus), organize your findings accordingly, noting any open dimensions.
+
+Please adhere to these instructions and present the findings in the requested structured format.
+
+Prompt 2:
+Instructions to Researcher
+
+Objective:  
+I want a comprehensive, **scientifically grounded overview of the latest knowledge on the pros and cons of male circumcision**, focusing principally on the procedure itself. This overview must include **evidence-based evaluations** of the **medical, psychological, and social aspects** of circumcision. While the review may touch on links to particular health outcomes (e.g., infection risk reduction), **information expressly and solely about topics like the circumcision-HIV link** should be minimized unless essential for context.
+
+Follow these steps:
+
+---
+
+### 1. Scope Definition
+
+**Inclusions:**
+- Only include research discussing **male circumcision itself** (the procedure, associated risks/benefits, outcomes).
+- Cover **medical, psychological, and social** impacts (as defined below).
+
+**Exclusions:**
+- Do not focus in depth on outcomes that are tangential or secondary (e.g., extensive review on HIV prevention).
+
+---
+
+### 2. Source Acquisition
+
+**Prioritize the following types of sources:**
+- **Peer-reviewed journal articles** (especially systematic reviews, meta-analyses, and large cohort studies from the last 10 years).
+- **Authoritative medical guidelines** (e.g., AAP, WHO, CDC, NHS).
+- **Books by leading researchers**—recent publications only.
+- **Educational videos**—from reputable organizations (e.g., Mayo Clinic, NHS).
+- **Infographics or images**—clearly sourced from scientific or medical sites.
+
+**Source Prioritization:**
+- Link directly to primary sources (journals, official guidelines).
+- Do not use secondary summary sites if original source is available.
+- For graphical or video content, only use sources from recognized institutions/organizations.
+
+---
+
+### 3. Dimensions to Review/Report
+
+**Medical:**
+- Common indications for circumcision (medical necessity vs. elective).
+- **Short-term complications:** pain, bleeding, infection, surgical errors.
+- **Long-term health outcomes:** penile health, sexual function, urinary tract health.
+- Healing process, typical recovery, scarring, sensitivity changes.
+
+**Psychological:**
+- Impact on psychological well-being, sexual identity, or trauma (if evidence exists).
+- Parental perspectives, cultural considerations, and perceived psychological benefits/risks.
+
+**Social:**
+- Prevalence geographically and by population group.
+- Cultural, religious, or ethical perspectives.
+- Social pressures, stigma, and community acceptance issues.
+
+**Other/Open-Ended:**  
+If you identify any other consistently emerging theme in the latest research, include these as additional sections.
+
+---
+
+### 4. Evidence Standards
+
+- For every claimed “pro” or “con,” **back up with citation(s) from authoritative source(s)**.
+- If significant scientific disagreement or controversy exists on any point, **describe differing viewpoints and the strength of the available evidence**.
+
+---
+
+### 5. Synthesis and Summary Format
+
+**Deliver the output as a structured report with the following elements:**
+- **Title Page**
+- **Executive Summary** (concise key findings)
+- **Table of Contents**
+- **Introduction** (describe aims, scope, methodology)
+- Separate sections for **Medical**, **Psychological**, and **Social** aspects of circumcision, subdivided into “Pros,” “Cons,” and “Unresolved/Controversial Topics” if appropriate.
+- **Summary Table:**  
+    - Provide a table comparing the key pros and cons, with a brief description and citation for each.
+- **Conclusion** (highlight knowledge gaps, consensus, and remaining controversies)
+- **References:** List all sources in a recognized citation style (e.g., APA), with direct links to source documents.
+- **Appendices:** Include related graphics, infographics, and links to relevant videos or images as supplementary material.
+
+---
+
+### 6. Special Instructions
+
+- Focus on the **most recent evidence (last 10 years preferred, unless a seminal older source is relevant).**
+- If a topic is under-researched or there is little evidence, clearly note this.
+- **Treat all unstated dimensions as open-ended**: Include any other significant outcomes/implications found in the research.
+- Use **neutral, scientific language**.
+- Do **not omit dimensions** unless explicitly told to do so by me.
+
+---
+
+### 7. Language
+
+- Respond **in English**.
+
+---
+
+By following these instructions, you will deliver a balanced, up-to-date, and evidence-based overview of male circumcision, suitable for an informed yet non-specialist audience.
+
+Prompt 3:
+Instructions for Researcher
+
+Task Overview  
+I need to quickly understand what a “Z-machine” is, in the context of nuclear energy. I do not have any prior knowledge about this topic, so it is important to start with basic explanations. The most important aspects are the functionality of a Z-machine and a general overview. Please prioritize concise, clear, and authoritative resources—encyclopedia entries are particularly desirable.
+
+Required Content  
+
+1. Overview and Definition  
+   - Begin with a clear and succinct definition of what a Z-machine is, specifically as it relates to nuclear energy or nuclear research.
+   - Include a brief description of its purpose and primary field(s) of application.
+
+2. Functionality  
+   - Explain what the Z-machine does, how it generally works, and why it is important or notable in the nuclear context.
+   - Address the basic scientific or engineering principles involved, making sure these are clear to someone new to the topic.
+
+3. Sources  
+   - Prioritize direct links to authoritative and reputable sites, such as:
+     - Official pages of the organization(s) that built or operate the Z-machine (for example, Sandia National Laboratories if applicable).
+     - Dedicated encyclopedia articles (Wikipedia, Britannica, or major physics/nuclear-related encyclopedias).
+   - Avoid SEO-heavy blogs, aggregator sites, or non-official forums.
+   - Please provide clear citations or clickable links in the output.
+
+4. Output Format  
+   - Present the information as a brief report with clear headers:
+     - Introduction / Definition
+     - Functionality
+     - Key References and Further Reading
+   - Under each header, use brief paragraphs or bullet points as appropriate to ensure clarity.
+   - Include all links as active hyperlinks where possible.
+
+5. Other Considerations  
+   - There are no restrictions on language; however, default to English unless you locate a particularly relevant source in another language.
+   - If there are multiple relevant definitions or contexts for “Z-machine,” focus on the one pertaining to nuclear energy, but optionally mention other notable applications only if they might help clarify the distinction.
+   - Do NOT assume any prior technical knowledge; explanations should be suitable for a layperson.
+
+Summary Table (optional but encouraged)
+- If you find it helps for clarity, include a simple table summarizing essential facts (e.g., organization, primary purpose, key operating principles). If you include a table, place it after the Introduction.
+
+End Product  
+The final output should be a brief, well-structured report with the headers listed above, easy-to-understand explanations, and links or references to the most relevant, authoritative sources.
+
+Prompt 4:
+## Instructions for Researcher
+
+**Research Task:**  
+I am seeking a thorough text review of *Howl* by Allen Ginsberg. My primary interest is in detailed reviews and analysis of *Howl*, focusing on comprehensive and insightful critical perspectives. Secondarily, I am also interested in background information about both the poem *Howl* and Allen Ginsberg himself; this background is somewhat less relevant than the detailed reviews but should still be included for context.
+
+---
+
+### Specific Instructions
+
+#### 1. Focus on Detailed Reviews of *Howl*
+- Locate and summarize several in-depth reviews or critical analyses of *Howl* by Allen Ginsberg.
+    - Prioritize reviews that provide deep literary analysis, discuss major themes, style, historical impact, and reception.
+    - Seek out both classic and contemporary reviews to show evolving perspectives, if available.
+    - Where appropriate, include direct quotations or particularly significant points made by the reviewers.
+    - Prefer reviews and analyses from reputable literary journals, academic publications, or respected literary critics.
+
+#### 2. Provide Background Information (Secondary Priority)
+- Briefly summarize the background of *Howl*, including its creation, publication history, and initial reception.
+- Include concise biographical information about Allen Ginsberg, focusing on aspects relevant to his writing of *Howl* and its significance.
+
+#### 3. Organization and Formatting
+- Structure the output as a clearly-formatted report, with distinct headers:
+    - Introduction
+    - Detailed Reviews and Critical Analyses of *Howl*
+    - Background of *Howl*
+    - Background on Allen Ginsberg
+- Use bullet points or sub-headers where appropriate for clarity.
+- If you find that a comparison or summary table would help to organize multiple reviews or perspectives, please include such a table.
+
+#### 4. Language
+- Provide the report in English.
+
+#### 5. Sources
+- Provide direct links to official sources whenever possible:
+    - For critical reviews/analyses: Link to the official journal, publication, or platform where the review appears.
+    - For background or biographical info: Use reputable literary databases, publisher websites, or recognized institutions.
+- Clearly list all sources at the end of the report in a "References" section.
+
+#### 6. Unstated or Open-Ended Dimensions
+- If any relevant aspect (such as specific social or historical context, or novel interpretations) is not specified, include it if it contributes meaningfully to understanding *Howl* and is covered by major reviews or background sources.
+
+---
+
+#### **Summary Table Example** (if needed)
+| Reviewer/Source           | Date      | Main Points & Themes Addressed            | Notable Quotes/Insights              | Link               |
+|--------------------------|-----------|------------------------------------------|--------------------------------------|--------------------|
+| Example: The New Yorker  | 1956      | Censorship, Beat Generation, Form        | “Howl’s fury is the engine…”         | [Link]             |
+
+---
+
+**End your report with a clear "References" section.**
+
+Prompt 5:
+Instructions for Researcher:  
+I have just graduated as an engineer, recently made a LinkedIn account, and I am now seeking information about engineering at LinkedIn. My primary goal is to navigate to http://engineering.linkedin.com/ and summarize relevant information for a new engineering graduate like myself. Related official LinkedIn engineering web pages may also be useful.
+
+Please follow and report as per the guidelines below:
+
+**Expected Output Format:**  
+Present your findings as a structured report, including clear section headers for each major topic or resource explored.
+
+**Instructions:**
+
+1. **Primary Source Exploration**
+   - Begin by navigating to http://engineering.linkedin.com/. This is the official engineering portal for LinkedIn.
+   - Review and note all relevant information for a new engineering graduate, such as:
+     - Overview of engineering at LinkedIn (team, mission, culture).
+     - Technologies, programming languages, or frameworks highlighted.
+     - Ongoing or recent engineering projects.
+     - Career opportunities, internships, or entry-level graduate programs for engineers.
+     - Any resources for engineering students or recent graduates (e.g., blog posts, career tips, open source projects).
+
+2. **Related and Official Resources**
+   - Identify and review any directly linked pages or official subdomains from the main engineering portal (e.g., LinkedIn’s engineering blog, open-source project listings, careers page).
+   - Focus ONLY on official LinkedIn pages (avoid third-party blogs or aggregator sites unless official pages are lacking in detail).
+
+3. **Tables for Clarity**
+   - If multiple opportunities, projects, or technologies are covered, provide a table summarizing:
+     - Title/Name,
+     - Description,
+     - Relevant link (provide URL),
+     - Notable attributes (e.g., eligibility, location, applicable skills).
+
+4. **No Unfounded Assumptions**
+   - Where any information relevant to a new engineering graduate is not readily available on the site, note the lack of detail. Do not speculate or fabricate information.
+
+5. **Open Dimensions**
+   - If the site offers a variety of engineering domains (e.g., backend, machine learning, data infrastructure) and does not specify eligibility or technical requirements, consider them open-ended unless officially limited.
+
+6. **Language**
+   - Respond in English, as my query is in English.
+
+7. **Official Source Priority**
+   - When linking or referencing opportunities or blog posts, link directly to official LinkedIn or LinkedIn Engineering domains.
+
+**Report Structure Suggested:**
+
+1. Executive Summary (one paragraph summarizing key findings)
+2. LinkedIn Engineering Overview
+3. Technologies and Projects
+4. Entry-Level & New Graduate Opportunities (with table, if applicable)
+5. Resources for Engineering Students and Recent Graduates (with table, if applicable)
+6. Other Officially Linked Resources
+7. Gaps or Open Questions
+
+Be sure to maintain clarity and structure so that a recent engineering graduate can effectively use the summary to learn about engineering at LinkedIn and take further steps as needed.
+
+Prompt 6:
+Instructions for Researcher: Raymond E Feist Audiobooks Availability and Purchase Options
+
+Objective:  
+I am seeking to discover which audiobooks by Raymond E Feist are available and where I can purchase them, as I prefer listening to books rather than reading physical or digital copies.
+
+Please follow these detailed steps and organize the findings in a clear, structured way:
+
+**1. Compile a List of Raymond E Feist Audiobooks**  
+- Identify all audiobooks authored by Raymond E Feist that are currently available for purchase or download.  
+- Include both standalone books and books from Feist’s series (such as the Riftwar Saga, Empire Trilogy, etc.).  
+- Note: If certain popular titles are not available as audiobooks, please clearly mark them as “Not available in audiobook format.”
+
+**2. Identify Purchase/Download Platforms**  
+- For each available audiobook, specify where it can be purchased or downloaded. Prioritize the following platforms:
+    - Audible/Amazon
+    - Apple Books
+    - Google Play Books
+    - Kobo (if available)
+    - Official publisher or author websites (if applicable)
+    - Major regional audio retailers (if notable)
+- Provide direct links to the product pages for each platform (when possible).
+
+**3. Note Relevant Edition Details**  
+- For each listed audiobook, include:
+    - Book title
+    - Series (if applicable)
+    - Narrator (if available)
+    - Unabridged or abridged version (if specified)
+    - Audiobook length (hours/minutes, if available)
+    - Publication year of the audiobook
+- If multiple editions (e.g., different narrators or releases) are available, list all main options.
+
+**4. Provide Pricing Information**  
+- Note the current price for each audiobook on each platform, if available (specify currency and date of checking).
+- Indicate if the audiobook is available as part of any subscription service (e.g. Audible Free Trial, or included with membership).
+
+**5. Direct to Official or Reputable Sources**  
+- When linking to audiobooks, always prioritize official publisher, author, or primary retailer pages over aggregator or summary sites.
+
+**6. Tabular Summary**  
+- Prepare a table listing:
+    - Book Title
+    - Series (if applicable)
+    - Platform(s) Available
+    - Narrator
+    - Audiobook Length
+    - Unabridged/Abridged
+    - Price
+    - Link(s) to purchase
+
+**7. Output Formatting**  
+- Submit results as a structured report.
+- Include a brief introductory paragraph summarizing overall findings.
+- Use clear headers for sections and insert the summary table as described above.
+
+**8. Language**  
+- Respond in English.
+
+**9. Open-Ended Dimensions**  
+- If there are books by Raymond E Feist with multiple audiobook versions (such as different narrators or re-recordings), include all prominent ones.
+- No specific series or book is requested, so please cover all available Raymond E Feist audiobooks.
+
+**10. If Information Is Unavailable**  
+- Clearly mark any titles/series for which you cannot find audiobook editions, and briefly note this in the report.
+
+**Summary Table Example:**
+
+| Book Title                | Series         | Platform(s)      | Narrator       | Length   | Abridged? | Price         | Link(s)              |
+|---------------------------|---------------|------------------|----------------|----------|-----------|---------------|----------------------|
+| Example Book              | Riftwar Saga  | Audible, Apple   | J. Doe         | 15 hr    | Unabridged| $14.95        | [Audible Link](#)    |
+
+Please follow these instructions closely to ensure a complete overview of Raymond E Feist audiobooks and purchasing options.
+
+Prompt 7:
+Instructions for Researching "What is an M/G/1 Queue?"
+
+Objective  
+Research and clearly explain what an M/G/1 queue is. Focus primarily on concise and precise definitions of the term. Additionally, if available, include information that compares M/G/1 queues to other types of queues (such as M/M/1 and M/D/1), highlighting key similarities and differences.
+
+Guidelines & Details
+
+1. Primary Focus  
+- Find sources that directly define and explain what an M/G/1 queue is.
+- Ensure the explanation addresses what each letter in the notation stands for (“M,” “G,” “1”).
+- Clarify typical contexts or applications where M/G/1 queues are relevant.
+
+2. Comparative Information (Secondary Focus)
+- Seek out sources that compare M/G/1 queues to other standard queueing models, especially M/M/1 and M/D/1.
+- Note any differences in assumptions, system behavior, or mathematical properties between these queues.
+
+3. Expected Output Format  
+- Organize your results into a structured, written report with clear headers:
+    1. Introduction/Overview
+    2. Definition of M/G/1 Queue
+    3. Components of the M/G/1 Notation
+    4. Common Applications or Contexts
+    5. Comparison to Other Queue Types
+    6. References/Sources (with links, if available)
+- Where comparative information is available, present a table contrasting the major features and assumptions of M/G/1, M/M/1, and M/D/1 queues (e.g., arrival process, service process, number of servers).
+
+4. Language  
+- Present the report in English.
+
+5. Sources
+- Prioritize references from academic textbooks, peer-reviewed articles, or authoritative educational resources (e.g., university lecture notes, textbooks like "Introduction to Probability Models" by Sheldon Ross, or official pages from universities).
+- Prefer direct links to original materials over general summaries or SEO-oriented sites.
+
+6. Unspecified Attributes  
+- If there are aspects commonly associated with queueing theory models (e.g., formulas, performance metrics) not specifically requested in the user query, feel free to include them ONLY if they support or clarify the main explanation, but do not make them the primary focus.
+
+7. Table  
+- Include a table comparing M/G/1, M/M/1, and M/D/1 queue characteristics as described in point 3.
+
+Deliverables  
+A structured report as specified above, including a comparison table and direct links to primary or academic sources.
+
+Prompt 8:
+Instructions for Researcher: Finding the Lyrics to "Bangarang" by Skrillex
+
+**Objective:**  
+I am looking for the full lyrics to the song "Bangarang" by Skrillex. Specifically, since I do not understand the words as they are performed in the song, I would like to see the complete written lyrics for reference.
+
+**Key Details to Address:**
+1. **Song Title:** "Bangarang"
+2. **Artist:** Skrillex
+3. **Format:** Please provide the full written lyrics.
+4. **No Movie Transcripts:** Do not provide a movie transcript or audio/video links; I want the plaintext lyrics only.
+5. **Source Preference:** Obtain the lyrics from an official source (such as the publisher, record label, or Skrillex's official website), or if not available, from a reputable lyrics website (such as Genius or AZLyrics). When possible, link directly to the source.
+6. **Language:** English (as the original request is in English).
+7. **Open-Ended:** If there are multiple versions or remixes of this song, default to the most well-known and widely released version unless otherwise specified.
+
+**Output Format:**
+- Please provide the lyrics in plaintext.
+- Include a link to the source where the lyrics were obtained.
+- Precede the lyrics with a brief statement specifying the source and which specific song version they pertain to.
+- If the lyrics are not publicly available or are incomplete (e.g., due to copyright restrictions), please state this clearly and summarize what is available instead.
+
+**Example Output Structure:**
+
+---
+**Source:** [Genius Lyrics for Skrillex – Bangarang](https://genius.com/Skrillex-bangarang-lyrics)  
+**Song Version:** Skrillex – Bangarang (ft. Sirah)
+
+**Lyrics:**
+[Paste lyrics here in plaintext]
+
+---
+
+If unable to provide due to copyright, note:  
+*"Full lyrics for 'Bangarang' by Skrillex are not available for public distribution due to copyright restrictions. However, an excerpt/summary/reference is available at [source link]."*
+
+**Note:** Do not include movie scripts, videos, or audio clips; written lyrics only.
+
+Prompt 9:
+Instructions for Researcher
+
+Objective:  
+I would like to gather comprehensive travel information about visiting Porto. This should include travel tips, accommodation recommendations (hotels), notable bars, and any other relevant visitor guidance.
+
+Please note: I have not specified budget, travel dates, preferences for hotel type or amenities, nor particular interests relating to bars or nightlife. All such attributes should be considered open-ended unless otherwise noted.
+
+Required Output Format:  
+Present the findings as a structured report, using clear headers and formatting to organize the information. Where appropriate, include tables (for comparing hotels, e.g., by location, price range, rating, and amenities).
+
+Attributes/Dimensions to Cover:  
+1. **Travel Tips**
+   - General advice for travelers visiting Porto (e.g., transportation, local customs, weather considerations, typical costs, safety advice).
+   - Currency and language guidance.
+   - Highlight any must-know logistical information for first-time visitors.
+
+2. **Hotels**
+   - List a selection of recommended hotels, catering to a range of budgets (economy, mid-range, luxury).
+   - For each hotel, provide: name, location, price range, guest rating, primary amenities/facilities, and a direct link to the official site or trusted booking platform.
+   - Include a comparison table summarizing these hotels across the above attributes.
+
+3. **Bars**
+   - Suggest notable bars or nightlife spots in Porto; where possible, include a range of atmospheres (e.g., casual, traditional, upscale) since no preference was provided.
+   - For each bar, provide: name, location, type/atmosphere, signature drink or appeal, and (if available) a link to their official page or reliable reviews.
+
+4. **Other Visitor Recommendations (Open-Ended)**
+   - Based on common highlights for visitors to Porto, include other suggestions (e.g., must-see sights, unique experiences, local restaurants, tours). Treat these recommendations as open-ended since no specifics were provided.
+
+Sources:
+- Prioritize official tourism portals (e.g., VisitPorto, official hotel/bar websites) and reputable sites (e.g., TripAdvisor, Booking.com) for reviews.
+- Where available, link directly to official or primary sites rather than aggregators or third-party blogs.
+- Use English-language sources unless otherwise specified.
+
+Language:
+- Present the report in English.
+
+Summary Table Example (for Hotels):
+
+| Hotel Name | Location | Price Range (EUR/night) | Guest Rating | Key Amenities          | Official Website              |
+|------------|----------|------------------------|--------------|------------------------|-------------------------------|
+| Example    | Central  | €100–€150              | 9.1/10       | Free WiFi, Breakfast   | www.examplehotel.com          |
+
+Final Deliverable:  
+A well-structured report with clear sections and—for hotels and if useful for bars—a summary table, incorporating the above details and direct links to official sources. Where discretion is required due to lack of user preference, include a balanced selection to cover a range of possibilities.
+
+Prompt 10:
+Instructions for Researcher
+
+Objective:  
+I want to buy a brand-new Sony Vaio laptop online (not second-hand), as my previous one broke down and I was a real fan of it. I would like a list of the top online stores offering a large assortment of new Vaio laptops for direct purchase. I am not looking for individual product reviews; I want reputable sites with a broad Vaio selection.
+
+User Preferences & Requirements:
+- Brand: Sony Vaio (new laptops only, not refurbished, not second-hand)
+- Purchase Mode: Online only
+- Key Focus: Stores with a large assortment of Sony Vaio laptops available
+- Do NOT include: Individual product reviews, review aggregators, or stores with only a single model in stock
+
+Open-Ended / Not Specified by User:
+- No specific location or shipping region provided, so include major international and/or regional online retailers that are known for shipping Vaio laptops broadly. (If you find region-specific options, please include a note about their shipping restrictions.)
+- No specification on preferred currency, so include prices in the local currency of the listing and state the currency.
+- No minimum or maximum budget specified.
+- No specification on desired Vaio model, series, or technical specs; include any and all current models available in the stores.
+- No requirement for add-ons or bundles.
+- No preferred language or country; default to English unless otherwise necessary.
+
+Instructions for Compiling Results:
+
+1. **Identify Online Stores**   
+   - Search for reputable online retailers and the official Vaio online store(s) that currently stock and sell new Sony Vaio laptops.
+   - Prioritize sites with a large variety of Vaio models and configurations in stock.
+   - Prefer official Sony Vaio webshops, authorized dealers, and major electronics retailers (e.g., Amazon, Best Buy in the US, major national retailers elsewhere).
+
+2. **Verify Inventory**
+   - Ensure that listed stores currently have multiple new Vaio laptop models available for purchase (not just accessories or a single old SKU).
+   - Confirm that offerings are not refurbished or used.
+   - If inventory is limited, note the number of Vaio models found.
+
+3. **Record and Organize Information**
+   - For each online store, provide the following:
+     - Store name
+     - Website link (direct to Vaio laptops category page, not just home page)
+     - Estimated number of new Vaio laptop models currently in stock
+     - List of sample models/series available (e.g., Vaio Z, Vaio SX, Vaio FE, etc.)
+     - Shipping regions or restrictions if apparent
+     - Currency used on site
+
+4. **Present Results in a Table**
+   - Format findings in a comparative table with columns for:
+     - Store Name
+     - Link to Vaio Section
+     - Estimated Number of Models Available
+     - Example Models/Series
+     - Shipping Territory
+     - Currency
+
+5. **Format as a Brief Report**
+   - Start with a summary paragraph describing the research process.
+   - List any major limitations (e.g., limited regional options, rare availability).
+   - Follow with the comparative table.
+
+6. **Source Quality**
+   - Prioritize linking directly to the official Vaio site(s), and reputable major retailers’ Vaio sections.
+   - Avoid links to third-party sellers, marketplaces with many gray market sellers, or SEO-heavy blogs/aggregators.
+
+7. **Language**
+   - Present the report in English.
+
+8. **No Reviews**
+   - Do not include or summarize product reviews, ratings, or subjective opinions—focus only on stores and selection.
+
+If there are any challenges in finding stores with several new Vaio models available, please note this clearly in the report.
+
+Prompt 11:
+INSTRUCTIONS FOR RESEARCHER:  
+My goal is to understand how to import a .csv file in Microsoft Excel. I do not know the data type or the specific content of the CSV file, and I need step-by-step guidance, assuming I have no prior knowledge of this process. Please ensure the instructions cater to all generic .csv files, regardless of their structure.
+
+**Key Preferences and Constraints:**
+
+- Sources: Prioritize Microsoft’s official Excel help pages or documentation regarding importing CSV files. Dedicated video tutorials or high-quality guides are also acceptable but should be reputable (such as official Microsoft YouTube, LinkedIn Learning, or equivalent).
+- File Type: I only know the file is a generic .csv, with no further information on data type, structure, or delimiter specifics.
+- Software: Instructions should be for Microsoft Excel (specify which versions the steps apply to—Office 365, Excel 2021, Excel 2019, etc.—if this varies).
+- Level of Detail: Assume I am a beginner and need clear, granular, step-by-step instructions with screenshots or video explanations if available.
+- Output Format: Present your findings in a report with the following sections:
+  - Summary
+  - Step-by-Step Instructions
+  - Troubleshooting & Tips
+  - Additional Learning Resources (with direct links)
+  - Table: List key resources with the following columns: Title, Source, Type (e.g., Official Guide, Video Tutorial), Link, and Notes
+
+**Open-Ended/Unspecified Dimensions:**
+
+- Excel Version: If steps differ by Excel version, cover the most common recent versions (e.g., Office 365/Excel for Microsoft 365, Excel 2019, and, if significantly different, Excel for Mac and Excel Online). Note that there is no version restriction if the user hasn’t specified one.
+- Operating System: Unless otherwise specified, cover both Windows and Mac if there are meaningful differences.
+- Delimiter: Since I don’t know the delimiter character in the .csv, include instructions on what to do if my data does not display correctly on first import.
+- Language: No language preference is specified; respond in English.
+
+**Formatting Requirements:**
+
+- Use clear section headers as outlined above.
+- Include a resource summary table as requested.
+- Where possible, link directly to primary sources (e.g., Microsoft official documentation, Microsoft’s YouTube channel).
+- Use lists, bullet points, and visual formatting for clarity.
+
+**Additional Notes:**
+
+- Do not assume familiarity with Excel’s data import wizards or relevant menus. Include explanations of terminology if needed.
+- If possible, mention the difference between opening CSV files by double-clicking, using “Open with Excel,” and using Excel’s “Import” functions (and the pros/cons of each method).
+- If available, suggest video walkthroughs with timestamps or table-of-contents for ease of access.
+
+**Summary Table Example:**
+
+| Title                                      | Source        | Type            | Link                                              | Notes                                 |
+|---------------------------------------------|---------------|-----------------|---------------------------------------------------|---------------------------------------|
+| Import or export text (.txt or .csv) files  | Microsoft     | Official Guide  | [URL]                                             | Step-by-step, covers delimiter issues |
+| How to Open a CSV File in Excel             | Microsoft YouTube | Video Tutorial  | [URL]                                             | Demonstrative, suitable for beginners |
+
+---
+
+Please follow these instructions carefully to ensure I receive practical, detailed, and authoritative guidance with resource links and well-organized output.
+
+Prompt 12:
+Instructions for Researcher
+
+Objective:  
+I want to find the phone number for the 'Vom Fass' shop in Ghent, as I intend to make an order by phone. While general shop information is appreciated, my primary interest is in obtaining accurate and current contact details, with the main focus on the shop’s telephone number.
+
+Instructions:
+
+1. **Primary Task – Find the Phone Number**
+   - Locate the most up-to-date and official phone number for the 'Vom Fass' shop located in Ghent.
+   - Prioritize official or primary sources. Start with:
+     - The official Vom Fass website (global and/or national listings).
+     - The official Vom Fass Belgium website, if available.
+     - The official Google Business profile for Vom Fass Ghent.
+     - Trusted business directories or the shop’s verified social media pages, but only if information is not available from the above.
+   - Ensure the number found is specific to the Ghent location (not a head office or other branch).
+
+2. **General Shop Information (Second Priority)**
+   - Briefly include any available additional details about the Ghent shop, such as:
+     - Exact address
+     - Opening hours
+     - Email or other contact methods, if listed
+     - Website or booking/order page
+   - Make clear that these are secondary to the phone contact.
+
+3. **Output Format**
+   - Present findings in a clear, structured format.
+   - Use headers for: Contact Details, General Information, and Sources.
+   - Place the phone number at the top, prominently highlighted.
+   - If you locate multiple contact numbers, list all with clarifications.
+   - Include links to all sources you use for verification.
+   - Optionally, provide a table if multiple contact methods (email, phone, address) are present, organizing them for clarity.
+
+4. **Language**
+   - Respond in English, unless otherwise specified.
+
+5. **Notes**
+   - If you cannot locate a phone number after a diligent search, explicitly state this. Suggest an alternative contact method (e.g., email, social media direct message).
+
+6. **Sources**
+   - Prefer official sources (direct shop or brand website, Google Business profile, or verified Facebook/Instagram page for the Ghent shop).
+   - Link to each source directly.
+
+Example Table (if useful):
+
+| Contact Method | Details                  |
+|----------------|-------------------------|
+| Phone          | [insert phone number]   |
+| Email          | [insert email]          |
+| Address        | [insert address]        |
+| Website        | [insert URL]            |
+
+Please confirm all details are current as of today.
+
+Prompt 13:
+Instructions for the Researcher
+
+Objective:  
+I want to find out what a BMW C1 motorcycle looks like. I have read that the BMW C1 is considered a special case among motorcycles, and I am curious about its physical appearance. My primary goal is simply to see and understand what the BMW C1 looks like—please do not provide other information unless it is necessary for understanding the visuals.
+
+Instructions:
+
+1. **Gather Visual References**
+   - Locate clear, high-quality images of the BMW C1 motorcycle. Prioritize photographs that show the vehicle from multiple angles (front, side, rear, and if possible, interior close-up).
+   - Include at least one image that clearly displays the features that make the BMW C1 a “special case” among motorcycles, such as its roof, seat belts, or enclosed cabin.
+
+2. **Provide Official and Reliable Image Sources**
+   - Whenever possible, obtain images directly from official or reputable sites, such as the official BMW Motorrad website, press release archives, or established motorcycle magazines and automotive museums.
+   - Include direct links to these images and clearly cite their sources in the output.
+
+3. **Optional Table (If images from multiple angles are included)**
+   - If presenting multiple images from different viewpoints, organize them in a table with columns for:
+     - Viewpoint (e.g., front view, side view, rear view, interior/cabin)
+     - Image (embedded or hyperlinked)
+     - Brief caption describing what is visible in the image
+
+4. **Formatting**
+   - Present the findings in a visually clear and organized way, using appropriate headers such as "Introduction," "Visual Appearance of the BMW C1," and (if needed) "Image Table."
+   - Only include descriptive text necessary to clarify what is shown in the images and what visually distinguishes the C1 from typical motorcycles.
+
+5. **Limit Scope**
+   - Do not include technical specifications, history, performance data, or comparisons unless visually relevant. My interest is solely in what the C1 looks like.
+
+6. **Language**
+   - Respond in English.
+
+7. **If Images Cannot Be Embedded**
+   - If direct image embedding is not possible, provide clear direct links to the images along with descriptive captions.
+
+Summary Table Template (if appropriate):
+
+| Viewpoint    | Image (Embed or Link) | Brief Caption              |
+|--------------|----------------------|----------------------------|
+| Front View   | [Image/Link]         |                            |
+| Side View    | [Image/Link]         |                            |
+| Rear View    | [Image/Link]         |                            |
+| Interior     | [Image/Link]         |                            |
+
+Please follow these steps to help me visualize and recognize the BMW C1 motorcycle.
+
+Prompt 14:
+INSTRUCTIONS FOR RESEARCHING: Purchasing a Physical Tuning Fork for Violin Tuning
+
+OBJECTIVE:  
+I want to buy a physical, old-fashioned tuning fork (not an online/digital tool) specifically for tuning my violin.  
+It is important that the tuning fork is intended for musical use (not hearing tests or medical purposes).  
+The output should especially prioritize online webshops where these musical tuning forks can be purchased.
+
+KEY REQUIREMENTS:
+- Type: Physical/acoustic tuning fork (not electronic, digital, or online simulators).
+- Purpose: For tuning violin (musical use ONLY; exclude anything meant for hearing tests, healing, or medical use).
+- Frequency: The standard pitch for tuning a violin is A=440Hz. Consider this as the default unless other frequencies are commonly used in violin tuning (note: complexity here is open-ended in case variants exist and should be listed).
+- Availability: Prioritize webshops that sell and deliver tuning forks online.
+- Language: Assume English unless otherwise specified by me.
+- Geographic delivery scope: Open-ended unless specified in my original request; include shops with international shipping if possible.
+- Budget/Price: Not specified; collect full price range.
+
+OUTPUT FORMAT AND STRUCTURE:
+Please present your research as a structured report with the following sections and formatting:
+
+1. **Introduction**
+   - Briefly summarize what a tuning fork is, outline its use in violin tuning, and reiterate the need for a physical device.
+
+2. **Key Attributes to Consider**
+   - List and explain the main considerations, including frequency (with emphasis on A=440Hz for violin), material, brand, physical size, and any included accessories.
+
+3. **Online Webshop Listings**
+   - Create a table that compares at least 5 online sources where musical tuning forks can be purchased.  
+   - The table should include:
+     - Webshop Name (with hyperlink to product or category page)
+     - Product Name/Brand
+     - Frequency(ies) Available
+     - Material (e.g., steel, aluminum, etc.)
+     - Price (in local currency and indicate if it excludes shipping/tax)
+     - Shipping Information (locations/countries delivered to)
+     - Direct Link to Product
+
+4. **Notes on Product Suitability**
+   - Note if certain listings are ambiguous (e.g., if they sell forks for "medical" purposes, ask the researcher to clarify whether the fork is suitable for musical use), and exclude hearing/medical tuning forks unless they're explicitly suitable for musical tuning.
+
+5. **Purchase Tips**
+   - Briefly outline any tips for purchasing—what to check for, common pitfalls (e.g., accidentally buying non-musical forks), and care/use advice.
+
+6. **Sources**
+   - List all webshops and any other reference sources, prioritizing official brand/manufacturer sites and reputable e-commerce platforms.
+
+ADDITIONAL NOTES:
+- Exclude aggregator sites, SEO blogs, and sources that do not directly sell physical tuning forks online.
+- If medical or hearing tuning forks appear in results, clarify their use and ensure they're not included unless they're clearly suitable for musical purposes.
+- If details such as available sizes, accessories, or materials are not listed, explicitly state this in your output as open-ended or "not specified."
+- If the user requests response in another language in the future, deliver research in that language.
+
+END OF INSTRUCTIONS.
+
+Prompt 15:
+Instructions for Researcher
+
+Objective:  
+I would like a detailed explanation of how a Dewar flask (also known as a Thermos vacuum flask) works, with a particular focus on the physical principles that enable its functioning.
+
+Guidelines:
+
+1. **Content Scope & Depth**
+   - Provide a clear and structured explanation of the mechanics of a Dewar flask.
+   - Focus specifically on the scientific and physical principles involved (e.g., thermal insulation, heat transfer mechanisms, vacuum insulation).
+   - Include any relevant historical background only if it enhances understanding of the physical principles.
+   - Avoid basic consumer-level explanations or advertising copy.
+
+2. **Key Attributes & Dimensions**
+   - Explain the following physical/engineering concepts as they apply to a Thermos vacuum flask:
+     - Heat transfer by conduction, convection, and radiation.
+     - The role of the vacuum between the flask’s inner and outer walls.
+     - The purpose of reflective surfaces (if applicable).
+     - Why the materials used are selected.
+   - If there are design variations or advances in modern Thermos flasks compared to classic Dewar designs, briefly note these.
+
+3. **Open-Ended Dimensions**
+   - If there are technical variations in flask design or unconventional materials, mention these as open-ended possibilities and note the lack of strict specification in my request.
+
+4. **Formatting**
+   - Please organize your response as a clearly structured report for scientific understanding.
+   - Use descriptive section headers (e.g., "Introduction," "Structure of a Dewar Flask," "Physical Principles," "Conclusion," etc.) to ensure clarity.
+   - If helpful, include a table summarizing the key modes of heat transfer and the methods by which the flask inhibits each.
+
+5. **Sources**
+   - Where possible, cite or link directly to reputable primary sources, such as educational science websites (e.g., university science departments, physics educational pages), encyclopedias, or official manufacturer pages that describe the science behind vacuum flasks.
+
+6. **Language**
+   - Respond in English unless otherwise specified.
+
+Summary Checklist for Researcher:
+- Explain how a Dewar flask works, emphasizing physical principles.
+- Address heat transfer (conduction, convection, radiation) and vacuum insulation.
+- Use clear headers, include a comparative table if useful.
+- Reference primary or official scientific sources as appropriate.
+- Present the material as a structured, informative report.
+
+Prompt 16:
+Instructions for the Researcher
+
+Task: Determine what the acronym "ROADM" stands for in the context of electronics, specifically as found in my electronics textbook. Prioritize sources and explanations that are directly relevant to electronics, rather than other unrelated fields.
+
+Instructions:
+
+1. **Verify the Context**: 
+   - Ensure that all results are situated within the context of electronics, optoelectronics, telecommunications, or a closely related technical field.
+   - Disregard definitions from unrelated domains (e.g., organizations, software acronyms, or terms unrelated to electronics).
+
+2. **Identify the Meaning of the Acronym**: 
+   - Search for authoritative definitions or expanded forms of "ROADM" as used in electronics.
+   - Include the full expansion of the acronym and a short explanation of its relevance or usage in the field of electronics.
+
+3. **Source Prioritization**: 
+   - Give priority to primary and reputable sources, such as official electronics, telecommunications, or optoelectronics textbooks, IEEE publications, or manufacturer documentation.
+   - If possible, link directly to official manufacturer glossaries, reputable electronics technical resources, or relevant journal articles.
+
+4. **Output Format**: 
+   - Present the findings in a concise response.
+   - Include a table listing:
+     - Acronym
+     - Full Form
+     - Electronics Context/Description
+     - Source/Reference Link (preferably official or directly relevant site)
+   - If there are multiple valid expansions within electronics (unlikely, but possible), list each with the appropriate context.
+
+5. **Headers and Formatting**: 
+   - Begin with a brief summary giving the main expansion and relevance.
+   - Use a table for clarity.
+   - Clearly cite sources in the table.
+
+6. **Open-Ended Aspects**: 
+   - If there is any ambiguity or the acronym has multiple relevant meanings within electronics, note this and document each.
+
+7. **Language**: 
+   - Respond in English unless otherwise specified.
+
+8. **Unstated Dimensions**: 
+   - If the textbook’s specific subfield within electronics (e.g., communications, circuit design) is not mentioned, investigate the most prevalent and widely-accepted definition in electronics as a whole.
+
+Summary:
+Find and confirm what "ROADM" stands for in electronics, give its full form, brief context-specific description, and cite reputable/official technical sources. Organize the output with a short summary and a clearly formatted table. Use only electronics-relevant results.
+
+Prompt 17:
+Instructions for Researcher:
+
+**Objective:**  
+I want to buy a second-hand (used) Amazon Kindle e-reader. Your task is to provide general information about Amazon Kindle models (to help me make my choice), but—most importantly—I am looking for actual current offers of used Kindles on reputable online shopping sites.
+
+**Guidelines & Requirements:**
+
+1. **Device Scope:**  
+   - Focus only on Amazon Kindle models (not other brands of e-readers).
+   - If there are multiple generations/models (e.g., Paperwhite, Oasis, basic), include those details.
+
+2. **General Information Section:**  
+   - Provide a summary table comparing key specifications for recent Kindle models (at minimum: display size, storage capacity, battery life, backlight/adjustable warm light, waterproofing, release date, etc.).
+   - Briefly explain notable differences between these models, highlighting what a buyer should consider when choosing.
+
+3. **Used Kindle Offers Section:**  
+   - Find and clearly list at least 5 current offers for used or refurbished Kindles from reputable online sources.
+   - **At least three** offers should come directly from official or major e-commerce or reselling sites (e.g., Amazon Renewed, eBay, Swappa, Back Market). Do **not** only use small local classifieds or aggregator sites.
+   - For each offer, present details in a table. Columns should include:  
+     - Model/generation
+     - Price (specify currency)
+     - Seller/site name (with direct link to the listing)
+     - Condition (e.g., like new, good, visible wear, refurbished, etc.)
+     - Storage capacity
+     - Any bundled accessories (e.g., case, charger)
+     - Warranty/return policy info (if stated)
+     - Shipping location or restrictions (if available)
+
+4. **Output Format:**  
+   - Provide your report in two clearly separated sections:  
+     - Section 1: General Kindle Model Information (with comparison table and summary)
+     - Section 2: Current Used Kindle Offers (with offers table and brief buying tips)
+   - **Tables are required** in both sections for clarity.
+   - Use clear headers and formatting for each section.
+
+5. **Language:**  
+   - Respond in English (unless I state otherwise).
+
+6. **Sources:**  
+   - Prioritize listings and information from official Amazon sites (including Amazon Renewed), eBay (preferably 'Buy Now'/trusted sellers), Swappa, Back Market, or other reputable electronics resellers.
+   - Avoid unverified third-party or aggregator sites.  
+   - For general information, use either Amazon’s official Kindle product pages, or respected tech review sites (e.g., The Verge, CNET), citing the source.
+
+7. **Open-Ended Preferences:**  
+   - If you encounter multiple storage or connectivity options, include them all—there are no constraints on these specifications unless noted otherwise.
+   - Location/shipping is open-ended; list globally available offers unless I specify a region.
+
+8. **Additional Instructions:**  
+   - If some offers are limited to certain regions (e.g., only ship to the US or EU), note this clearly in the offers table.
+   - If any listings are time-limited or auctions, indicate expiry/auction details if possible.
+
+**Expected Output:**  
+A well-structured report with:  
+- A Kindle comparison table and written summary (Section 1)  
+- A table of at least 5 used Kindle offers, each with all requested attributes, plus brief tips/advisories (Section 2)  
+- Direct links to current product pages/listings  
+- Sources referenced as needed
+
+Prompt 18:
+Instructions for Researcher
+
+Task Overview  
+I want to purchase the book with the title mentioned, authored by Jurasky, specifically the 2008 edition. My employer will cover the cost, so price is not a concern—convenience, legitimacy, and ensuring the correct edition are the top priorities. I need to find the best and most convenient online offer to obtain this book.
+
+Specific Instructions
+
+1. Book Details  
+   - Author: Jurasky (please verify spelling; if the correct spelling is "Jurafsky" or similar, note any discovered discrepancies and proceed accordingly).
+   - Title: The exact title should match my request (treat as an open-ended attribute—I have not provided the full title, so confirm possible options/jurisdiction for the author and year; list any ambiguous titles to confirm match).
+   - Edition: 2008 edition (ensure the offer is specifically for this edition).
+
+2. Sources to Use  
+   - Prioritize reputable official or primary sources.  
+   - Suggested preferred sources include:  
+     - Official publisher websites (e.g., Cambridge University Press, Pearson, etc., as relevant)
+     - Major online retailers (e.g., Amazon, Barnes & Noble)
+     - Academic book vendors (e.g., Book Depository, AbeBooks)
+   - Avoid aggregator-only sites, unauthorized resellers, or secondary summary sites.
+
+3. Search Process  
+   - Begin with verifying the full and exact title and correct spelling of the author.
+   - Search major bookselling platforms and publisher sites for the 2008 edition, ensuring availability for purchase and confirming the details.
+   - Check for availability in both print and e-book formats (if available); list both options if present.
+
+4. Documentation  
+   - For each suitable offer, record:  
+     - Seller/platform name
+     - Direct link to the product page
+     - Format (e.g., hardcover, paperback, e-book)
+     - Price
+     - Shipping options (including estimated delivery times and countries served)
+     - Additional perks (e.g., express shipping, customer support)
+   - Note any important restrictions or differences (e.g., region limitations, out-of-print notice).
+
+5. Output Format  
+   - Present findings as a structured recommendation report.
+   - Include a summary section with your top recommendation(s) and the reasons for selection.
+   - Provide a comparison table listing all key options side by side with the attributes listed above for easy review.
+
+6. Open-Ended Attributes  
+   - If any of the following are not available or unclear (title spelling, regional shipping, format preferences), treat them as open-ended—report all viable options and clearly note any uncertainties for my review.
+
+7. Language  
+   - Respond in English unless I have specified otherwise.
+
+8. Sources  
+   - Link directly to the official or primary seller pages, not blogs or third-party summaries.
+
+Expected Output
+
+Please deliver a report structured as follows:
+
+1. Executive Summary with top option(s) and rationale.
+2. Detailed product and offer comparison table as outlined above.
+3. Section elaborating on any ambiguities, uncertainties, or relevant notes discovered during your research.
+4. Direct links to the product pages.
+
+If the author or the title is ambiguous, clearly present your process for resolving or narrowing them down.
+
+Prompt 19:
+Instructions for Researcher
+
+I am looking to buy an Eames Lounge Chair for my boyfriend and would like assistance finding options online. Please follow these instructions:
+
+**1. Shopping Sites Identification**
+- Locate reputable online sites where the Eames Lounge Chair is available for purchase.
+- Prioritize links to official or primary sources (where possible)—this includes:
+    - The official Herman Miller website.
+    - Official licensed resellers.
+    - Leading design furniture retailers with good reputations.
+    - Well-established e-commerce platforms (e.g., official Amazon or Design Within Reach pages).
+- For each site, provide the direct link to the product page featuring the Eames Lounge Chair.
+
+**2. Product and Related Information**
+- For each option, include:
+    - Current price (note currency and any regional variations if apparent).
+    - Available finishes, materials, and color options (if specified).
+    - Shipping information (domestic/international availability, estimated times, and any delivery restrictions, if easily available).
+    - Warranty and return policy (if specified).
+    - Authenticity guarantees (for original/lifetime warranty or manufacturer information).
+    - Whether it is an original design or a reproduction/replica, if specified.
+- Include at least one high-quality picture per product/retailer, or a clearly described method for accessing product pictures (e.g., direct link, gallery link).
+- If the site provides, link to customer reviews or ratings, or summarize if not directly viewable.
+- If possible, note any major promotions, sales, or financing options.
+
+**3. Summary Table**
+- Present findings in a comparative table with the following columns:  
+    - Retailer/Site Name  
+    - Product Link  
+    - Price  
+    - Authenticity (Original/Replica/Not Specified)  
+    - Material/Finish Options  
+    - Shipping Information  
+    - Picture Link  
+    - Review/Rating Link (if available)
+
+**4. Explanatory Notes**
+- After the table, include a brief summary explaining:
+    - What an Eames Lounge Chair is, including its design background and why it is iconic.
+    - Tips for identifying originals vs. replicas.
+    - Any relevant purchasing considerations (lead times, maintenance, etc.).
+
+**5. Output Format**
+- Please provide a clearly structured report with the following sections:
+    1. Introduction
+    2. Comparative Table of Shopping Sites and Product Options
+    3. Explanatory Notes
+
+**Open-Ended Dimensions**
+- There is no preference for color, finish, budget, or shipping region—include all major variants unless the site is restricted to a single country.
+- If a given attribute is not stated or easily visible, mark as “not specified” or “open.”
+- There is no language specified, so English is preferred.
+
+**Sources**
+- Prefer official manufacturer websites and trusted retailers over third-party blogs or aggregator sites.
+- Only link to reliable or well-known platforms (avoid small, potentially scammy online “design” stores).
+
+**Images**
+- Prioritize official product images from the retailer/manufacturer. Avoid watermarked catalog images or stock photos not reflecting actual products for sale.
+
+**If additional clarifying information is needed, note these questions for me but proceed using open-ended defaults.**
+
+Prompt 20:
+Instructions for Researcher:
+
+**Objective:**  
+I want to find a sound file or video of one of Chopin’s ballades, interpreted specifically by Krystian Zimerman, to help me decide which Chopin ballade to play. It is important that this be free to access (I do not want to pay), and I am not looking for sheet music—only an audio or video performance.
+
+**Detailed Guidelines:**
+
+1. **Primary Requirement:**
+   - The content must be an audio or video recording of a Chopin ballade performed by Krystian Zimerman.
+   - The recording should be available to stream online for free, with no payment or registration required.
+
+2. **Content specifics:**
+   - The recording can be of any of Chopin’s four Ballades (Op. 23, Op. 38, Op. 47, Op. 52).
+   - Multiple recordings (e.g., for each ballade) are welcome, but even one recording fulfills the objective.
+   - Scores, sheet music, or theoretical analysis are not needed.
+
+3. **Format:**
+   - Preferably provide direct links to the recordings on reputable, freely accessible platforms (e.g., YouTube).
+   - Do not provide links to unofficial download sites or paid streaming services.
+
+4. **Sources:**
+   - Prioritize official or reputable sources (e.g., Krystian Zimerman’s own channel, classical music organization channels, or official concert archives) over fan uploads if possible.
+   - If the recording is only available on unofficial (but still free and legal) platforms, provide links with a short note on the uploader.
+
+5. **Organization of Information:**
+   - Present findings in a table with the following columns:
+     - Ballade Number
+     - Link to Recording (audio or video)
+     - Platform (e.g., YouTube)
+     - Any additional notes (e.g., date of performance, video/audio quality if noteworthy, channel/uploader name)
+
+6. **Report Formatting:**
+   - Begin with a brief summary stating whether you found one or more recordings meeting all my criteria.
+   - Follow with the table as described above.
+   - If no eligible recordings can be found, clearly state this in the summary and briefly explain why (e.g., copyright restrictions, no available recordings online).
+
+7. **Language:**  
+   - Respond in English.
+
+**Summary Table Example:**
+
+| Ballade Number | Link to Recording                  | Platform | Notes                                 |
+|----------------|------------------------------------|----------|----------------------------------------|
+| 1 (Op. 23)     | [URL]                              | YouTube  | Excellent quality, official channel    |
+| 2 (Op. 38)     | [URL]                              | YouTube  | Fan upload, audio only                 |
+
+**Key Reminders:**
+- Do not include scores or paid resources.
+- Focus only on Zimerman’s interpretations.
+- Ensure links are to free, accessible sources.
+
+**No assumptions**: If you cannot find a recording for any ballade interpreted by Zimerman that is freely available online, explicitly state that, and provide any relevant context (such as known copyright restrictions).
+
+**Expected Output Format:**
+- Summary (1-2 sentences)
+- Table as described above
+
+Please proceed as directed.
+
+Prompt 21:
+Instructions for Researching Pictures of Paintings Made by Bouguereau
+
+**Overview:**
+I am writing a paper about the artist William-Adolphe Bouguereau. I need pictures of some of his paintings to include in the paper. Please follow these steps to complete the task.
+
+---
+
+## 1. Source High-Quality Images
+
+- **Obtain digital images of Bouguereau’s paintings.**  
+  - Prioritize official museum or gallery websites (such as the Musée d'Orsay, The Metropolitan Museum of Art, and official museum digital collections).
+  - If museums do not provide downloadable images, look for reputable art history databases or digital image collections (e.g., Wikimedia Commons, Google Arts & Culture, or official image archives).
+  - Avoid unauthorized or heavily watermarked images. If all accessible versions are watermarked, make a note of it.
+
+## 2. Diversity of Work
+
+- **Select a representative sample.**  
+  - Capture a variety from Bouguereau’s career (e.g., early, mid, late works).
+  - Cover diverse subject matter and well-known masterpieces (e.g., “The Birth of Venus,” “The Bohemian,” and “Nymphs and Satyr”).
+  - The exact number of images needed is not specified, so provide at least 5-10 notable works, but note that this is open-ended.
+
+## 3. Attribution and Copyright
+
+- **For each image:**  
+  - Identify and record copyright or public domain status.  
+  - Prefer public domain images whenever possible.  
+  - If permission or license is required, note the terms clearly.
+  - Record the precise source (museum, archive, database).
+
+## 4. Documentation
+
+- **Create a table with the following columns:**  
+  - Painting Title  
+  - Year  
+  - Image (thumbnail or direct link)  
+  - Source (direct URL to museum/collection page)  
+  - Copyright Status
+
+## 5. Report Formatting
+
+- Begin with a brief introduction stating the aim (to provide images for a Bouguereau paper).
+- Present the image table as described above.
+- List any notes regarding image use, licensing, or unresolved issues at the end.
+
+## 6. Language
+
+- The working language is English, unless otherwise specified.
+
+---
+
+**Summary Table Example:**
+
+| Painting Title        | Year | Image (link/thumbnail)     | Source (URL)             | Copyright Status      |
+|----------------------|------|---------------------------|--------------------------|-----------------------|
+| The Birth of Venus   | 1879 | [Image]                   | [Museum Link]            | Public Domain         |
+| The Bohemian         | 1890 | [Image]                   | [Museum Link]            | Public Domain         |
+
+---
+
+**Sources to Prioritize:**
+- Official museum/gallery websites with Bouguereau holdings.
+- Google Arts & Culture (Bouguereau section).
+- Wikimedia Commons (search "Bouguereau").
+
+---
+
+**If you are unable to find certain information (e.g., year or public domain status), please note it as “Not specified” in the table.**
+
+Please ensure attention to copyright status and provide high-quality, authoritative sources.
+
+Prompt 22:
+**Instructions for Researcher:**
+
+**Objective:**  
+I want to listen (not necessarily download) to the theme music associated with the hobbits from the movie "The Lord of the Rings"—specifically, the central musical motif often referred to as "Concerning Hobbits" from the soundtrack.
+
+**Key Details and Preferences:**
+- I am interested in listening to the theme music (audio focus, not sheet music or analysis).
+- I am not interested in paying for access, so please only provide free and legal listening options.
+- I do not require the ability to download the music, just to stream or listen to it online.
+- Source must be official or reputable (e.g., official movie or soundtrack channels, well-known streaming services offering free listening, etc.).
+- No language constraints were stated; default to English sources (or original soundtrack language).
+- Song title should be verified as “Concerning Hobbits,” or clearly identified variant of the Hobbit theme.
+
+**Instructions:**
+
+1. **Identify the Official Song Title:**  
+   - Confirm that the hobbit theme music is commonly known as “Concerning Hobbits,” composed by Howard Shore.
+
+2. **Search for Free and Legal Streaming Options:**  
+   - Look for the full track or performance of “Concerning Hobbits” available for free listening online.
+   - Prioritize official platforms (e.g., The Lord of the Rings official YouTube channel, Howard Shore’s official accounts, major free streaming platforms like Spotify [free tier link], SoundCloud, or similar).
+   - Do not include bootleg uploads or questionable third-party hosting sites.
+
+3. **Provide Direct Listening Links:**  
+   - For each source, directly link to the page where I can freely listen to the song.
+   - Include a brief description of each source (e.g., “Official Warner Bros. YouTube channel,” or “Spotify official soundtrack, free listening with ads”).
+   - If possible, indicate whether the link requires creating a free account, or can be played instantly.
+
+4. **Format:**  
+   - Format your response as a short report with clear headings:
+     - Introduction/Context
+     - Official Song Identification
+     - Free and Legal Listening Options (with a table summarizing options: Source Platform, Link, Listening Requirements, Notes)
+     - Brief Conclusion/Recommendation  
+   - Use tables to organize the listening options for easy comparison.
+
+5. **Sources:**  
+   - Only use reputable or official sources as outlined above.  
+   - Prioritize direct links to official publisher, composer, or soundtrack owner pages.
+
+6. **Language:**  
+   - Respond in English, unless I specify otherwise.
+
+**Summary Table Example (include in response):**
+
+| Source Platform | Direct Link          | Listening Requirement      | Notes                                     |
+|-----------------|---------------------|---------------------------|-------------------------------------------|
+| YouTube (Official) | [YouTube Link]     | No account required        | Official soundtrack upload                |
+| Spotify         | [Spotify Link]       | Free account (w/ ads)      | Official playlist, ad-supported           |
+| SoundCloud      | [SoundCloud Link]    | No account required        | Official artist profile                   |
+
+**Note:**  
+If no free and legal option is available, state this clearly and advise accordingly.
+
+---
+
+Follow the above instructions to help me achieve my goal of freely listening to the hobbits’ theme music from "The Lord of the Rings."
+
+Prompt 23:
+Instructions for Researching Reviews of "Burn After Reading" for a Student Magazine Piece
+
+**Objective:**  
+I want to collect and read several online reviews of the film "Burn After Reading" in order to help inform a short piece for a student magazine. I am a huge fan of the Coen Brothers, so include any reviewer observations that highlight typical Coen Brothers’ trademarks, distinctive style, or comparisons to their other films.
+
+**Key Attributes to Consider:**  
+- Focus specifically on "Burn After Reading."
+- Reviews should ideally discuss or mention the Coen Brothers’ trademark style, humor, or compare/contrast this film with their other works.
+- Gather a mix of critical and audience reviews for a balanced perspective.
+- Prioritize established critics, reputable film publications, and official review aggregators.
+
+**Expected Output Format:**  
+Please provide a brief report organized with clear headers for each section as outlined below.
+
+### 1. Introduction
+Briefly state the objective and process.
+
+### 2. Summary Table of Sources  
+Include a table listing at least 5 reviews. The table should have the following columns:
+- Source (e.g., Rotten Tomatoes, RogerEbert.com)
+- Type (Critic, Audience, Other)
+- Key Points Mentioned (brief bullet points)
+- Link (URL to the review)
+
+### 3. Selected Review Excerpts  
+For each review in the table, select one or two representative quotes or concise summaries that illustrate the reviewer’s main opinions, especially focusing on:
+- Analysis of the film’s style, humor, or plot.
+- References to the Coen Brothers’ filmography/signature style.
+
+### 4. Synthesis and Notes Relating to the Coen Brothers  
+Summarize recurring themes or notable points from the reviews, particularly:
+- How reviewers position "Burn After Reading" within the Coen Brothers’ canon.
+- Any highlighted similarities or differences with other Coen films.
+- Any mention of trademark elements (dark comedy, character-driven plots, etc.)
+
+### 5. Links to Sources  
+List direct links to all reviews cited, giving preference to:
+- Official sites (e.g., The New York Times, The Guardian, RogerEbert.com)
+- Major aggregators (e.g., Rotten Tomatoes, Metacritic)
+- Avoid SEO-heavy blogs or unreliable sources.
+
+**Language:**  
+Unless otherwise specified, respond in English.
+
+**If Any Information Is Unspecified:**  
+If a certain attribute isn’t covered or you find more than the requested number of reviews that provide additional valuable perspective (e.g., an interview with the Coen Brothers about the film), feel free to include those as well and note that the attribute was open-ended.
+
+---
+
+**Summary Table Example Format:**
+
+| Source           | Type    | Key Points Mentioned                                   | Link                |
+|------------------|---------|-------------------------------------------------------|---------------------|
+| RogerEbert.com   | Critic  | Dark humor; comparison to "Fargo"; Coen eccentricity  | [URL]               |
+| Rotten Tomatoes  | Aggregator | Split audience reactions; Coen fan references      | [URL]               |
+| ...              | ...     | ...                                                   | ...                 |
+
+---
+
+**Deliver in a clearly structured report with the sections above.**
+
+Prompt 24:
+Instructions for Researcher
+
+Objective:  
+I want you to find and compile a comprehensive list of all available recordings (albums) by Jonathan Kreisberg. This will help me identify which ones I do not yet own for my collection. A full, up-to-date, and accurate list of his recordings is most important. Additionally, please provide specific background information about Jonathan Kreisberg, as this information might be helpful for my collecting and understanding his work.
+
+Details & Guidelines:
+
+1. Scope of Recordings:
+    - Include all studio and live albums by Jonathan Kreisberg as a leader.
+    - Include any EPs or notable solo releases.
+    - Include major albums on which Kreisberg is a featured artist or important collaborator.
+    - Do not include sideman appearances unless they are especially relevant (i.e. well-regarded collaborative projects); note them as a separate section if included.
+    - If there is ambiguity regarding a particular recording’s status (EP vs. album, leader vs. sideman), clearly note this in your list.
+
+2. Album Details:
+    - For each album, include at a minimum:
+        - Album Title
+        - Year of Release
+        - Record Label (if available)
+        - Format (CD, LP, digital, etc.) – if known
+    - If possible, include album cover images, but this is not mandatory.
+    - If any albums are out of print, rare, or only available in certain regions/formats, please note this.
+
+3. Artist Information:
+    - Provide a brief biography (1-2 paragraphs) of Jonathan Kreisberg, including:
+        - His main musical style/genre
+        - Career highlights
+        - Key collaborators
+        - Any signature characteristics of his work
+
+4. Sources:
+    - Use official Jonathan Kreisberg sources (such as his official website, social media, and label pages) as primary.
+    - Supplement with major streaming service discographies (Spotify, Apple Music), Discogs, AllMusic, and reputable jazz publications for completeness.
+    - Link to the official album or artist page wherever possible; do not use aggregator blogs.
+    - List all sources at the end for reference.
+
+5. Expected Output Format:
+    - Prepare your response as a clearly structured report with appropriate headers:
+        I. Brief Biography of Jonathan Kreisberg  
+        II. Comprehensive List of Recordings (Table required; see below)  
+        III. Additional Notes (e.g., rare/out of print items, suggested resources)  
+        IV. Sources  
+    - Use a table to present the album information. Columns should include: Album Title, Year of Release, Record Label, Format, Notes (for rarity/special info).
+
+6. Unstated Dimensions:
+    - There is no personal specification for digital vs. physical; include all known release formats.
+    - No region, language, or date constraints; include all relevant work.
+    - I have not specified which albums I already own; just provide the full discography for comparison.
+    - If you encounter multiple editions or re-releases, list each with its differences/notes.
+
+Thank you for ensuring thoroughness and accuracy in your research!
+
+Prompt 25:
+Research Instructions:
+
+Objective: I am looking for an online sound or video file of “Ionisation” by Edgar Varèse. I recently heard “Ionisation” at a concert and would like to find a way to see or hear it again online.
+
+Instructions for the Researcher:
+
+1. **Scope and Definition**
+   - Search for an audio or video recording of Edgar Varèse’s “Ionisation” available online.
+   - Both official/licensed audio and video recordings are acceptable. Include both types if possible.
+   - There are no restrictions regarding the year of recording, performing ensemble, or platform, unless only unofficial or illegal sources are available (in which case, please note the limitation).
+
+2. **Prioritization of Sources**
+   - Prioritize official sources and reputable platforms, such as:
+     - Official artist or label sites
+     - Well-known streaming services (YouTube, Spotify, Apple Music, etc.)
+     - Major concert hall or orchestra websites (Carnegie Hall, Berlin Philharmonic, etc.)
+     - Libraries or academic music archives (if publicly accessible)
+   - Please avoid linking to third-party download sites, unauthorized uploads, or questionable websites.
+
+3. **What to Include**
+   - Provide direct links to all found recordings.
+   - For each recording, provide:
+     - Platform/website name
+     - Type (audio or video)
+     - Link (URL)
+     - Name of ensemble/orchestra/conductor (if available)
+     - Year or date of performance/recording (if available)
+     - Any noticeable differences between performances (if multiple are found), such as duration, ensemble, or interpretation.
+
+4. **Language & Region**
+   - Since I did not specify a preferred language or region, you may include results in any language, but prioritize English-language descriptions where available.
+
+5. **Expected Output Format**
+   - Present the findings in a clear, structured format.
+   - Please use a table to summarize the different recordings and their key attributes, with columns for: Platform, Type (audio/video), Link, Ensemble/Orchestra, Conductor, Date, Notable Details/Comments.
+   - Provide a brief introductory note summarizing your findings above the table.
+
+6. **Additional Instructions**
+   - If you encounter any issues accessing full recordings (such as paywalls or region locks), please indicate these limitations in your notes.
+   - If only partial recordings (e.g., previews, excerpts) are available, include them and state this clearly.
+
+Please do not include bootleg, illegally uploaded files, or sources that are not accessible to the general public.
+
+Prompt 26:
+Instructions for Researcher
+
+Objective:  
+Quickly find and report the winner of the Eurovision Song Contest 2012, specifically providing the following details:
+- Artist name
+- Country represented
+- Song title (optional but strongly preferred, as my sister may ask for it next)
+
+User's Preferences and Constraints:  
+- **Speed and conciseness are paramount.**  
+- My main concern is efficiency and just providing the basic facts, as I am not interested in further background or explanations.
+- The output should only cover the requested facts—no superfluous information is needed.
+- The primary audience for the output is a child (my little sister), so answers should be clear and straightforward.
+  
+Key Attributes to Include:  
+- Artist who won Eurovision 2012
+- Country that won Eurovision 2012
+- Song title performed by the 2012 winner  
+- No restrictions on source language
+
+Source Preferences:  
+- Use the official Eurovision Song Contest website or Wikipedia’s relevant pages as the source of truth.
+- If possible, provide (but do not over-emphasize) direct links to the official site or comprehensive reference page where the result can be verified.
+
+Output Format and Presentation:  
+- Present the result as a simple, clean list or in table format for maximum clarity and rapid reading.
+- **Headers:** Use clear categories for Artist, Country, and Song Title.
+- No further commentary or background is necessary.
+
+Example Table Format (please use this):
+
+| Attribute   | Winner Information         |
+|-------------|---------------------------|
+| Artist      | [FILL IN]                 |
+| Country     | [FILL IN]                 |
+| Song Title  | [FILL IN]                 |
+
+Summary of Instructions:
+- Look up the winner of Eurovision 2012.
+- Fill in the table above with Artist, Country, and (if possible) Song Title.
+- Cite the Eurovision official website or Wikipedia as the data source, with a direct link.
+- Do not provide extra context, background, or commentary—just the facts.
+
+If any information is not found or unclear, state "Not specified".  
+Let me know immediately if results cannot be confirmed from authoritative sources.
+
+Prompt 27:
+Here are the instructions I would like a researcher to follow in order to find the formula for calculating the moment of inertia of a sphere **without deriving it from first principles**:
+
+---
+
+## Research Instructions
+
+### Objective
+Find the standard formula for the moment of inertia of a sphere, making it clear that a full derivation is **not** required. I already understand the concept and definition of inertia, and just want the established formula for a sphere, ideally with a short explanation of each variable used.
+
+### Required Details:
+1. **Formula Needed**: Find the moment of inertia formula for a solid sphere and, if easily available, for a hollow (thin shell) sphere as well. Specify which is which.
+2. **Variable Definitions**: Briefly explain the variables used in the formula (e.g., \(M\) for mass, \(R\) for radius).
+3. **Reference Source**: Link directly to one or two reputable sources (such as an official educational website, university physics department page, or a standard physics textbook PDF) where this formula is published or explained.
+    - Prioritize sources such as HyperPhysics (Georgia State), university pages, or reputable textbooks, rather than SEO-heavy blogs or generalist aggregation sites.
+4. **No Derivation Required**: Do **not** include a full derivation—just the formula(s) and explanations.
+5. **Output Format**: Please present your findings as a brief, clearly structured report, using the following headers:
+
+   - Formula for Inertia of a Sphere
+   - Variable Explanations
+   - References
+
+6. **Language**: Please provide your response in English.
+
+### Example Table (if appropriate):
+
+| Sphere Type          | Formula for Inertia                | Notes              |
+|----------------------|------------------------------------|--------------------|
+| Solid sphere         | I = ...                            | ...                |
+| Hollow/thin shell    | I = ...                            | ...                |
+
+---
+
+Please follow these guidelines closely to ensure the information is accurate, clear, and meets my requirements for a quick lookup.
+
+Prompt 28:
+Instructions for Researcher
+
+**Objective:**  
+I want to find out how to enable the Touch Pad Scroll Feature on my Dell Latitude laptop. I have a new laptop and cannot figure out how to activate the scrollpad function. I do not want to spend much time, so I am looking for a quick, effective solution. The most relevant sources will be official Dell documentation/pages suggesting the appropriate drivers, but online forums (such as Reddit, Dell Community Forums, or similar) with clear, upvoted answers are also important.
+
+**Instructions:**
+
+1. **Scope:**
+   - Focus exclusively on Dell Latitude laptops. If the model or Windows version is essential for instructions, and not specified, treat these as open-ended and include relevant variations.
+   - The goal is to enable the touchpad’s **scroll feature** (specifically, two-finger or edge scrolling).
+
+2. **Source Prioritization:**
+   - **First:** Official Dell support pages, driver downloads, or manufacturer documentation.
+   - **Second:** Recognized community forums with clear, consensus-backed recommendations (e.g., Dell Community, Reddit, SuperUser).
+   - **Do not cite generalist tech blogs unless absolutely necessary.**
+   
+3. **Information to Include:**
+   - **Step-by-step instructions** for enabling the scroll feature. If steps differ by Windows version or laptop model, include the main variations.
+   - **Any required driver downloads**: Specify if a driver is needed (e.g., Dell Touchpad or Synaptics/Precision drivers) with links to the official Dell download source.
+   - **Screenshots or images**: If available, note the most helpful visual aids and reference their source.
+   - **Forum solutions:** Summarize highly-rated, consensus answers, and provide direct links to the original threads.
+   - **Troubleshooting tips:** Include commonly suggested troubleshooting steps if enabling the feature is not straightforward.
+
+4. **Output Format:**
+   - Provide your findings as a **concise step-by-step guide with clearly titled sections** for:
+     - Official Dell Method
+     - Alternative/Community Solutions
+     - Troubleshooting & Driver Links
+   - Include a **comparison table** outlining any key differences in procedure based on Windows version, Dell Latitude model, or touchpad hardware if applicable.
+
+5. **Language:**
+   - Respond in English.
+
+6. **Citations:**
+   - All key instructions must be cited with a direct link to the Dell page or forum post.
+
+7. **Unspecified Details:**
+   - Since I haven’t provided my exact Dell Latitude model or Windows version, include all major variations. Note any steps that may vary and instruct what additional model/version info would be helpful for further research.
+
+**Summary Table Example (for inclusion in your output):**
+
+| Step/Option                        | Windows 10/11 | Windows 7/8 | Synaptics Touchpad | Precision Touchpad | Source Link                 |
+|-------------------------------------|---------------|-------------|--------------------|--------------------|-----------------------------|
+| Enable via Settings                 | Yes           | Varies      | Yes                | Yes                | [Dell Support](#)           |
+| Download/update drivers             | Yes           | Yes         | Yes                | Sometimes          | [Dell Downloads](#)         |
+| Forum workaround needed             | Rarely        | Sometimes   | Sometimes          | Rarely             | [Dell Community Post](#)    |
+
+**Please follow the above instructions to ensure all my informational needs and preferences are fully met.**
+
+Prompt 29:
+Instructions for Researcher
+
+Objective:  
+I am seeking collections of dumb blonde jokes to use as a simple pastime and to share the best jokes with my friends. Please focus on finding result pages that feature several dumb blonde jokes, not just single examples. Additionally, I would like links to videos that are about or feature dumb blonde jokes or humor. Both joke collections and videos are of interest.
+
+Guidelines:
+
+1. **Joke Collections (Webpages):**  
+   - Locate webpages that aggregate multiple dumb blonde jokes, not just individual jokes.
+   - Prioritize pages where jokes are presented in list or collection format for easy browsing.
+   - Ensure jokes are presented in English.
+   - Where possible, prefer pages that include user ratings or editor’s picks to help identify “the best” jokes.
+   - Do not limit your search to a particular region or country unless specified (none given).
+   - Include direct links to the identified joke collection web pages—prefer well-known or reputable humor websites, or official joke repositories.
+
+2. **Videos:**  
+   - Find videos featuring dumb blonde jokes or sketches (e.g., stand-up routines, comedy skits).
+   - These may be on platforms like YouTube or other reputable comedy video sites.
+   - Ensure the videos are in English.
+   - Where possible, include a brief description of each video’s content (e.g., format, notable comedians, style of joke delivery).
+   - Provide direct links to each video.
+
+3. **Content Sensitivity:**  
+   - Note that “dumb blonde” jokes can be considered offensive or stereotypical.  
+   - Where possible, prioritize sources that either frame jokes lightheartedly or include appropriate disclaimers/sensitivity notes.
+
+4. **Table for Organization:**  
+   - Present your findings in a table with the following columns:
+        | Type        | Link                     | Source/Platform   | Number of Jokes (if applicable) | Brief Description |
+        |-------------|--------------------------|-------------------|----------------------------------|-------------------|
+   - List each webpage or video in a separate row.
+
+5. **Format:**  
+   - Provide your findings as a concise report.
+   - Begin with a brief introduction summarizing the approach.
+   - Present the table as described above.
+
+6. **Language:**  
+   - All results and annotations should be in English.
+
+7. **Source Prioritization:**  
+   - Prioritize well-known, reputable humor websites (e.g., Reader’s Digest, UpJoke, Thought Catalog) and official YouTube channels.
+   - Avoid aggregators with unreliable reputations or an abundance of ads and pop-ups.
+
+8. **Open-Ended Dimensions:**  
+   - There are no stated requirements regarding time period, humor style, or content rating, so include a variety of joke styles and sources unless stated otherwise.
+
+By following these instructions, you will help me quickly find and compare the best sources of dumb blonde jokes and relevant video content, making my pastime easier and more enjoyable.
+
+Prompt 30:
+Instructions for Researcher
+
+Objective:  
+I am an engineering student preparing for a statistics exam and I want to understand the concept of MANOVA (Multivariate Analysis of Variance) more thoroughly. While I have some basic knowledge and have read my course book, it is not sufficient for my understanding. I am seeking high-quality video lectures that will help explain MANOVA in detail.
+
+Key Requirements:
+
+1. **Target Audience**:  
+   - The lectures should be suitable for someone with an engineering background who has studied basic statistics.  
+   - Content should be comprehensive, but can assume foundational concepts are already covered.
+
+2. **Content Focus**:  
+   - Video lectures should cover theoretical aspects of MANOVA as well as practical applications (especially in engineering or science, if available).  
+   - Key topics to include (at minimum):  
+     - What is MANOVA and when is it used  
+     - Assumptions underlying MANOVA  
+     - How to interpret MANOVA results  
+     - Step-by-step examples  
+     - Practical demonstration using statistical software (optional but preferred)
+
+3. **Language**:  
+   - The video lectures must be in English.
+
+4. **Source Prioritization**:  
+   - Prioritize videos and lectures from official, reputable sources such as:  
+     - University channels (e.g., MIT OpenCourseWare, Khan Academy, Coursera, edX, NPTEL, Stanford Online)  
+     - Well-established statistics/engineering educators  
+     - Official YouTube channels of educational institutions.
+
+5. **Access**:  
+   - Prefer free resources that do not require registration or payment.
+   - If a recommended video requires registration, clearly indicate that.
+
+6. **Additional Considerations (Open-Ended)**:  
+   - No explicit preference for lecture length—but, if multiple options exist, include both concise overviews and in-depth lectures.
+   - Lectures that include worked numerical examples or case studies especially relevant to engineering are preferred but not mandatory.
+   - If only partial coverage of MANOVA is available in some otherwise high-quality resources (e.g., a segment within a longer lecture series), clearly indicate time stamps or sections to focus on.
+
+7. **Presentation Instructions**:
+   - Present your findings in a clearly structured report with the following sections:
+     1. Introduction (summarizing your methodology and scope)
+     2. Summary Table of Video Lectures (include: Title, Instructor/Source, Link, Duration, Key Topics Covered, Notes on relevance/practical examples)
+     3. Brief Annotations for Each Video (1-3 sentence summary describing content quality, strengths, and any limitations)
+     4. Closing Recommendations (which videos to prioritize, especially for engineering students)
+   - If helpful, provide direct links to the videos and to the host page of the institution or educator.
+   - Use clear headers, bullet points, and tables to enhance readability.
+
+8. **Sources**:
+   - Link directly to the video or hosting platform (e.g., the official university YouTube channel, Coursera class page, etc.)
+
+Deliver all output in English.
+
+If you encounter any ambiguity or missing essential detail (such as a particular software tool or engineering field), treat these as open-ended unless I specify otherwise.
+
+Prompt 31:
+Instructions for Researcher
+
+**Research Task:**  
+I am studying respiratory physiology in preparation for an exam retake, and I have encountered cystic fibrosis (CF). I want to know what treatment options are currently available for cystic fibrosis patients. As a future physician, I require information with sufficient scientific depth about these therapies, including indications, mechanisms of action, benefits, and limitations. 
+
+**Key Requirements (Please Adhere to All Points):**
+
+1. **Scientific Depth & Rigor:**
+   - Provide an overview of therapy options for cystic fibrosis, emphasizing pathophysiological rationale and mechanisms of action.
+   - Include recent advances (as of 2024) in both symptomatic and disease-modifying treatments.
+
+2. **Treatment Modalities to Cover:**
+   - **Symptomatic Therapies:** Airway clearance techniques, mucolytics, inhaled antibiotics, anti-inflammatory agents, pancreatic enzyme replacement, nutritional support.
+   - **Disease-Modifying Therapies:** CFTR modulators (e.g., ivacaftor, lumacaftor, tezacaftor, elexacaftor), gene therapy (if applicable), and any new/emerging treatments.
+   - **Advanced Interventions:** Lung transplant and indications.
+   - If there are subtypes of therapy not listed above but relevant to current clinical practice, include them.
+
+3. **For Each Major Therapy Type, Include:**
+   - Mechanism of action
+   - Clinical indication or patient subgroups (e.g., by mutation)
+   - Typical application/administration
+   - Major side effects or contraindications
+   - Evidence for efficacy (preferably cite clinical trials or guideline recommendations)
+
+4. **Open Ended Dimensions:**
+   - **Age group:** Not specified; please include both pediatric and adult treatment considerations if relevant.
+   - **Regional Treatment Variations:** No specific location/country provided; report on treatments available internationally, but highlight if options differ by region or health system access.
+   - **Prognosis and Outcomes:** Can be included as a section, but not the primary focus unless directly relevant to choice of therapy.
+
+5. **Formatting and Output:**
+   - Please organize your response as a structured report with appropriate headers and subheaders (see below).
+   - Include a summary table listing each therapy, mechanism, indication, and key considerations for comparison.
+
+6. **Sources:**
+   - Prioritize recent (preferably post-2020) primary research articles, official clinical guidelines (e.g., Cystic Fibrosis Foundation, NICE, ERS/ATS), and reputable medical review articles.
+   - Link directly to the official publication or authoritative source where available (official medical organizations, peer-reviewed journals).
+
+**Expected Output Format:**
+
+- Title:  
+  "Current Treatment Options for Cystic Fibrosis: A Scientific Overview"
+
+- Table of Contents
+
+- Introduction
+
+- Overview of Cystic Fibrosis Pathophysiology (brief)
+
+- Symptomatic Therapies
+  - Airway Clearance Techniques
+  - Mucolytics
+  - Antibiotics
+  - Anti-inflammatory Agents
+  - Pancreatic Enzyme Replacement and Nutritional Interventions
+
+- Disease-Modifying Therapies
+  - CFTR Modulators (detailed subsections by drug/class, with indications by genotype)
+  - Gene Therapy and Emerging Treatments
+
+- Advanced Interventions
+  - Lung Transplantation
+
+- Comparative Table (see point 5 above: therapy vs mechanism vs indication vs key considerations)
+
+- References
+
+**Language:**  
+- Please provide the response in English unless otherwise instructed.
+
+**If you need further clarification, assume all unspecified variables are open and note them as such in the report.**
+
+Prompt 32:
+Instructions for Researcher
+
+Objective:  
+I am looking for a place to eat pho in New York. My primary interest is in finding New York restaurants that serve pho, with emphasis on information or reviews about these restaurants. While information about general New York restaurants is less relevant, you may still include it if it's connected to the dining experience or context of eating pho.
+
+Please follow these steps:
+
+1. **Identify Pho-Serving Restaurants in New York**  
+   - Search for Vietnamese restaurants in New York City (and, if available, surrounding boroughs) that are notable for serving pho.
+   - There are no restrictions on price level, neighborhood, or style—consider all types of Vietnamese restaurants.
+
+2. **Gather Restaurant-Specific Information**  
+   - For each restaurant identified, collect the following:
+     - Name and exact address
+     - Type(s) of pho offered (e.g., beef, chicken, vegetarian)
+     - Price range of pho dishes
+     - Opening hours
+     - Brief description of the atmosphere or style (e.g., casual, upscale, family-friendly)
+   
+3. **Collect Reviews and Recommendations**  
+   - Search for user or critic reviews mentioning pho at each restaurant.
+   - Highlight aspects such as flavor, portion size, authenticity, and service as described in the reviews.
+   - Include quotes or summaries from credible sources (e.g., Google Reviews, Yelp, The New York Times, Eater NY) and, if available, a direct link to the review.
+   - Prioritize detailed insights about the pho itself over general restaurant impressions.
+
+4. **(Optional) General Information on Dining in New York**  
+   - If you find context on the general Vietnamese dining scene or the popularity of pho in New York, include a short summary. Ensure that any general information is relevant to someone choosing a place to eat pho.
+
+5. **Table Format Requirement**  
+   - Present restaurant-specific information in a comparison table with the following columns:
+     | Restaurant Name | Address | Pho Varieties | Price Range | Reviews/Highlights | Source/Link |
+
+6. **Report Structure**  
+   - Start with a brief introduction summarizing the search methods, any notable findings, and guidance for choosing among options.
+   - Follow with the comparative table.
+   - Conclude with any general comments or observations (optional).
+   - Clearly cite all sources and include direct links to official restaurant websites and reviews when possible.
+
+7. **Language**  
+   - Respond in English.
+
+By following these steps and formatting requirements, you will provide a comprehensive, organized overview of the best places to eat pho in New York, with particular attention to reviews and restaurant specifics.
+
+Prompt 33:
+Instructions for Researching the Latest News about the Pittsburgh Steelers (April–May 2013):
+
+Objective:  
+I am seeking the most recent and relevant news articles or detailed news pages discussing the Pittsburgh Steelers (football team), focusing particularly on content from April or May 2013. If possible, I want direct access to the Steelers’ official homepage and to dedicated news sections or major sports news platforms where the Steelers are featured extensively during that time frame.
+
+Key Requirements:
+
+1. **Date Range:**  
+   - Prioritize news articles and updates specifically from April 2013 and May 2013.
+   - If exact matches are unavailable, include pages clearly marked as updated “recently” as of the 2013 date (but note their actual update/crawl date).
+
+2. **Content Focus:**  
+   - Include only pages with substantial, detailed coverage or discussion about the Pittsburgh Steelers’ activities, games, drafts, or major events.
+   - Avoid generic sport news pages that do not specifically mention the Steelers or only contain single-sentence summaries.
+
+3. **Types of Pages to Include:**  
+   - The official homepage of the Pittsburgh Steelers.
+   - Dedicated “News” or “Headlines” sections that aggregate Steelers-related coverage.
+   - Major sports news pages (e.g., ESPN, NFL.com, Sports Illustrated) containing Steelers news stories from the targeted date range.
+   - DO NOT prioritize SEO-heavy blogs or fan forums unless they are primary sources of significant news.
+
+4. **Sources:**  
+   - Favor official team sources, reputable news platforms, and primary sports news websites.
+   - For each URL, note the source and its relevance (e.g., Steelers homepage, ESPN Steelers team page).
+   - Hyperlink URLs directly to original sources whenever possible.
+
+5. **Output Format:**  
+   - Deliver results in a structured report with clear section headers.
+   - Use a table to organize each relevant result with these columns:  
+     | Page Title | URL | Source | Date (if available) | Brief Description of Steelers-related Content |  
+   - For each entry, provide a 1–2 sentence summary of why the page is relevant and what Steelers content is included.
+
+6. **Open-Ended/Unspecified Details:**  
+   - If multiple language options exist, prioritize English as the default unless otherwise stated.
+   - If there is ambiguity about whether a page’s news coverage includes April or May 2013, note this in the description column.
+   - If user access to older web pages is an issue, suggest using archived versions (e.g., the Internet Archive’s Wayback Machine), but only list URLs for accessible content.
+
+Summary of Instructions (For inclusion before table):
+
+- Focus on Steelers-related news and pages as of April–May 2013.
+- Prioritize official and primary sources.
+- Present results in a table as specified.
+- Include a brief summary for each result, stressing time relevance and depth of Steelers content.
+- If results from the exact date range are sparse, explain this briefly and include the closest matches.
+
+**Do not complete the research—only provide the instructions above to the assigned researcher.**
+
+Prompt 34:
+Instructions for Researcher:
+
+Objective:  
+I want to buy Yves Saint Laurent boots. Please research options thoroughly to help me select and purchase a pair.
+
+Key Requirements:
+1. **Brand**: Focus exclusively on Yves Saint Laurent (YSL) boots. Do not include boots from any other brand.
+2. **Boot Type/Style**: The specific style, heel height, color, material, size, and gender (men's/women's/unisex) are open-ended. Please include a range of options covering these various attributes, as my preferences have not been specified.
+3. **Condition**: Consider both new and pre-owned options, unless a model is only available in one condition.
+4. **Price Range**: No price range has been specified, so include both lower-priced and premium/high-end YSL boot options to illustrate the spectrum.
+5. **Geography/Shipping**: No country or location has been specified. Include options that can ship internationally or specify regional availability when relevant.
+6. **Retailers & Sources**:
+   - Prioritize official YSL boutiques and the official YSL website.
+   - Also include reputable department stores (e.g., Nordstrom, Neiman Marcus, Saks Fifth Avenue, Harrods) and well-known e-commerce sites (e.g., Farfetch, Net-a-Porter, Mytheresa).
+   - For pre-owned boots, check verified secondhand platforms (e.g., The RealReal, Vestiaire Collective).
+   - Provide direct links to product pages where possible.
+7. **Availability**: Clearly indicate current availability and expected restock dates if an item is out of stock.
+
+Formatting & Presentation:
+- Compile the research as a structured report using clear headers, such as “Introduction,” “Available YSL Boots,” “Retailers and Purchasing Information,” and “Summary & Recommendations.”
+- Include a comparison table listing each Yves Saint Laurent boot option with: model name, style/type, material, heel height, color(s) available, sizes in stock, condition (new/pre-owned), price, and a direct purchase link.
+- Provide brief notes for each option mentioning key design details or why it may be of special interest.
+- If any options have notable return policies, limited editions, or purchasing restrictions, include this information.
+
+Sources:
+- Link directly to primary retailer or official brand sites, not to aggregator search results or SEO blogs.
+- For pre-owned items, only link to established and well-reviewed resale platforms.
+
+Language:
+- Respond in English.
+
+If any additional dimensions (size, gender, preferred color, etc.) need to be clarified, present the options as open-ended and provide a wide range to ensure I can choose what best fits my needs.
+
+Prompt 35:
+Instructions for Researcher:
+
+Task Overview:
+I want to identify the names of the cities that directly surround Long Beach, California. I am interested in this because I am spending my holiday in Long Beach and would like to consider visiting nearby cities during my stay. At this stage, I am only seeking the names of the adjacent cities, not any further details about their attractions or characteristics.
+
+Specific Instructions:
+
+1. **Identify Surrounding Cities:**
+   - Provide a list of all cities that directly border or are adjacent to Long Beach, California.
+   - Limit the response strictly to incorporated cities (not unincorporated communities or neighborhoods within Long Beach itself), unless official city boundaries include such communities as distinct municipalities.
+
+2. **Format:**
+   - Present the names of the surrounding cities in a simple, bulleted list for clarity.
+   - Do not include any additional information beyond the city names at this time.
+
+3. **Sources:**
+   - Prioritize information from authoritative or official sources such as:
+     - The City of Long Beach official website
+     - Los Angeles County official maps or documents
+     - California state or U.S. Census Bureau boundary maps
+   - If you refer to any online sources, include direct links to official city or government websites as supporting references.
+
+4. **Language:**
+   - Respond in English.
+
+5. **Open-Ended/Unspecified Attributes:**
+   - Since I have not specified a limit on the number of cities, please include all municipalities that are geographically contiguous to Long Beach.
+
+Expected Output:
+- A bulleted list of the names of all cities that border Long Beach, California, and nothing more. If possible, cite or link to the principal source(s) used to determine these boundaries.
+
+Prompt 36:
+Instructions for Researcher
+
+Objective:  
+I want to obtain the latest AVG home edition antivirus tool. My priority is to find the most recent and official version, preferably for home (not business) use. Recency is my main concern: any AVG version released before 2013 is non-relevant. The official AVG homepage is the most relevant source. Pages offering only the free version are still of interest, but less so than those providing the full home edition.
+
+Guidelines:
+
+1. **Source Prioritization**
+    - Start by searching the official AVG homepage (https://www.avg.com), as it is the primary and most credible source.
+    - Seek official product and download pages, especially those targeted at home users (not business or enterprise).
+    - If the official page is unavailable or does not specify the version date, look for reputable secondary sources that reference the release date and provide official download links.
+    - Accept both free and paid editions, but prioritize the home/complete edition over free-only versions.
+    - Do NOT include aggregator or third-party download sites unless they link directly to official AVG resources and provide clear version/release details.
+    - For each source, verify the release date—exclude anything from before 2013.
+2. **Recency Check**
+    - Explicitly confirm the version/release date of the AVG edition before listing it.
+    - Do not include or suggest any sources or versions released prior to 2013.
+3. **Version & Edition Identification**
+    - Clearly note whether the offering is the full home edition, the free version, or another variant.
+    - Highlight differences in features between editions, if possible.
+4. **Expected Output Format**
+    - Provide findings as a brief report. Use section headers for clarity, structured as follows:
+        - Introduction: Summarize your approach and criteria.
+        - Main Findings: List the most relevant links, specifying for each:
+            - Edition/type (e.g., Home, Free)
+            - Direct download link (if available)
+            - Version or release date
+            - Summary of offering/features
+        - Additional Options: List less relevant, but still recent sources (e.g., free-only versions).
+        - Table: Include a table comparing the relevant options, with columns for Source/Link, Edition/Type, Release Date, and Notes/Features.
+        - Conclusion: Brief summary of the best option(s).
+5. **Open-Ended Details**
+    - If you cannot find explicit information on the most recent release date, list the nearest available information and note the uncertainty.
+    - If the "home" edition is discontinued, suggest the closest equivalent available for home users.
+6. **Language**
+    - Respond in English unless otherwise specified.
+
+7. **Sources**
+    - Link directly to official AVG pages wherever possible. Avoid unofficial mirrors, forums, or unrelated third parties.
+
+Please follow these instructions closely to ensure my primary concerns—recency and official sourcing—are met.
+
+Prompt 37:
+Instructions for Researcher
+
+Objective:  
+I am about to finish medical school and am interested in finding out if there are any open positions for medical school graduates at Massachusetts General Hospital (MGH). I am open to job vacancies listed on specialized job websites, but I primarily expect you to consult the jobs/careers section of the Massachusetts General Hospital’s official homepage.
+
+Steps:
+
+1. Job Search on MGH Official Website
+   - Navigate to the Massachusetts General Hospital official homepage: https://www.massgeneral.org/
+   - Locate and access the “Careers,” “Jobs,” or equivalent section (usually at the top or bottom navigation menu).
+   - Search for all current open positions, placing emphasis on roles suitable for someone about to graduate from medical school (e.g., internships, residency programs, fellowships, entry-level physician roles).
+   - Note any filters available (e.g. position type, department, start date) and use them as appropriate, but do not restrict results unless they directly relate to my current status as a soon-to-be medical graduate.
+
+2. Identify Relevant Openings
+   - Identify all open positions that:
+      - Are available to graduating medical students (MD or equivalent).
+      - Could include residency programs, internships, junior staff physician roles, research fellowships, etc.
+   - For each role, collect the following information (if available):
+      - Job Title
+      - Department/Unit
+      - Brief Description
+      - Application Requirements/Eligibility
+      - Application Deadline
+      - Link to Full Position Description
+      - Any instructions for how to apply
+
+3. Investigate Specialized Job Sites (Optional/Secondary)
+   - Search on reputable specialized job boards for medical and healthcare positions (such as AAMC’s CareerConnect, Indeed, Glassdoor, LinkedIn, or relevant state/regional medical job boards).
+   - Focus on listings that specify Massachusetts General Hospital as the employer.
+   - For each relevant position found, provide the same information as above.
+
+4. Organization of Results
+   - Present the findings in a structured report with the following sections:
+
+      1. Executive Summary  
+         - Briefly summarize the scope of vacancies available for medical graduates at Massachusetts General Hospital.
+      2. Table of Open Positions  
+         - Provide a table with the columns: Job Title, Department, Type (Residency/Internship/Physician/etc.), Summary, Application Deadline, Direct Link.
+      3. Position Details  
+         - For each position, provide a more detailed description, including eligibility requirements and application steps.
+      4. Notes on Application Process  
+         - Outline any notable information about the application process at MGH (e.g., portals used, documents required, timelines).
+      5. Specialized Job Site Listings  
+         - If any positions were found on specialized job sites not already listed on the MGH website, summarize them here and clarify if they duplicate positions from the official site.
+      6. Sources  
+         - List the URLs for the MGH careers page and any specialized job sites referenced.
+
+5. Language
+   - Respond in English.
+
+6. Important Considerations
+   - Do not limit results by specialty or department unless the position explicitly requires it.
+   - If new or updated positions are posted frequently, note this and suggest steps for ongoing tracking.
+   - Prefer direct links to the official Massachusetts General Hospital careers portal for each job listing.
+   - Do not include jobs that clearly require years of post-graduate experience unless a position might plausibly be open to a recent medical graduate.
+
+Expected Output Format:
+- A structured report with headers as described above.
+- A summary table as specified.
+- Clearly organized narrative descriptions and direct links to each job listing.
+
+Prompt 38:
+Instructions for Researcher
+
+Objective:  
+Research why cats purr and what it means. I have cats myself and want to understand what they may be trying to communicate with their purring. I am interested in all facets of the meaning of purring—including emotional, behavioral, and communicative aspects. However, biological explanations regarding the mechanism (how cats physically produce the purr) are not relevant and should be excluded.  
+
+Relevant Information:  
+- Focus exclusively on the behavioral and communicative meaning of purring.
+- Address multiple contexts in which cats purr (e.g., contentment, pain, hunger, seeking attention, stress, social bonding).
+- Include reputable sources where possible (e.g., animal behavior research centers, veterinary organizations, or official animal welfare sites).
+- Include examples of expert opinions (e.g., veterinarians, animal behaviorists).
+- Where available and helpful, provide short video links that illustrate cat purring in different contexts and explain their meaning.
+- If any patterns or typical behaviors accompany purring (e.g., body language, situations), note them.
+
+Open-Ended/Unspecified Dimensions:  
+- No constraints on geographic origin or breed of cat—include information relevant to domestic cats in general.
+- Language is not specified, so English-language sources are preferred but not required.
+- No specific limit on number or length of examples.
+- Video sources do not need to be from any specific platform but should be reputable and illustrative.
+- All types of meanings (positive, negative, complex, etc.) are relevant.
+
+Output Format:  
+- Please provide the information as a structured report, using clear headers for each section and bullet points as appropriate for clarity.
+- Include a summary or conclusion synthesizing the key findings at the end.
+- Provide tables if it will help to organize the types of purring meanings, associated behavioral cues, and example contexts.
+- Link directly to video resources that explain or exemplify different types of purring meanings.
+- Cite all sources directly, using links to the main pages (e.g., veterinary hospitals, animal welfare organizations, or research publications).
+
+Summary Table Example (if relevant):
+
+| Context of Purring    | Likely Meaning                 | Accompanying Behaviors           | Example Video Resource |
+|----------------------|-------------------------------|----------------------------------|-----------------------|
+| Being petted         | Contentment/Relaxation        | Eyes half-closed, kneading       | [Link]                |
+| At feeding time      | Requesting food/Attention     | Vocalizing, rubbing against legs | [Link]                |
+| At the vet/injured   | Self-soothing/Distress        | Lying still, tense posture       | [Link]                |
+
+Language:  
+- Respond in English.
+
+Prioritize:  
+- Behavioral and communicative interpretations.
+- Reputable and firsthand sources.
+- Illustrative video content with explanations.  
+- Exclude any biological or anatomical explanations of the purring mechanism.
+
+Deliver a structured, comprehensive, and user-focused report.
+
+Prompt 39:
+Instructions for Researcher:
+
+Objective:  
+I want to find a recipe for a crab dip appetizer. I have some crab meat left over, and I am planning to use it for making a dip sauce that can be served as an appetizer when my friends come over for lunch.
+
+Specific Requirements:
+
+1. **Recipe Type:**  
+   - Only include crab dip recipes that are clearly intended as appetizers or dip sauces.
+   - Exclude any recipes for main dishes featuring crab.
+
+2. **Ingredient Constraint:**  
+   - The recipe must use crab meat, since I want to use up my leftover crab.
+   - Leave other ingredient constraints open—not specified, so you may include any commonly found dip ingredients.
+
+3. **Cost/Accessibility Constraint:**  
+   - Only include recipes that are freely accessible online.
+   - Do not include recipes that are restricted by a paywall or require purchase/subscription.
+
+4. **Serving Context:**  
+   - Recipe should be easy to share with friends at lunch (i.e., suitable for a small informal gathering).
+
+5. **Format and Structure:**  
+   - Format the findings as a brief report.
+   - Organize the report as follows:
+     1. **Introduction**: Briefly explain the purpose.
+     2. **Recipe Options Table**: List at least 3 suitable crab dip appetizer recipes in a table that includes columns for:
+         - Recipe Name
+         - Key Ingredients
+         - Prep Time
+         - Link to Recipe (ensure it is a direct link to a free source)
+         - Any distinguishing features (e.g., served hot/cold, special flavorings, dietary notes)
+     3. **Recommendation and Rationale**: If one recipe stands out as especially easy, popular, or crowd-pleasing, note this and briefly explain why.
+   - Use clear headers for each section to ensure readability.
+
+6. **Sources to Prioritize:**  
+   - Link directly to the official recipe page (prefer reputable sources such as AllRecipes, Food Network, Bon Appétit, or brand official sites).
+   - Avoid blog aggregator sites or low-credibility sources.
+
+7. **Open Parameters:**  
+   - Preparation method (baked, cold, etc.), specific serving suggestions, and crab meat type are open-ended and can vary per recipe.
+
+If you find multiple recipes that fit, feel free to note unique variations or presentation tips as bullet points under the table.
+
+Do not include recipes for main dishes, salads, or anything that is not a dip/appetizer. Only free resources. 
+
+Expected Output Format:  
+A structured report as outlined above, with a recipes comparison table.
+
+Prompt 40:
+Instructions for Researcher
+
+**Objective:**  
+I am looking for recipes or videos that teach how to make Swahili dishes. I have visitors and promised to prepare a typical Swahili meal. I do **not** want recipes from other cultures, only authentic Swahili cuisine. I am not interested in reading about other aspects of Swahili culture at this moment.
+
+**Instructions:**
+
+1. **Scope of Search:**  
+   - Only include authentic Swahili dishes.
+   - Do not include fusion dishes or recipes from other East African, Arabic, Indian, or other non-Swahili traditions.
+   - Focus strictly on food preparation (recipes and cooking videos), excluding cultural or historical context.
+
+2. **Types of Resources:**  
+   - Find both written recipes and video tutorials.
+   - Prioritize direct links to primary sources:
+     - Official food blogs or websites specializing in Swahili food.
+     - YouTube or other video platforms, ensuring the title or description confirms it is a Swahili dish.
+
+3. **Variety and Selection:**  
+   - Include a variety of dishes (e.g., main courses, sides, and possibly desserts), but—all must be Swahili.
+   - If too many options exist, select the most popular/traditional swahili dishes.
+   - Note if a dish is vegetarian, vegan, or contains common allergens, if that information is available.
+
+4. **Information to Present:**  
+   - For each dish, provide:
+     - Name of the dish.
+     - A brief description (1-2 sentences on the dish, if available).
+     - A direct link to its recipe or video.
+     - State whether it is a written recipe or a video.
+   - If you find both a recipe and a video for the same dish, include both options.
+
+5. **Tables:**  
+   - Present the findings in a table with the following columns:
+     - Dish Name
+     - Brief Description
+     - Recipe/Video Link
+     - Type of Resource (Written Recipe or Video)
+     - Notes (e.g., vegetarian, popular, contains allergens, etc.)
+
+6. **Formatting:**  
+   - Present the findings in a clear table as outlined above.
+   - Precede the table with a brief introductory sentence: "Below is a selection of authentic Swahili dishes with links to recipes and videos."
+
+7. **Language:**  
+   - Present the results in English.
+
+8. **Sources:**  
+   - Whenever possible, prioritize links to reputable food blogs focused on Swahili cuisine, official recipe websites, or well-established YouTube cooking channels.
+   - Avoid aggregator recipe sites that do not specify the dish as Swahili.
+
+**Note:**  
+If any dimension (e.g., dietary preferences or the number of dishes) is unstated, treat it as open—include a representative selection but you do not need to filter for specific dietary needs unless clearly indicated on the recipe.
+
+Prompt 41:
+Instructions for Researching US Road Maps
+
+Objective:  
+I want to find US road maps. There are no additional specifications regarding the type of map, year of publication, geographic focus (national, state, or local), digital or print format, or intended use. Therefore, please treat all relevant dimensions as open-ended.
+
+Instructions:
+
+1. **Types of US Road Maps**  
+   - Include national, state-level, and city/regional maps.
+   - Cover both current (up-to-date) and historical road maps.
+   - Include both physical/print versions and digital/online options.
+
+2. **Sources**  
+   - Prioritize official or authoritative sources. For example:
+     - U.S. Department of Transportation or Federal Highway Administration for national-level maps.
+     - State Department of Transportation websites for state maps.
+     - Official tourism boards or municipal websites for local maps.
+     - Major publishers such as Rand McNally or National Geographic.
+     - Online mapping platforms (Google Maps, OpenStreetMap, etc.) for digital maps.
+   - Where available, provide direct links to the source or download page.
+
+3. **Attributes to Include**  
+   For each map identified, provide the following details in a table:
+   - Map Title/Name
+   - Geographic Coverage (e.g., entire US, state, city/region)
+   - Format (digital/online, PDF, print, interactive)
+   - Publisher/Source
+   - Date of Publication (if known)
+   - Link to Access or Purchase
+
+4. **Open-Ended Dimensions**  
+   - Since there are no constraints on date, format, scale, or purpose, include a diverse selection to illustrate the range of available US road maps.
+
+5. **Output Format**  
+   - Present your findings as a structured report with clear section headers.
+   - Organize the main findings in a comparative table with the attributes listed above.
+
+6. **Language**
+   - Respond in English.
+
+7. **Notes**
+   - When possible, briefly mention if a source provides ongoing updates (for example, if the digital map platform updates automatically).
+   - If multiple notable options exist from a single source (for example, several different US state DOT maps), provide a general example and indicate how to find others.
+
+Summary Table Example:
+
+| Map Title/Name           | Geographic Coverage | Format         | Publisher/Source       | Date of Publication | Link to Access or Purchase |
+|--------------------------|--------------------|----------------|-----------------------|---------------------|----------------------------|
+| US Road Atlas 2024       | National           | Print/PDF      | Rand McNally          | 2024                | [Link]                     |
+| California Road Map      | State (California) | PDF/Print      | Caltrans              | 2023                | [Link]                     |
+| Google Maps US           | National/Local     | Interactive    | Google                | Continuously Updated| [Link]                     |
+
+Please proceed with the research as outlined above.
+
+Prompt 42:
+Instructions for Researcher
+
+Objective:  
+I want you to find the latest gossip specifically about Kobe Bryant. The focus should be on the most recent news or social media posts—especially those that qualify as "gossip" rather than factual or biographical data. The information must be centered on ongoing rumors, controversies, speculation, or trending stories, not on well-established or older accounts of his life and career.
+
+Attributes & Preferences:
+- **Recency:** The most important criterion is that the information is current. Consider "recent" to mean within the last 3 months unless otherwise specified.
+- **Type of Content:** Prioritize posts, news articles, and social media threads classified as "gossip," "rumors," "speculation," "celebrity buzz," or similar. Avoid standard news summaries, tributes, or historic biographical information.
+- **Sources:** Seek sources that are known for entertainment or celebrity news (e.g., TMZ, Daily Mail, E! News, Hollywood Life, or verified Twitter/Instagram accounts and celebrity gossip forums). If relevant, include popular or trending social media posts from platforms like Twitter, Instagram, or TikTok.
+- **Language:** No language preference stated, so include sources in any language, but prioritize English-language sources unless a relevant non-English story is trending.
+- **Open-Ended Dimensions:** If there is insufficient recent gossip (given that Kobe Bryant is deceased as of 2020), include any notable posthumous rumors, internet discussions, or related gossip involving his family, estate, or ongoing media narratives, making sure to clearly specify these are not current events about Kobe himself but tangentially related.
+
+Instructions for Output Format:
+- **Format the output as a report, with clear sections and headers.**
+- **Include a summary table at the beginning** listing each gossip item, the date, its source (with direct link), and a brief description for side-by-side comparison.
+    - Columns: Date | Headline/Topic | Source (with Link) | Brief Description
+- For each piece of gossip, include a short summary followed by a citation or hyperlink to the original post or article.
+- If possible, differentiate by source type (e.g., mainstream media, social media, forums).
+- For stories likely to be unsubstantiated or rumor, clearly note the level of reliability or verification if possible.
+
+Additional Notes:
+- Do not include general biographical information or past news unless it directly relates to a current rumor or ongoing discussion.
+- If no recent gossip is available, briefly state this in the summary table and include any closest possible items (e.g., discussion of his legacy, family, etc., as outlined above).
+
+Sources:
+- Prefer direct sources: official entertainment news platforms or directly from social media accounts, not secondary rumor aggregator sites with unclear authorship.
+
+Language:
+- Provide the report in English. If significant non-English gossip emerges, translate and cite the original language/source as well.
+
+Prompt 43:
+Instructions for Researcher:
+
+Objective:  
+I want to find out the diagnostic criteria needed for a child to be diagnosed with ADHD. My specific concern is that my child has difficulties focusing at school, and I’d like to understand whether this could point in the direction of ADHD before consulting a doctor. I prefer medically reliable sites with thorough explanations of the symptoms, though brief self-check quizzes are somewhat relevant, if they come from trustworthy sources.
+
+Requirements:
+
+1. Medical Criteria for ADHD Diagnosis (in Children)
+   - I need a clear, detailed explanation of the current medical diagnostic criteria for ADHD in children, especially according to authoritative bodies like the DSM-5 (Diagnostic and Statistical Manual of Mental Disorders, 5th Edition).
+   - Specify and list the core symptoms—be sure to cover both inattention and hyperactivity-impulsivity as outlined in the diagnostic frameworks.
+   - For each symptom cluster, please provide the official criteria, the minimum number of symptoms needed, and any requirements about symptom duration, onset age, or settings (e.g. symptoms present in at least two settings, impairs functioning, etc.).
+
+2. Relevance of School Focusing Difficulties
+   - Relate the symptom of having difficulties focusing at school to the formal diagnostic criteria. Does this symptom alone strongly align with ADHD, or are more signs required?
+
+3. Source Quality
+   - Prioritize official medical sources and reputable organizations for ADHD information. Examples include:
+     - American Psychiatric Association (APA)
+     - CDC (Centers for Disease Control and Prevention)
+     - NIH (National Institutes of Health)
+     - American Academy of Pediatrics (AAP)
+     - Mayo Clinic
+     - NHS (National Health Service, UK)
+   - If providing quizzes or screening tools, ONLY use versions created or endorsed by these kinds of organizations (no generic blogs or unreviewed self-assessment tools).
+
+4. Output Format
+   - Present the information as a structured report with the following headers:
+       1. Introduction
+       2. Official Diagnostic Criteria for ADHD in Children
+       3. Relevance of Focusing Difficulties at School
+       4. Reliable Screening Tools/Quizzes (if any)
+       5. References and Links to Authoritative Sources
+   - If a summary table helps clarify the official diagnostic criteria (for example, listing the symptom categories, number of symptoms needed, and other requirements), please include one.
+
+5. Open-Ended Dimensions
+   - If some aspects of the criteria (such as how they may vary by country or by age group within children) are not specified, treat these as open-ended but clearly state any nuances or uncertainties you find in the guidelines.
+
+6. Language
+   - Prepare the report in English.
+
+Summary Table Request (if applicable):
+
+If it helps, provide a table that summarizes:
+| Symptom Cluster         | Number of Symptoms Required | Duration of Symptoms   | Onset Age      | Settings Required            |
+|------------------------|----------------------------|-----------------------|---------------|-----------------------------|
+| Inattention            | …                          | …                     | …             | …                           |
+| Hyperactivity-Impulsivity | …                          | …                     | …             | …                           |
+
+7. Source Links
+   - For major diagnostic documents or criteria, please link directly to the primary resource (e.g., APA or CDC page about ADHD).
+
+By following these steps, I want to be able to compare my child’s symptoms with the established diagnostic criteria, judge how focusing difficulties at school fit into the picture, and know when it’s recommended to proceed to a formal evaluation.
+
+Prompt 44:
+Instructions for Researcher
+
+Task Overview  
+My goal is to know everything about Kim Kardashian’s pregnancies—both previous (older) and any possible recent or current events, with a particular focus on the latest gossip, news, and rumors. I would also like visual documentation (pictures), if available. I am not up-to-date with older rumors or reports, so please include information and gossip from past pregnancies as well. The output should be thorough, well-organized, and include credible sources with links, especially to original and official sites where possible. Please provide a comprehensive, structured report.
+
+Instructions
+
+1. Latest Gossip and News  
+- Research the most recent news, rumors, or gossip about Kim Kardashian potentially being pregnant.  
+- Search celebrity news sites (e.g., People, TMZ, E! News, Us Weekly), Kim Kardashian’s official social media channels (Instagram, Twitter, TikTok), and reputable entertainment columns for the latest updates.  
+- Clearly distinguish between confirmed facts and rumors/speculation.
+- If there are no recent or current pregnancy news/rumors, clearly state this and provide the latest related updates about her family or personal life relevant to the topic.
+
+2. Historical Perspective (Older Gossip/Events)  
+- Summarize Kim Kardashian’s previous pregnancies, including confirmed pregnancies and widely reported or rumored ones.
+- Note the timeline of each pregnancy.
+- Include details about children (names, dates of birth, surrogacy/IVF if relevant).
+- Cover notable incidents, controversies, or widely circulated rumors from each pregnancy period.
+- Provide context for any major public or media responses during each pregnancy.
+
+3. Visual Documentation
+- Locate photos of Kim Kardashian from each pregnancy period. Include at least one image per pregnancy (considering copyright constraints—use official or media sources and provide links, not direct image files, if necessary).
+- For any recent rumors, if paparazzi or social media photos are being circulated as “evidence,” include or link to them.
+- Provide sources for all images.
+
+4. Table: Timeline of Pregnancies, Rumors, and Notable Events
+- Create a table with the following columns:  
+  - Date/Year  
+  - Event (Confirmed Pregnancy, Rumor, Gossip, Notable Public Incident)  
+  - Brief Description  
+  - Child (if applicable)  
+  - Source/Link
+
+5. Output Format
+- Present your findings in a report with clear headers and sections:
+  - Executive Summary (briefly state findings, including most recent news)
+  - Latest Pregnancy Gossip/Reports
+  - Overview of Past Pregnancies & Associated Gossip
+  - Visual Timeline (with image links)
+  - Table: Timeline of Pregnancies, Rumors & Notable Events
+  - References/Sources
+
+6. Sources
+- Always prioritize official or primary sources for confirmation (e.g., Kim’s verified social media, official family statements, reputable news outlets like People, E! News, or TMZ).
+- For images, use direct links to the original pages on news or social media sites rather than copied files.
+- Cite all sources with full links for verification or further reading.
+
+7. Open-Ended/Unspecified Dimensions
+- If no specific image style or time period is specified, provide a broad selection covering all known pregnancies.
+- If information on rumored pregnancies is sparse, include known speculation or explain the lack of substantial gossip.
+- If any child’s or pregnancy-related detail is unknown due to privacy, note as such.
+
+8. Language  
+- Respond in English (user query is in English).
+
+Summary Table Example (Include in report):
+
+| Date/Year | Event                           | Description                            | Child/Result          | Source/Link                |
+|-----------|----------------------------------|----------------------------------------|-----------------------|----------------------------|
+| 2013      | 1st Confirmed Pregnancy         | Public announcement, media coverage    | North West            | [People](URL)              |
+| ...       | ...                              | ...                                    | ...                   | ...                        |
+
+Please ensure all sections are addressed, use headers, and include all relevant detail and pictures/links as requested.
+
+Prompt 45:
+## Instructions for Researcher
+
+### Objective
+I want to know which video games are considered the most anticipated in 2013. Specifically, I’m interested in:
+- Video games that were released in the **first months of 2013**
+- Video games that are **expected to be released before the end of 2013**
+Based on **trailers, previews, and expert reviews**, I want to form an opinion on the most anticipated games of this year, with the understanding that I might order one. Please present your findings in a clear **report format** with tables for comparison where helpful.
+
+---
+
+### Detailed Instructions
+
+#### 1. List All 2013 Video Game Releases (With Timing)
+- Begin by identifying:
+  - All notable video game releases in the **first months of 2013** (specify exact release month).
+  - Upcoming video games **scheduled for release later in 2013** (with expected release dates).
+- Focus only on 2013 releases—exclude remasters/ports unless prominently featured in “most anticipated” lists.
+
+#### 2. Identify “Most Anticipated” Games
+- Use major gaming outlets (IGN, GameSpot, Polygon, Game Informer, Eurogamer, Kotaku, etc.), as well as official publisher announcements and industry “most anticipated” lists.
+  - Link directly to primary sources and official game sites where possible.
+- Note that I have no stated platform preference, so include multiplatform and exclusives for major consoles and PC. If a game is platform exclusive, specify which one.
+- Consider all genres; do not narrow by genre unless explicitly ranked as highly anticipated.
+- If any year-defining downloadable or indie games are generating high anticipation, include them as well.
+
+#### 3. Summarize Expert Previews, Reviews, and Trailer Reception
+- For games already released:
+  - Summarize expert review consensus (use Metacritic or OpenCritic as aggregate scores; cite individual standout reviews).
+  - Link to official trailers and publisher gameplay previews where available.
+- For upcoming games:
+  - Summarize preview coverage and expert commentary on hype/expectations.
+  - Include links to official trailers and notable hands-on previews.
+
+#### 4. Organize Findings in a Table for Comparison
+- Prepare a table with the following columns:
+  - Game Title
+  - Release Date
+  - Platform(s)
+  - Expert Anticipation (short summary from previews/trailers)
+  - Review Score (if released, from Metacritic/OpenCritic)
+  - Official Trailer/Preview Links
+  - (Optional) Note if pre-orders are available and link to official retailer
+
+#### 5. Provide a Short Opinion Summary and Recommendation
+- Based on collected previews, reviews, and trailers, briefly recommend which games stand out as the most anticipated in 2013 and might be worth ordering.
+- Present this as a short narrative paragraph after the comparison table.
+
+#### 6. Report Format and Sources
+- Format output as a **report** with clear headers:
+  1. Introduction  
+  2. Released Games: Early 2013  
+  3. Upcoming Releases: Later in 2013  
+  4. Comparison Table  
+  5. Expert Opinions and Recommendations  
+- Use official publisher sites, major gaming press, and reputable aggregator sources for all data and links.
+
+#### 7. Open Parameters
+- Since I have not specified genre, platform, or geographic focus, include **all major global releases** and **all genres/platforms**.
+- If any attribute is not specified or not available (e.g., review score for unreleased games), mark as "N/A".
+
+---
+
+**Please provide findings as specified above, including all links to primary sources and a table to help make an informed decision.**
+
+Prompt 46:
+Instructions for Researcher
+
+Research Objective:  
+I want to find out if there will be a sequel to the X-Men film series, and if so, when it can be expected.
+
+Key Attributes and Dimensions to Consider:
+- Define what is currently known as the “X-Men film series.” If multiple timelines or reboots are under consideration, note each one.
+- Include all official announcements, rumors from reputable industry sources, statements from studios (primarily Marvel Studios/Disney, previously Fox), directors, producers, and/or major actors regarding a sequel or continuation.
+- Specify whether the sequel is intended as a direct continuation, a reboot, or a spin-off, if this information is available.
+- Note any mention of expected or tentative release dates, production start dates, or projected timeframes.
+- If an official sequel has not been confirmed, summarize the current situation (e.g., in-development status, rumored projects, or official statements denying a sequel).
+- Treat language, region, cast, and format (cinema, streaming, etc.) as open-ended unless specified in official materials.
+
+Open-Ended/Unspecified Details:
+- There are no user preferences on which particular X-Men continuity (original, prequel, or MCU integration) is of most interest; please include all relevant continuations.
+- There are no constraints on production company, release medium, or target audience.
+
+Required Output Format:
+- Structure the response as a concise research report with clear section headers, as outlined below.
+- Include a summary table listing any upcoming X-Men-related films or series, their current status, expected release dates (if available), and official sources.
+- List all references used, with direct links to official studio statements, news from major entertainment industry publications (e.g., Variety, The Hollywood Reporter, Deadline), and, if available, the official Marvel or Disney websites.
+
+Expected Structure:
+
+1. Executive Summary
+   - Briefly state whether an X-Men sequel is confirmed and, if so, its expected timeline.
+2. Definitions & Scope
+   - Clarify which film series or timeline(s) are being considered.
+3. Recent Official Statements & Announcements
+   - Summarize the most recent information from major studios, producers, or cast members.
+4. Upcoming Projects Table
+   - Create a table with the following columns:
+     - Project Title
+     - Continuity/Timeline
+     - Current Status (Rumored, Announced, In Development, Confirmed, Canceled, etc.)
+     - Expected Release Date or Timeframe
+     - Main Studio/Production Company
+     - Official Source/Link
+5. Analysis of Rumors vs. Confirmed Projects
+   - Distinguish between officially confirmed information and credible industry rumors or leaks.
+6. References
+   - Provide links to all utilized sources, prioritizing official announcements/pages and reputable industry publications.
+
+If no sequel is confirmed, make that explicit, and briefly describe any related projects (such as MCU plans for X-Men characters) that may be relevant.
+
+Language:
+- Respond in English.
+
+Prompt 47:
+Instructions for Researcher:
+
+Task:  
+I am looking to find inspiration for fun and original activities to prepare for my brother’s bachelor party. Please provide a curated list of resources and ideas adhering to the following detailed guidelines.
+
+User Preferences and Key Attributes:
+
+1. **Primary Focus**:
+    - Find original, creative, and entertaining activity ideas specifically for bachelor parties intended for men.
+    - Activities should be suitable for a group celebrating a groom-to-be (my brother).
+
+2. **Websites to Prioritize**:
+    - Give preference to dedicated bachelor party or stag party planning sites that present collections of games, pranks, group activities, or event itineraries.
+    - Explicitly prioritize websites or articles that describe multiple bachelor party pranks. Highlight sources with sections about pranks, practical jokes, or playful challenges for the groom.
+    - Avoid general humor or joke-sharing sites that only provide jokes about bachelor parties—these are considered irrelevant.
+
+3. **Secondary Sources**:
+    - Resources about bachelorette parties or ideas intended for women may be considered only if they contain elements that are directly transferable to men’s bachelor parties or universally fun.
+    - When extracting ideas from such sources, clearly mark them as secondary and provide a brief note about their adaptation likelihood.
+   
+4. **Non-Relevant Content**:
+    - Omit or do not include sites that focus on bachelor party jokes or lists of jokes.
+
+5. **Language, Geography, and Duration**:
+    - There are no specified constraints regarding the language beyond English or the geographic location for the ideas. Present ideas broadly unless explicitly listed otherwise.
+    - There is no constraint regarding the length or type (single-day/evening or weekend/multi-day) of the bachelor party activities.
+
+6. **Sources to Prioritize**:
+    - Favor official or well-reputed event or party planning sites, forums with highly upvoted or well-reviewed original suggestions, or niche bachelor/hen party specialty sites.
+    - Provide direct links to each primary source.
+
+7. **Output Format**:
+    - Present the information in the form of a clear, structured report.
+    - Include organized sections, with headers for “Original Bachelor Party Activity Ideas,” “Top Sites Featuring Bachelor Party Pranks,” and “Promising Secondary Sources (Bachelorette Party Ideas).”
+    - For each site/resource, include the site name, a short summary of what it offers, and a direct link.
+    - Where possible, create a **table** listing the top bachelor party activity websites. Columns should include: Site Name, Type of Content (Activities, Pranks, Mixed), Quantity of Ideas/Pranks Offered, Direct Link, and a Brief Description.
+
+8. **Open-Ended Attributes**:
+    - If you encounter aspects such as party location (indoor/outdoor, travel requirements), group size, or required budget, treat these as flexible and present a variety of ideas encompassing different options.
+
+9. **Additional Notes**:
+    - Exclude joke compilations about bachelor parties.
+    - You can suggest further organizational improvements if you discover new ways to categorize or enhance the presentation of the activities or site resources.
+
+Expected Deliverable:
+
+- A report that adheres to the structure described above with a table comparing the top dedicated bachelor party activity/prank sites.
+- All sites to be linked directly.
+- Ideas extracted from bachelorette party resources should be clearly marked as such and minimally included.
+- No unrelated bachelor party jokes or humor compilations.
+
+**Do not actually deliver the research or curated ideas; only provide instructions to a researcher to complete this task using the above guidelines.**
+
+Prompt 48:
+Instructions for Researching the Latest News and Details on the Leiden School Closures Due to a Gun Threat
+
+**User Context:**  
+I have family living in Leiden. I heard on the news about a massive gun threat resulting in the closure of schools in Leiden. I want to know the latest developments and find more detailed information about the incident.
+
+---
+
+**RESEARCH OBJECTIVE:**  
+Find and summarize the most recent and detailed updates regarding the gun threat that led to the closure of schools in Leiden, especially focusing on new developments, official statements, safety advisories, and any impact or response affecting the Leiden area.
+
+---
+
+**SPECIFIC INSTRUCTIONS:**
+
+1. **Prioritize Timeliness**  
+   - Focus on the most up-to-date information available at the time of research.
+   - Note the *time* and *date* of each significant development (e.g., police statements, school reopening plans, suspect apprehension, etc.).
+
+2. **Source Selection**
+   - Prioritize official and primary sources:
+     - Dutch national and regional news outlets (e.g., NOS, NRC, AD, Leidsch Dagblad).
+     - Official communications from Leiden municipality, law enforcement (Politie Leiden), and any official school channels (websites/social media).
+     - If available, provide links to statements from these sources.
+   - Cross-reference with any reputable international news coverage for additional context.
+   - If possible, include both Dutch and English language reporting for accessibility.
+
+3. **Key Information Areas to Cover**
+   - Description of the threat: What was specifically threatened? How was the threat communicated and by whom (if known)?
+   - Affected schools: Which schools in Leiden were closed? How long is the closure expected to last?
+   - Law enforcement & emergency response: What actions have the police and city officials taken? Were any arrests made? Is there any ongoing investigation?
+   - Safety advisories: Are there special instructions or advisories for residents, parents, and students?
+   - Current status: Are schools still closed, or has the situation changed? Are any parts of the city affected beyond the schools?
+   - Reactions: Include quotes or official statements where available (e.g., from mayor, police chief, school administrators, etc.).
+   - Any known details about the perpetrator(s).
+   - Broader impact: Note if public transport, other institutions, or city events are also affected as a result.
+   - Upcoming press conferences or expected further information releases.
+
+4. **Open-Ended Dimensions**
+   - If the story is developing and some details (e.g., suspect’s identity, motive, the exact scope of threat) are not yet public, clearly state this and note if/when updates are expected.
+   - If the user has not specified the preferred language, include both Dutch and English updates where possible.
+
+5. **Structured Output**
+   - Present findings in a clear, structured report format with these suggested headers:
+     - Summary of Incident
+     - Timeline of Key Events
+     - Actions Taken by Authorities
+     - Impact on Leiden Schools and Community
+     - Official Statements and Safety Advisories
+     - What Is Still Unknown / Awaiting Updates
+     - Links to Official Sources for Further Information
+   - If several schools or parts of Leiden are affected, include a table listing affected schools/institutions, their status, and communications from them.
+
+6. **Table Requirement**
+   - Create a table listing each affected school:
+     - Name of the school
+     - Status (closed/reopened)
+     - Time/date of closure
+     - Official school communication link (if available)
+
+---
+
+**Expected Output Format:**
+- A well-structured report (using the above headers).
+- At least one summary table for affected schools.
+- Direct links to primary sources and official statements.
+- Clearly date- and time-stamped updates.
+
+---
+
+**Language:**  
+- Include information in both Dutch and English where possible, unless/until the user specifies a language preference.
+
+---
+
+**Note:**  
+Do not summarize outdated or irrelevant information—focus only on developments that directly pertain to the current situation in Leiden regarding the school closures and gun threat. If new updates emerge during research, include them and timestamp the addition.
+
+Prompt 49:
+**Instructions for Researching Recent Ethnic Cleansing in Myanmar (June 2012 – April 23, 2013)**
+
+**Task Overview:**
+I want you to research and summarize reports and reliable sources that detail the ethnic conflict and ethnic cleansing of the Rohingya population in Myanmar that began around June 2012 and continued up to April 23, 2013. Your main focus should be on events, developments, and international responses within that timeframe, with a specific emphasis on the experiences of the Rohingya population. Reports or analysis of earlier ethnic conflicts are not a priority and should only be included as context if strictly necessary.
+
+---
+
+**Specific Instructions:**
+
+1. **Timeframe Focus**
+   - Only include information and events from June 2012 up to April 23, 2013.
+   - Earlier or later events are not within the scope unless absolutely necessary for minimal contextual background.
+
+2. **Ethnic Group Focus**
+   - Focus on the Rohingya population, especially regarding evidence or documented claims of ethnic cleansing during the specified period.
+
+3. **Key Dimensions to Cover**
+   - Chronology of main events involving the Rohingya from June 2012 to April 23, 2013.
+   - Nature and scale of violence or displacement during this period.
+   - Role and actions of the Myanmar authorities and security forces.
+   - Responses by local and national political actors.
+   - Humanitarian and international reactions (e.g., United Nations, NGOs, neighboring countries).
+   - Available data on casualties, displaced populations, camps, and humanitarian conditions.
+   - Major media investigations and human rights reports.
+
+4. **Source Requirements**
+   - Prioritize linking to or citing official sources and primary reports wherever possible:
+     - United Nations reports
+     - Reports by reputable human rights organizations (e.g., Human Rights Watch, Amnesty International)
+     - Official government or intergovernmental findings
+     - Major international media (e.g., BBC, Al Jazeera, The Guardian, Reuters, New York Times) when covering events directly
+   - Avoid relying on secondary summaries or opinion blogs; prioritize direct accounts or contemporaneous reporting.
+
+5. **Open-Ended/Unspecified Attributes**
+   - No specific geographical focus within Myanmar is required, as long as the events pertain to the Rohingya.
+   - No stated preference for language, so please gather sources in English by default unless crucial documents are only available in other languages.
+
+6. **Output Format and Structure**
+   - Please produce a report with clear headings and logical structure, comprising:
+     - Executive Summary
+     - Chronology of Events (June 2012 – April 23, 2013)
+     - Humanitarian Impact Overview
+     - Role of State and Non-State Actors
+     - International and Humanitarian Response
+     - Data Table: Events, dates, locations, affected populations, casualties/displacements (if available)
+     - List of Primary Sources and Key Reports (include hyperlinks wherever possible)
+
+7. **Language**
+   - Please write your report in English.
+
+---
+
+**Summary Table Requested:**
+Include a table that captures the following attributes for each major incident or event:
+| Date         | Location         | Description of Event             | Estimated Affected Rohingya | Source/Link                      |
+|--------------|-----------------|----------------------------------|-----------------------------|----------------------------------|
+
+---
+
+**Final Note:**
+If you encounter dimensions that are ambiguous due to lack of data within the timeframe, clearly state these limitations in your report.
+
+Please do not include events outside of June 2012 to April 23, 2013, unless strictly necessary for minimal context.
+
+Prompt 50:
+Instructions for the Researcher:
+
+1. **Objective**  
+   I want to learn more about Chrissy Amphlett, the singer of "I Touch Myself," focusing on:
+   - Who she was (her background and career highlights)
+   - Details and cause of her early death
+   - Information primarily from trustworthy sources within the music community (e.g., specialized magazines or reputable music journalism outlets)
+
+2. **Content to Include**
+   - A concise biography: birthplace, musical career, notable achievements, and her association with "I Touch Myself."
+   - A clear description of the circumstances and cause of Chrissy Amphlett’s death, emphasizing why it is described as “early.”
+   - The date of her passing and her age at the time of death.
+   - Any notable impact or statements from the music community regarding her death.
+
+3. **Source Requirements**
+   - Prioritize information from authoritative music-focused publications. For example: Rolling Stone, NME, Billboard, Pitchfork, Spin, billboard.com, or the official websites/social media of bands she was part of (like Divinyls).
+   - If possible, include links to original announcements, obituaries, or tribute articles from these sources.
+   - Avoid using only general news outlets unless absolutely necessary.
+
+4. **Format and Structure**
+   - Present the research as a structured report with clear headers (e.g., Introduction, Biography, Cause of Death, Sources, etc.) for clarity.
+   - Create a table summarizing key biographical details: full name, date of birth, date of death, age at death, primary band(s), main genre, most famous song(s), and primary cause of death.
+   - Wherever precise dates, quotes, or figures are mentioned, cite the source.
+   - Provide direct links to music publication sources.
+
+5. **Open-Ended Points**
+   - If there is relevant public reaction or historical impact within the music scene (such as tribute concerts or articles), please include a brief summary, but this is open-ended.
+   - If there are multiple explanations or conflicting reports about the cause of death, include all with an explanation.
+
+6. **Language**
+   - Respond in English, unless requested otherwise.
+
+7. **Expected Output**
+   - A neatly structured report with headers.
+   - A summary table as described above.
+   - A list of reference links at the end, favoring specialized music sources.
+
+If any necessary attribute (e.g., specific years) cannot be found in music sources, you may supplement with reputable general news sources, but these should always be clearly noted as such.
+

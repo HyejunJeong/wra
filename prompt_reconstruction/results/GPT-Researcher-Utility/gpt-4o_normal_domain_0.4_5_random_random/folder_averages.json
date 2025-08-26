@@ -1,0 +1,24 @@
+{
+  "reconstructed_Evaluation Set - SESSION14-GR-GPT4.csv": {
+    "avg_sbert_similarity": 0.4525556407868862,
+    "avg_llm_judge_similarity": 0.35,
+    "avg_obels_functional_equivalence": 0.7650000000000002,
+    "avg_obels_domain_type_equivalence": 0.7000000000000001,
+    "avg_obels_semantic_equivalence": 0.515,
+    "avg_obels_entity_granularity_tolerance": 0.6499999999999998,
+    "num_samples": 20
+  },
+  "overall_folder_averages": {
+    "avg_sbert_similarity": 0.4525556407868862,
+    "avg_llm_judge_similarity": 0.35,
+    "avg_obels_functional_equivalence": 0.7650000000000002,
+    "avg_obels_domain_type_equivalence": 0.7000000000000001,
+    "avg_obels_semantic_equivalence": 0.515,
+    "avg_obels_entity_granularity_tolerance": 0.6499999999999998,
+    "total_samples": 20,
+    "num_files": 1,
+    "processed_files": [
+      "reconstructed_Evaluation Set - SESSION14-GR-GPT4.csv"
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+Unnamed: 0,prompts,reconstructed_prompt,sbert_similarity,llm_judge_similarity,original_prompt_triplets,reconstructed_prompt_triplets,obels_functional_equivalence,obels_domain_type_equivalence,obels_semantic_equivalence,obels_entity_granularity_tolerance
+0,A friend from Kenya is visiting you and you'd like to surprise him with by cooking a traditional Swahili dish. You want to learn about Swahili dishes and how to cook them. Find web pages about Swahili home cooking.,"Your friend is interested in the Mombasa cuisine and culture, particularly in its colonial past. They are going to visit the city soon and wants to know more about the food there. What type of dishes are usually found in the region and how do they taste like? Is there any special ingredient commonly used there? When did this cuisine develop in history? Tell me something interesting about it.",0.4806683361530304,0.5,"[
+  (""learn"", ""cuisine"", ""Swahili dishes""),
+  (""explore"", ""cooking_method"", ""traditional Swahili cooking""),
+  (""get_info"", ""web_pages"", ""Swahili home cooking"")
+]","[
+  (""learn"", ""cuisine"", ""Mombasa cuisine""),
+  (""explore"", ""cuisine"", ""dishes in Mombasa""),
+  (""analyze"", ""cuisine"", ""taste of Mombasa dishes""),
+  (""get_info"", ""cuisine"", ""special ingredients in Mombasa""),
+  (""learn"", ""cuisine"", ""history of Mombasa cuisine""),
+  (""get_info"", ""cuisine"", ""interesting facts about Mombasa cuisine"")
+]",0.8,0.8,0.5,0.7
+1,"You want to know what city and state Dulles airport is in; what shuttles, ride-sharing vans, and taxi cabs connect the airport to other cities; what hotels are close to the airport; where cheap off-airport parking is; and where metro stops close to Dulles airport are.",You're going on a business trip to Washington DC next week and you'd like to stay at one of the hotels near Washington Dulles International Airport. Do some research about the airport shuttles and car rental services. What can you find out?,0.5714225769042969,0.7,"[
+  (""get_info"", ""airport"", ""Dulles airport location""),
+  (""explore"", ""transportation"", ""shuttles from Dulles airport""),
+  (""explore"", ""transportation"", ""ride-sharing vans from Dulles airport""),
+  (""explore"", ""transportation"", ""taxi cabs from Dulles airport""),
+  (""explore"", ""accommodation"", ""hotels near Dulles airport""),
+  (""explore"", ""parking"", ""cheap off-airport parking near Dulles airport""),
+  (""explore"", ""public_transport"", ""metro stops near Dulles airport"")
+]","[
+  (""plan"", ""travel"", ""business trip to Washington DC""),
+  (""explore"", ""accommodation"", ""hotels near Washington Dulles International Airport""),
+  (""get_info"", ""transportation"", ""airport shuttles""),
+  (""get_info"", ""transportation"", ""car rental services""),
+  (""target"", ""time"", ""next week"")
+]",0.8,0.8,0.7,0.9
+2,Suppose you have earned a Masters degree in Business. You want to find information to help you decide whether it is worth getting a PhD in Business or not. Find web pages that will help with a cost/benefit analysis of advanced education in Business.,"You're looking for some sort of alternative degree program for an MBA. You want something that's going to be more flexible and cost-efficient than traditional university programs. You'd like to know about schools that have part-time MBA's for working students, programs without GMAT requirements (or that accept GRE), and accelerated/condensed schedules.",0.37062856554985046,0.3,"[
+  (""decide"", ""academic_field"", ""PhD in Business""),
+  (""analyze"", ""academic_field"", ""advanced education in Business""),
+  (""get_info"", ""web_pages"", ""cost/benefit analysis of advanced education in Business"")
+]","[
+  (""explore"", ""academic_field"", ""alternative degree programs for MBA""),
+  (""get_info"", ""academic_field"", ""part-time MBA programs for working students""),
+  (""get_info"", ""academic_field"", ""MBA programs without GMAT requirements""),
+  (""get_info"", ""academic_field"", ""MBA programs that accept GRE""),
+  (""get_info"", ""academic_field"", ""accelerated MBA programs"")
+]",0.8,1.0,0.5,0.6
+3,"Your friend would like to quit smoking. You would like to provide him with relevant information about: different ways to quit smoking, programs available to help quit smoking, benefits of quitting smoking, second effects of quitting smoking, using hypnosis to quit smoking, using the cold turkey method to quit smoking","Someone who has been smoking for some time is interested in smoking cessation and wants to learn about it online. Their specific questions are as follows: Why do I want to stop smoking and what are the benefits? What are some techniques I can use to quit? Is vaping safe compared to cigarettes? Can I get help on medication? What are their side effects? Is NRT therapy effective? What are some side effects and benefits of using e-cigarettes? Are there any new therapies to quit smoking? What are the challenges faced by smokers who try quitting? Finally, how much nicotine is it safe to consume?",0.6455568075180054,0.6,"[
+  (""learn"", ""treatment_method"", ""different ways to quit smoking""),
+  (""learn"", ""program"", ""programs available to help quit smoking""),
+  (""learn"", ""benefit"", ""benefits of quitting smoking""),
+  (""analyze"", ""effect"", ""side effects of quitting smoking""),
+  (""learn"", ""treatment_method"", ""using hypnosis to quit smoking""),
+  (""learn"", ""treatment_method"", ""using the cold turkey method to quit smoking"")
+]","[
+  (""learn"", ""smoking cessation"", ""benefits of quitting smoking""),
+  (""analyze"", ""smoking cessation"", ""reasons to stop smoking""),
+  (""explore"", ""smoking cessation"", ""techniques to quit smoking""),
+  (""compare"", ""smoking products"", ""vaping vs cigarettes""),
+  (""get_info"", ""medication"", ""help for quitting smoking""),
+  (""analyze"", ""medication"", ""side effects of quitting smoking medications""),
+  (""evaluate"", ""treatment method"", ""effectiveness of NRT therapy""),
+  (""analyze"", ""e-cigarettes"", ""side effects and benefits of using e-cigarettes""),
+  (""explore"", ""smoking cessation"", ""new therapies to quit smoking""),
+  (""analyze"", ""smoking cessation"", ""challenges faced by smokers trying to quit""),
+  (""get_info"", ""nicotine consumption"", ""safe levels of nicotine consumption"")
+]",0.8,0.8,0.7,0.6
+4,Suppose you are writing an article about face transplants. You want general information about face transplants and how face transplants affect the lives of patients. Find web pages about face transplants.,"You are a patient who is suffering from an organ failure that might need a transplant in near future. However, you don't want to wait too long and then risk your own life when the time comes. You were wondering if there are other ways of getting help besides waiting for your turn for the transplant. Can we explore some unconventional means?",0.2535437047481537,0.1,"[
+  (""get_info"", ""medical_procedure"", ""face transplants""),
+  (""analyze"", ""medical_outcome"", ""impact on patients""),
+  (""explore"", ""web_pages"", ""face transplants"")
+]","[
+  (""explore"", ""treatment_method"", ""unconventional means for organ failure""),
+  (""target"", ""urgency"", ""immediate assistance"")
+]",0.5,0.6,0.4,0.5
+5,One of your friends from Kenya invited you to attend a party in his house and have a taste of traditional Swahili dishes. You would like to find some general information about Swahili dishes. Find web pages that describe traditional Swahili dishes.,"Swahili is a Bantu language spoken in various countries in Africa, including Kenya, Tanzania, and Mozambique, as well as Uganda, Rwanda, and Zanzibar. It developed as a ""lingua franca"" in East Africa during the 19th century. Today it has approximately ten million speakers in East Africa and millions more in the global African diaspora. The vocabulary incorporates borrowings from Arabic (which has been used for trade in the area for many centuries) and colonial languages (English, French, and Portuguese). Although often regarded as a ""creole"", Swahili is actually a distinct language with some internal variety. What are the similarities and differences between Swahili foods in different regions?",0.5713791251182556,0.2,"[
+  (""get_info"", ""cuisine"", ""traditional Swahili dishes""),
+  (""target"", ""event"", ""party in Kenya"")
+]","1. (learn, cuisine, Swahili foods)
+2. (compare, cuisine, Swahili foods in different regions)",0.8,1.0,0.7,0.9
+6,"In 2000, the Russian nuclear submarine Kursk sank in the Barents Sea. You want to try to understand: How did the political climate in Russia at the time contribute to the accident and exarcerbate its effects? Find web pages that explain how the sinking related to Russian politics.","A Russian submarine, named the Losharik, was caught in an accident that could not be salvaged. I am curious about the events and what could have happened leading up to this loss of life. Can you research and analyze the incident?",0.5207598805427551,0.3,"1. (""analyze"", ""event"", ""Kursk submarine sinking"")
+2. (""learn"", ""political_climate"", ""Russia 2000"")
+3. (""get_info"", ""web_pages"", ""Kursk submarine sinking and Russian politics"")","[
+  (""analyze"", ""event"", ""Losharik submarine accident""),
+  (""learn"", ""event"", ""causes of the incident"")
+]",0.8,0.8,0.5,0.6
+7,"You heard something about a Russian submarine Kursk sinking today, and want to search to know more details about this event. When did the submarine sink? Who was the on-board commander of the submarine? The submarine was part of which Russian fleet? How many crewmen were lost in the disaster? Which countries expressed regret about the loss? In what sea did the submarine sink? Which U.S. submarines were reportedly in the area?","In December 2022, Russia launched its second ballistic missile submarine from the Barents Sea. This vessel is expected to be operational in 2024. Provide a short history of Russian submarine operations and describe this latest missile submarine, including its location, when it began operation, its size, the number and type of its nuclear weapons, and the nuclear reactor used to propel it.",0.5707570910453796,0.0,"[
+  (""learn"", ""event"", ""Kursk submarine sinking""),
+  (""get_info"", ""event"", ""date of sinking""),
+  (""get_info"", ""event"", ""on-board commander""),
+  (""get_info"", ""event"", ""Russian fleet""),
+  (""get_info"", ""event"", ""crewmen lost""),
+  (""get_info"", ""event"", ""countries expressing regret""),
+  (""get_info"", ""event"", ""sea of sinking""),
+  (""get_info"", ""event"", ""U.S. submarines in area"")
+]","[
+  (""learn"", ""military_history"", ""Russian submarine operations""),
+  (""get_info"", ""submarine"", ""latest ballistic missile submarine""),
+  (""target"", ""date"", ""December 2022""),
+  (""target"", ""location"", ""Barents Sea""),
+  (""target"", ""date"", ""2024""),
+  (""target"", ""size"", ""unknown""),
+  (""target"", ""nuclear_weapons"", ""number and type of nuclear weapons""),
+  (""target"", ""nuclear_reactor"", ""nuclear reactor used"")
+]",0.8,0.6,0.5,0.7
+8,"""Bollywood"", the film industry based in Mumbai, India, is one of the biggest and still fastest-growing film industries in the world. What policies and legislation has the government of India enacted to encourage its continued growth? Find web pages about the growth of Bollywood and its relation to Indian politics.","India's film industry, popularly known as ""Bollywood"", is one of the most prominent and successful film industries in the world. It has evolved significantly since its inception in 1913. Explore and find information about India’s famous Bollywood industry. The information should cover aspects like origins, achievements, growth, cultural influence, recent performance and more.",0.7804377675056458,0.6,"[
+  (""learn"", ""policy_area"", ""Bollywood growth policies""),
+  (""get_info"", ""web_pages"", ""Bollywood growth and Indian politics"")
+]","[
+  (""explore"", ""film_industry"", ""Bollywood""),
+  (""learn"", ""film_industry"", ""origins""),
+  (""learn"", ""film_industry"", ""achievements""),
+  (""learn"", ""film_industry"", ""growth""),
+  (""learn"", ""film_industry"", ""cultural influence""),
+  (""learn"", ""film_industry"", ""recent performance"")
+]",0.8,0.8,0.5,0.6
+9,"Suppose you are writing an essay about a tax on ""junk food"". In your essay, you need to argue whether it's a good idea for a government to tax junk food and high-calorie snacks. Find web pages supporting an argument in favor of a junk food tax.",You have been asked to summarize the evidence on obesity-related costs and the economics of taxing sugar-sweetened beverages. You need to provide an answer to this question for the person who asked it with sources that are scholarly and written in English.,0.31316518783569336,0.3,"[
+  (""learn"", ""policy_area"", ""junk food tax""),
+  (""explore"", ""argument"", ""supporting junk food tax""),
+  (""get_info"", ""web pages"", ""arguments in favor of junk food tax"")
+]","[
+  (""summarize"", ""economics"", ""obesity-related costs""),
+  (""summarize"", ""economics"", ""taxing sugar-sweetened beverages""),
+  (""get_info"", ""scholarly sources"", ""English"")
+]",0.5,0.5,0.4,0.6
+10,Do infants age 0-12 months experience different developmental milestones depending on culture?,What are some signs and symptoms of autism and how are they diagnosed? How are children with ASD assessed for intervention? What are some evidence-based early interventions and why are these important? How prevalent is autism? What factors contribute to prevalence?,0.15761150419712067,0.0,"[
+  (""learn"", ""developmental_milestones"", ""infants 0-12 months""),
+  (""analyze"", ""cultural_influence"", ""developmental milestones"")
+]","[
+  (""learn"", ""symptom"", ""autism""),
+  (""learn"", ""diagnosis"", ""autism""),
+  (""analyze"", ""assessment"", ""children with ASD""),
+  (""learn"", ""intervention"", ""evidence-based early interventions""),
+  (""analyze"", ""importance"", ""early interventions""),
+  (""learn"", ""prevalence"", ""autism""),
+  (""analyze"", ""factors"", ""prevalence of autism"")
+]",0.5,0.6,0.5,0.7
+11,"You would like to write a report about interesting weddings traditions of different cultures, religions, and ethnic groups. Find information about wedding ceremonies that you think are the most fascinating and different than what you are used to.","What are common wedding traditions and where do they originate?  As you consider your upcoming wedding, do some research into various traditions. From something as simple as wearing a white dress, to a more complicated wedding arch, what are the origins of common western weddings?",0.6156930923461914,0.5,"[
+  (""learn"", ""wedding_traditions"", ""different cultures, religions, and ethnic groups""),
+  (""get_info"", ""wedding_ceremonies"", ""most fascinating and different"")
+]","[
+  (""learn"", ""wedding_traditions"", ""common wedding traditions""),
+  (""explore"", ""wedding_traditions"", ""various traditions""),
+  (""analyze"", ""wedding_traditions"", ""origins of common western weddings""),
+  (""plan"", ""wedding"", ""upcoming wedding"")
+]",0.8,1.0,0.5,0.6
+12,"France won its first (and only) World Cup in 1998. Find information about the reaction of French people and institutions (such as stock markets), and studies about these reactions.",In 2021 French national football team was dropped out of the tournament by the hands of the Swiss national team. Switzerland's soccer is not very strong. What is the reason for this?,0.4169117510318756,0.1,"[
+  (""get_info"", ""event"", ""France World Cup 1998 reaction""),
+  (""analyze"", ""reaction"", ""French people and institutions""),
+  (""learn"", ""study"", ""reactions to France World Cup 1998"")
+]","1. (""analyze"", ""sports"", ""Switzerland's soccer strength"")
+2. (""summarize"", ""event"", ""2021 French national football team tournament exit"")",0.5,0.8,0.4,0.5
+13,"For a philosophy assignment, you need to compare evidence that supports the existence of God to evidence that supports the naturalism theory, and infer whether God exists or not. Find web pages to help support your argument.","In a debate between Richard Carrier and William Lane Craig, it was claimed that Christians do not believe in a “God of the gaps,” but rather a God of all things. It was further asserted that one does not have to show that a “miracle” happened, but that, within the context of history, there is evidence to show how God might have been involved in the world at large. How compelling is this evidence? How reasonable is it to hold such a position?",0.47151249647140503,0.3,"[
+  (""compare"", ""philosophy"", ""evidence for the existence of God""),
+  (""compare"", ""philosophy"", ""evidence for naturalism theory""),
+  (""analyze"", ""philosophy"", ""existence of God""),
+  (""get_info"", ""web pages"", ""supporting argument for existence of God vs naturalism"")
+]","[
+  (""analyze"", ""debate"", ""evidence for God's involvement in history""),
+  (""evaluate"", ""belief"", ""God of all things""),
+  (""compare"", ""belief"", ""God of the gaps vs God of all things""),
+  (""decide"", ""position"", ""reasonableness of holding belief in God's involvement"")
+]",0.8,0.6,0.5,0.7
+14,"For economic reasons, you wish to switch from regular phones to internet phone services. You want to know: the best internet phone services, the cheapest internet phone services, the providers of VOIP internet phone services, features that great VOIP services have, providers that offer free calls from the US to some European countries, expert reviews about VOIP providers.","You want to compare VoIP services in the telecommunications market to decide whether or not it's a good idea to migrate to an entirely VoIP infrastructure for your business. To make a solid business case for doing so, you want to take into consideration cost, performance, features and benefits, scalability, security, compliance requirements, availability, customer support, and any other relevant considerations. Find the latest research reports with insights and stats to substantiate your decision-making process.",0.6819498538970947,0.5,"[
+  (""explore"", ""internet_phone_services"", ""best internet phone services""),
+  (""compare"", ""internet_phone_services"", ""cheapest internet phone services""),
+  (""get_info"", ""internet_phone_services"", ""providers of VOIP internet phone services""),
+  (""learn"", ""internet_phone_services"", ""features that great VOIP services have""),
+  (""get_info"", ""internet_phone_services"", ""providers that offer free calls from the US to some European countries""),
+  (""evaluate"", ""internet_phone_services"", ""expert reviews about VOIP providers"")
+]","1. (compare, telecommunications, VoIP services)
+2. (decide, telecommunications, VoIP infrastructure)
+3. (analyze, telecommunications, cost)
+4. (analyze, telecommunications, performance)
+5. (analyze, telecommunications, features and benefits)
+6. (analyze, telecommunications, scalability)
+7. (analyze, telecommunications, security)
+8. (analyze, telecommunications, compliance requirements)
+9. (analyze, telecommunications, availability)
+10. (analyze, telecommunications, customer support)
+11. (get_info, research, latest research reports)",0.8,0.8,0.6,0.7
+15,"In your attempt to get fit, you are looking for information on what possibilities (types of physical exercises, diets, etc...) will help you achieve your fitness goal. Find web pages about different weight loss possibilities.","Find scientific reports on the effects of magnesium on heart health and other cardiovascular benefits, e.g., lower risk for coronary heart disease (CHD), high blood pressure, stroke, metabolic syndrome, etc. Are there conditions under which magnesium supplementation can be used in lieu of other medications? What does the research literature suggest about whether the dosage of magnesium affects the benefits it has on heart health?",0.20806258916854858,0.0,"1. (""explore"", ""fitness"", ""physical exercises"")
+2. (""explore"", ""fitness"", ""diets"")
+3. (""get_info"", ""weight loss"", ""possibilities"")","[
+  (""learn"", ""scientific_report"", ""effects of magnesium on heart health""),
+  (""analyze"", ""scientific_report"", ""cardiovascular benefits of magnesium""),
+  (""explore"", ""scientific_report"", ""conditions for magnesium supplementation instead of medications""),
+  (""analyze"", ""scientific_report"", ""dosage of magnesium and its effects on heart health"")
+]",0.5,0.2,0.4,0.3
+16,A friend has been complaining for months that she is unhappy with her life. She has also mentioned that she can't easily sleep at nights. You think that she may be suffering from depression. You want to understand if this is the case and how you could assist her in getting some help from medical professionals.,What are the effects of poor mental health on the workplace? How many days of work do people lose due to mental health? What kind of conditions do the employees suffer from? Are there any programs in place to combat this issue?,0.35200318694114685,0.1,"[
+  (""analyze"", ""symptom"", ""depression""),
+  (""learn"", ""treatment_method"", ""assistance from medical professionals"")
+]","[
+  (""analyze"", ""mental_health"", ""workplace_effects""),
+  (""get_info"", ""mental_health"", ""days_lost_due_to_mental_health""),
+  (""get_info"", ""mental_health"", ""conditions_employees_suffer_from""),
+  (""explore"", ""mental_health"", ""programs_to_combat_issue"")
+]",0.8,0.8,0.5,0.6
+17,Pseudocyesis is the appearance of clinical and/or subclinical signs and symptoms associated with pregnancy when the organism is not actually pregnant. What are the recent advances in understanding the causes of this disorder?,"You were interested in understanding the side effects and potential consequences of taking clomifene for fertility treatment. To do so, you reviewed information on clomiphene from clinical trials and literature that explains the safety and efficacy of this drug in infertility conditions. You also looked for information about possible side effects (e.g., in the Journal of Medical & Health Science) and other considerations (e.g., interaction with antidepressants).",0.3368320167064667,0.0,"[
+  (""learn"", ""medical_condition"", ""pseudocyesis""),
+  (""analyze"", ""medical_research"", ""causes of pseudocyesis"")
+]","[
+  (""learn"", ""treatment_method"", ""clomifene""),
+  (""analyze"", ""clinical_trials"", ""safety and efficacy of clomifene in infertility""),
+  (""get_info"", ""side_effects"", ""clomifene""),
+  (""explore"", ""academic_field"", ""interaction with antidepressants"")
+]",0.5,0.6,0.4,0.5
+18,You are planning a winter vacation to the Pocono Mountains region in Pennsylvania in the US. Where will you stay? What will you do while there? How will you get there?,"You want to plan an ski trip with your friends during winter break and want some places in the eastern United States that aren't too far from New York City. You're looking for the best ski destinations, good places to stay, what kind of terrain you will find, what bus companies go there, etc.",0.4407871961593628,0.7,"[
+  (""plan"", ""travel"", ""winter vacation to the Pocono Mountains""),
+  (""get_info"", ""accommodation"", ""places to stay in the Pocono Mountains""),
+  (""explore"", ""activities"", ""things to do in the Pocono Mountains""),
+  (""analyze"", ""transportation"", ""ways to get to the Pocono Mountains"")
+]","[
+  (""plan"", ""travel"", ""ski trip""),
+  (""explore"", ""destination"", ""ski destinations in the eastern United States""),
+  (""get_info"", ""accommodation"", ""places to stay""),
+  (""analyze"", ""terrain"", ""ski terrain""),
+  (""get_info"", ""transportation"", ""bus companies"")
+]",0.8,0.8,0.5,0.6
+19,"You have decided that you want to reduce the use of air conditioning in your house. You've thought that if you could protect the roof being overly hot due to sun exposure, you could keep the house temperature low without the excessive use of air conditioning. Find information of whether this is possible and how it could be done.","The original user prompt may be phrased as follows: ""What are some strategies for greening one's roof?"" The agent has found several materials related to the use of solar panels, as well as a range of more passive technologies and installation methods that might reduce heating demand in urban settings. Notably, it doesn't find much discussion about these technologies, but instead finds mostly manufacturer websites promoting their various products as environmentally-friendly options for roofing.",0.5299134850502014,0.4,"[
+  (""learn"", ""home_improvement"", ""reduce air conditioning use""),
+  (""get_info"", ""roof_insulation"", ""protect roof from sun exposure""),
+  (""analyze"", ""energy_efficiency"", ""keep house temperature low"")
+]","[
+  (""learn"", ""cooking_method"", ""strategies for greening one's roof""),
+  (""explore"", ""material"", ""solar panels""),
+  (""explore"", ""technology"", ""passive technologies""),
+  (""explore"", ""installation_method"", ""installation methods for reducing heating demand""),
+  (""get_info"", ""product"", ""environmentally-friendly roofing options"")
+]",0.5,0.6,0.4,0.5

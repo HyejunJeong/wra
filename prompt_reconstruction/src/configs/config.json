@@ -1,0 +1,31 @@
+{ 
+  "openai_api_key": "your_openai_key",
+  "claude_api_key": "your_claude_key",
+  "gemini_api_key": "your_gemini_key",
+  "model": "gpt-4o",
+  "max_tokens": 200,
+  "temperature": 0.3, 
+  "traning_data_folder": "data/GPT-Researcher-Utility/Training",
+  "test_data_folder": "data/GPT-Researcher-Utility/Evaluation",
+  "output_dir": "output/GPT-Researcher-Utility",
+  "sampling_ratio": 0.8,
+  "min_domains": 2,
+  "defence": false,
+  "timing_info": false,
+
+  "icl_type": "normal",
+  "icl_contrastive_strategy": "simple",
+  "icl_contrastive_num_negatives": 1,
+  "icl_contrastive_quality_threshold": 0.48,
+
+  "icl_trace_type": "domain",
+  "icl_num_examples": 5,
+  "icl_selection_strategy": "random",
+  "icl_ordering_strategy": "random",
+
+
+  "contrastive_temperature": 0.8,
+  "contrastive_max_tokens": 60,
+  "experiment_description": "random ICL selection and ordering",
+  "seed": 42
+} 

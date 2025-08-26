@@ -1,0 +1,2 @@
+file,avg_sbert_similarity,avg_llm_judge_similarity,avg_obels_functional_equivalence,avg_obels_domain_type_equivalence,avg_obels_semantic_equivalence,avg_obels_entity_granularity_tolerance
+reconstructed_Evaluation Set - SESSION14-GR-GPT4.csv,0.4700324982404709,0.38499999999999995,0.7250000000000002,0.6900000000000001,0.52,0.6699999999999998

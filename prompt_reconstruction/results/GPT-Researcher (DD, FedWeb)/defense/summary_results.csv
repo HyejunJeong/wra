@@ -1,0 +1,2 @@
+file,avg_sbert_similarity,avg_llm_judge_similarity,avg_obels_functional_equivalence,avg_obels_domain_type_equivalence,avg_obels_semantic_equivalence,avg_obels_entity_granularity_tolerance
+reconstructed_Evaluation Set - Defense-SESSION14-GR-GPT4-3.csv,0.3953977429307997,0.225,0.6600000000000001,0.645,0.45,0.5699999999999998

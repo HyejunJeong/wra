@@ -56,17 +56,45 @@ For trait inference, we use **SynthLabsAI/PERSONA_subset**, a synthetic persona 
 
 **Requirements:** Python 3.10+  
 
-Install dependencies:
+Install core dependencies:
 ```bash
 pip install openai anthropic google-generativeai pandas numpy matplotlib scikit-learn sentence-transformers tqdm
 ```
-## Environment variables:
 
+### Additional Agent Packages
+To run the agents included in this repository, install the following:
+
+- **GPT-Researcher**  
+  ```bash
+  pip install gpt-researcher
+  ```  
+  Docs: [GPT-Researcher Pip Package](https://docs.gptr.dev/docs/gpt-researcher/gptr/pip-package)  
+
+- **Browser-Use**  
+  ```bash
+  pip install browser-use
+  ```  
+  Repo: [browser-use](https://github.com/browser-use/browser-use)  
+
+- **AutoGen**  
+  ```bash
+  pip install -U "autogen-agentchat" "autogen-ext[openai]"
+  ```  
+  Repo: [microsoft/autogen](https://github.com/microsoft/autogen)  
+
+### Running GPT-Researcher with Local Models
+If you prefer to use **GPT-Researcher with a local LLM** instead of API providers, you’ll need to deploy the backbone model locally (e.g., using **Ollama**).  
+Follow this guide: [Running with Ollama](https://docs.gptr.dev/docs/gpt-researcher/llms/running-with-ollama).  
+
+### Environment Variables
+Set API keys as needed:
 ```bash
 export OPENAI_API_KEY=...
 export ANTHROPIC_API_KEY=...
 export GOOGLE_API_KEY=...
 ```
+
+---
 
 ## Usage
 
@@ -78,7 +106,7 @@ Run the following notebooks to generate traces and evaluate reconstruction:
 - [autogen.ipynb](./autogen.ipynb)  
 - [browser-use.ipynb](./browser-use.ipynb)  
 - [openai-deep_research.ipynb](./openai-deep_research.ipynb)
-  
+
 These notebooks generate domain traces from TREC prompts.  
 You can then evaluate reconstruction using **ICL vs. fine-tuning** under multiple LLMs.  
 
@@ -113,6 +141,7 @@ This notebook implements:
 
 It evaluates defense effectiveness by measuring reductions in reconstruction and inference accuracy.
 
+---
 
 ## Reproducing Figures
 

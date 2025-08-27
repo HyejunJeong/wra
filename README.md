@@ -42,11 +42,22 @@ wra/
 
 We use standard IR benchmarks to generate domain traces:
 
-- **TREC FedWeb 2013** (50 topics)  
-- **TREC Session 2014**  
-- **TREC Dynamic Domain 2016**
+- **FEDWEB13** from [TREC FedWeb 2013](https://trec.nist.gov/data/federated/2013/fedweb13_50topics.xml)  
+- **SESSION14** from [TREC Session 2014](https://trec.nist.gov/data/session2014.html)  
+- **DD16** from [TREC Dynamic Domain 2016](https://trec.nist.gov/data/domain2016.html)  
 
-Download from the [TREC Data Repository](https://trec.nist.gov/data.html) and place them under `data/`.
+Prepared datasets are organized as:
+- `data/trace/` — collected domain traces  
+- `data/prompt/` — input prompts  
+
+**Trace collection details:**  
+- Traces are collected using **GPT-Researcher** with two backbone settings:  
+  - **Local LLM backbone** (e.g., via Ollama)  
+  - **GPT-4 backbone**  
+- Prompts with a **`-DR`** suffix are rewritten for compatibility with **OpenAI Deep Research**.  
+- Within `data/trace/`, filenames follow the convention:  
+  - `log_001.json` → corresponds to **prompt #001** in the dataset  
+  - numbering aligns with the associated dataset’s prompt index.  
 
 For trait inference, we use **SynthLabsAI/PERSONA_subset**, a synthetic persona dataset with 32 annotated traits.
 
